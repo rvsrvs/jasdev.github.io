@@ -13,7 +13,7 @@ gems:
 # Setup
 title:            '@jasdev'
 tagline:          'Software Engineer'
-description:      'Hi, I''m <a href="https://twitter.com/jasdev" target="_blank">Jasdev</a> 👋 I work at <a href="http://imgur.com" target="_blank">Imgur</a> as an iOS and API Engineer 📲'
+description:      'Hi, I''m <a href="https://twitter.com/jasdev" target="_blank">Jasdev</a> <span>👋</span> I work at <a href="http://imgur.com" target="_blank">Imgur</a> as an iOS and API Engineer <span>📲</span>'
 url:              http://jasdev.github.io
 baseurl:          /
 

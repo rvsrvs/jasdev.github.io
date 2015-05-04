@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>@jasdev</title>
- <link href="http://jas.dev/atom.xml" rel="self"/>
- <link href="http://jas.dev/"/>
- <updated>2015-05-03T20:03:16-04:00</updated>
- <id>http://jas.dev</id>
+ <link href="http://jasdev.github.io/atom.xml" rel="self"/>
+ <link href="http://jasdev.github.io/"/>
+ <updated>2015-05-03T20:59:12-04:00</updated>
+ <id>http://jasdev.github.io</id>
  <author>
    <name>Jasdev Singh</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>On Forming Habits</title>
-   <link href="http://jas.dev/2013/08/13/on-forming-habits/"/>
+   <link href="http://jasdev.github.io/2013/08/13/on-forming-habits/"/>
    <updated>2013-08-13T00:00:00-04:00</updated>
-   <id>http://jas.dev/2013/08/13/on-forming-habits</id>
+   <id>http://jasdev.github.io/2013/08/13/on-forming-habits</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Originally posted on &lt;a href=&quot;https://medium.com/experiences-of-a-student-hacker/on-forming-habits-e9a2a705edf0&quot;&gt;Medium&lt;/a&gt;. Notes inserted as quotes.&lt;/p&gt;
 &lt;/blockquote&gt;
