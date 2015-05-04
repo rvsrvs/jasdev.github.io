@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Forming Habits
+permalink: on-forming-habits
 ---
 
   > Originally posted on [Medium](https://medium.com/experiences-of-a-student-hacker/on-forming-habits-e9a2a705edf0). Notes inserted as quotes.
