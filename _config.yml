@@ -9,6 +9,7 @@ relative_permalinks: true
 # Gems
 gems:
   - jemoji
+  - jekyll-redirect-from
 
 # Setup
 title:            '@jasdev'
