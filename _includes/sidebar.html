@@ -15,7 +15,7 @@
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" and node.title != "thesis-redirect" %}
+          {% if node.layout == "page" and node.title != "thesis-redirect" and node.title != "Reading List" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
@@ -27,6 +27,7 @@
       <a class="sidebar-nav-item" href="{{ site.coach ”}}" target="_blank">💪 Coach.me</a>
       <a class="sidebar-nav-item" href="{{ site.soundcloud ”}}" target="_blank">🔊 SoundCloud</a>
       <a class="sidebar-nav-item" href="{{ site.instagram ”}}" target="_blank">📷 Instagram</a>
+      <a class="sidebar-nav-item" href="/reading-list/">📚 Reading List</a>
     </nav>
 
     <p>Copyright &copy; {{ site.time | date: '%Y' }} Jasdev Singh</p>
