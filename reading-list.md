@@ -4,7 +4,9 @@ title: Reading List
 permalink: /reading-list/
 ---
 
-In an effort to read more books each year, I've decided to make my reading list public. Below you'll find a list of books I've read (started logging in 2015) and am currently reading!
+In an effort to [read more books](https://www.coach.me/plans/904-read) each year, I've decided to make my reading list public. Below you'll find a list of books I've read (started logging in 2015) and am currently reading!
+
+Have any recommendations? Feel free to let me know on [Twitter](https://twitter.com/jasdev)!
 
 ## 2015
 
