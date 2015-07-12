@@ -4,9 +4,9 @@ title: Intercepting iOS Network Traffic
 permalink: intercepting-ios-traffic
 ---
 
-Ever wanted to write a small wrapper for an iOS app that has an undocumented API? Itching to reverse engineer how it communicates with its backend<sup>1</sup>? You're in luck! 😎 In the past, my friends and I have used this technique to figure out how to programmatically send and receive Snapchats, months after the app's release. This lead to one of the [greatest stories](https://medium.com/@binroot/the-best-jokes-have-no-punchline-5f4713a963d6) we tell today.
+Ever wanted to write a small wrapper for an iOS app that has an undocumented API? Itching to reverse engineer how it communicates with its backend<sup>1</sup>? You're in luck! 😎 In the past, my friends and I have used this technique to figure out how to programmatically send and receive Snapchats, months after the application's release. This lead to one of the [greatest stories](https://medium.com/@binroot/the-best-jokes-have-no-punchline-5f4713a963d6) we tell today.
 
-To sniff an application's network traffic, we're going to use [mitmproxy](http://mitmproxy.org). It's powerful man-in-the-middle proxy that allows you to intercept, modify, replay, and save HTTP/S traffic.
+To sniff an application's network traffic, we're going to use [mitmproxy](http://mitmproxy.org). It's a powerful man-in-the-middle proxy that allows you to intercept, modify, replay, and save HTTP/S traffic.
 
 ### Installing mitmproxy and CA certificate
 
