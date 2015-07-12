@@ -8,7 +8,7 @@ In an effort to read more books each year, I've decided to make my reading list 
 
 ## 2015
 
-- [Design + Code ](https://designcode.io) (complete)
+- [Design + Code](https://designcode.io) (complete)
 - [The Crossroads of Should and Must](https://itunes.apple.com/us/book/crossroads-should-must/id912999065?mt=11)  (complete)
 - [Apple Watch User Guide](https://itunes.apple.com/us/book/apple-watch-user-guide/id985786488?mt=11)  (complete)
 - [Remote](https://itunes.apple.com/us/book/remote/id625981856?mt=11)  (complete)
