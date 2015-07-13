@@ -68,17 +68,17 @@ My friend and I wrote a scraper for UVa's student directory to create a type-ahe
 
 Using the volume buttons on an Android phone, [VibeBack](http://pennapps.challengepost.com/submissions/17219-vibeback) can let your friends know your current geolocation, battery life, send an S.O.S, or a custom message. The hack won 'Best use of Firebase' at PennApps Fall 2013!
 
-### ranker.io, Summer 2013
-
-#### *Node.js*, *PHP*
-
-Building off of the usernames we accumulated from our previous hack, Snapgraph (below), we decided to start an image/video contest on top of Snapchat's platform. Programatically, we sent out over 42k snaps and received thousands of replies and hosted them on ranker.io (deprecated). This kind of hack got a little bit of attention on Hacker News and landed us a trip to visit the Snapchat HQ! My friend wrote about our experience [here](https://medium.com/@binroot/the-best-jokes-have-no-punchline-5f4713a963d6).
-
-### gramtracker.io, Summer 2013
+### gramtracker.io, July 2013
 
 #### *Node.js*, *Underscore.js*
 
 At Twitter's quarterly [hackweek](https://www.youtube.com/watch?v=2oxDsIkwQA8) (look for me @ [0:55](https://youtu.be/2oxDsIkwQA8?t=55s)!), I built a lightweight web app to help people manage their followers on Instagram. Using the underscore.js collections library, the web app helps give you insight on mutual and asymmetric follows! The site has been deprecated, but you can find the source [here](https://github.com/Jasdev/gramtracker)!
+
+### ranker.io, June 2013
+
+#### *Node.js*, *PHP*
+
+Building off of the usernames we accumulated from our previous hack, Snapgraph (below), we decided to start an image/video contest on top of Snapchat's platform. Programatically, we sent out over 42k snaps and received thousands of replies and hosted them on ranker.io (deprecated). This kind of hack got a little bit of attention on Hacker News and landed us a trip to visit the Snapchat HQ! My friend wrote about our experience [here](https://medium.com/@binroot/the-best-jokes-have-no-punchline-5f4713a963d6).
 
 ### Snapgraph, January 2013
 
