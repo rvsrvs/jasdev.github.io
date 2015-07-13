@@ -15,7 +15,7 @@ title: Archive
 
   * 25 Sep 2014 &raquo; [Why Stripe is Becoming the Transaction Layer of the Internet](http://blog.thinkful.com/post/98406708378/why-stripe-is-becoming-the-transaction-layer-of)
 
-  * 02 Sep 2014 &raquo; [Tech Tuesday: Speeding Up Client-Side Applications with ETags](http://imgur.com/blog/2014/09/02/tech-tuesday-speeding-up-client-side-applications-with-etag s/)
+  * 02 Sep 2014 &raquo; [Tech Tuesday: Speeding Up Client-Side Applications with ETags](http://imgur.com/blog/2014/09/02/tech-tuesday-speeding-up-client-side-applications-with-etags/)
 
   * 28 April 2014 &raquo; [UVa Engineering Unbound Magazine](http://www.seas.virginia.edu/pubs/unbound/pdfs/spring14.pdf) (Pages 8 - 9)
 
