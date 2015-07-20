@@ -12,7 +12,7 @@ Below is a list of projects I've done in my free time, at a hackathon, or for th
 
 #### *iOS*
 
-As a part of the Spring 2015 [CodePath](https://codepath.com) Swift cohort, my team and I built [Three](https://www.youtube.com/watch?v=a5cl6YmHMks), an iOS app to help users track three postive things that happen each day. Additional features included an entry assistant, Dropbox backup, Today extension, and reminders. CodePath focused on transitioning existing web developers into mobile engineers through a rigorous eight week course taught by [Ben Sandofsky](https://sandofsky.com) and others! From this course, I actually switched from an API role at [Imgur](http://imgur.com) to their iOS team, where I help write the [core app](https://itunes.apple.com/us/app/imgur/id639881495?mt=8) 🚀
+As a part of the Spring 2015 [CodePath](https://codepath.com) Swift cohort, my team and I built [Three](https://www.youtube.com/watch?v=a5cl6YmHMks), an iOS app to help users track three positive things that happen each day. Additional features included an entry assistant, Dropbox backup, Today extension, and reminders. CodePath focused on transitioning existing web developers into mobile engineers through a rigorous eight week course taught by [Ben Sandofsky](https://sandofsky.com) and others! From this course, I actually switched from an API role at [Imgur](http://imgur.com) to their iOS team, where I help write the [core app](https://itunes.apple.com/us/app/imgur/id639881495?mt=8) 🚀
 
 ### Mandible, January 2015
 
