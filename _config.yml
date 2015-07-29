@@ -26,6 +26,7 @@ paginate:         5
 # Custom vars
 
 # User accounts
+keybase:          https://keybase.io/jasdev
 github:           https://github.com/jasdev
 twitter:          https://twitter.com/jasdev
 gyroscope:        https://gyrosco.pe/jasdev
