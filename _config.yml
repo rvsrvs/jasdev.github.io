@@ -6,6 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: true
 
+# Incude
+include: [".well-known"]
+
 # Gems
 gems:
   - jemoji
