@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/jasdev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jasdev.me
+  * I am jasdev (https://keybase.io/jasdev) on keybase.
+  * I have a public key with fingerprint 711E 45E8 FF90 3997 AA07  6FD0 D107 2F37 4EB8 54D8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "711e45e8ff903997aa076fd0d1072f374eb854d8",
+            "host": "keybase.io",
+            "key_id": "d1072f374eb854d8",
+            "kid": "010108805efe86212d359457c48db8f756a117586333af632fab8f106ed827aed1aa0a",
+            "uid": "acb77bee480284597b0282a105019b19",
+            "username": "jasdev"
+        },
+        "service": {
+            "hostname": "jasdev.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438190527,
+    "expire_in": 157680000,
+    "prev": "5b0dc1d50d25c79936e73bdb1ae1353a2333e2b404d0823360144198f8962153",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMIXAnicbVJrSFRBFF5LK93ECn+EUca1KGi1mfuauVuI9ATBH721lGXunbnr1dzd
+9qXrtvYrIsF+GPUnfPQiyOhBQaWFbglREkgoiQZR0oseWEmlZDZX6kfQzI8z5zvf
++eacw+nNnO3ISNn9Yv7cy/FiMaUvuT7i2HXb2R0XdD+NCe64UM1mjGn5vCwYCFq+
+sOAWEIRMVhg2TQ1ImoYIAUg1KaAQINGUkMx0rMgUCy6h0h+yM7iMTkKswPJzjDse
+i3L0P/zqmQCA/GIMFGYyrIpQpJKiyQoyZEx1bCJFJRAiBauSJBFTlUSTcBgClVEs
+IsIo5CURLheZkSOGjpDOmIyBiGVFQzq3IoFAAVDToWYTQyzoIzWMs6tIiLKokHAJ
+HItaBrMHYPfxT7yAv11CIOgP+w3/fg5XhsMBt50VjgVsWi3TPX8EPLrlo3yCPCHK
+giHL7xPckDONsGUrQlnCUAOKiFwCqwtYQeaxbIaCVAz4sb/hBbkFRQfUgFQBVFQM
+pGmSypCkUx0SBiVFIiIfBxN1GcgUYO6oAMoy1LCJNT5ERRLslg74/Fxb5HUSL9cM
+WV4fCUeCTEjc6ylPdaRkOOakzbKXwJGRvuDvaiyrn+e4e7HC6b5Tn99VV971A0g9
+yJjcRgpfrugbbpzMuvXkRNbkuRJP2o3z39qaGj90X/g8OP26prdfmHiwP6d4TfKd
+tLQqGru0ru7Iop1v3Zv7LgUHDt6pr0l/PLBcTN1Xte5n5PrWPcdLR2qXjOctZg9X
+nnycnTu5vTnSVLhxrKXM7fxijIa8etnd7vKckszxPmfa2vwrzd9dJT2D/fGhjobW
+++9On4k9+/Tg1dezpWjD3k297e2t5w63tE05dhSuciaHn36oS45dWzgUvTlxs+Jq
+56OChkRFYlbD8+6s7JIiR5HZNLejffDX6pGJqbX0lHPL+9ZjeR25+qHON96j6aMf
+31RP5/8GXI4n3g==
+=vNet
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jasdev
+
+==================================================================
