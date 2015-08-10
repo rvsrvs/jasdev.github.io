@@ -39,4 +39,6 @@ Setup is done! Now the fun begins. You may have noticed the output pouring in fr
 
 You're all set! Inspect away and go make that unofficial API wrapper you always wanted 🚀
 
+---
+
 <sup>1</sup> If you find any security issues, do the right thing and let the developers know. It shows character and may even land you an interview with the company 😊

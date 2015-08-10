@@ -22,6 +22,8 @@ To ramp up on the codebase, the mobile team uses pair programming extensively. T
 
 Hope these help make your pairing sessions better! Have any other tips that I forgot to mention? Let me know on [Twitter](https://twitter.com/jasdev)!
 
+---
+
 <sup>1</sup>: I was lucky enough to be in one of the first few batches that used Swift.
 
 <sup>2</sup>: Post about the lessons we learned coming soon!
