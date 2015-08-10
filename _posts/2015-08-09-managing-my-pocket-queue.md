@@ -10,7 +10,7 @@ One issue I have always faced with Pocket is the fact that deferring content to 
 
 ### Aim for a Decreasing Number of Items Each Day
 
-In any given day, I try to aim for a net negative amount of items in my queue. A simple rule for accomplishing this is "for every item you save to the queue, read two."
+In any given day, I try to read more items than I save. A simple rule for accomplishing this is "for every item you save to the queue, read two."
 
 ### Use Badge Counts
 
