@@ -18,7 +18,7 @@ Photos have played a big part in my life. So, the journaling tool needed to allo
 
 > The next app in your home screen
 
-I also set out with the goal of attaching an image to each day that passed. While this seems hard, I’ve found that screenshots are an easy way accomplish this. Small digital moments make great memories. Examples I’ve found in my journal are random “I love you!” messages from my girlfriend, hilarious conversations on my team’s chat room, or even getting a pull request merged on day 1 of work.
+I also set out with the goal of attaching an image to each day that passed. While this seems hard, I’ve found that screenshots are an easy way accomplish this. Small digital moments make great memories. Examples I’ve found in my journal are random “I love you!” messages from my family, hilarious conversations on my team’s chat room, or even getting a pull request merged on day 1 of work.
 
 > My friend, [@octopi](https://twitter.com/octopi), wrote a great post on the [value of screenshots](http://words.davidhu.me/screenshots/)
 
