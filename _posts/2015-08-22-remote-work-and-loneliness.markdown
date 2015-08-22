@@ -12,7 +12,7 @@ One of the most immediate hurdles is the fact that you will no longer be around 
 
 - Use [Sqwiggle](https://www.sqwiggle.com)
 
-    One of the easiest ways to make your teammates to see the person behind your avatar in chat is to establish a method of ambient presence. This doesn’t have to be as daunting as a live stream of your workspace. [Sqwiggle](https://www.sqwiggle.com) shines in this regard. The app takes pictures of you at regular intervals (one or five minutes, with manual override) to help your team feel more connected. I can't recommend it enough. It is amazing how much of an effect seeing your coworkers faces each day has on your overall mood.
+    One of the easiest ways to make your teammates see the person behind your avatar in chat is to establish a method of ambient presence. This doesn’t have to be as daunting as a live stream of your workspace. [Sqwiggle](https://www.sqwiggle.com) shines in this regard. The app takes pictures of you at regular intervals (one or five minutes, with manual override) to help your team feel more connected. I can't recommend it enough. It is amazing how much of an effect seeing your coworkers faces each day has on your overall mood.
 
     ![](/public/images/sqwiggle.jpg)
 
@@ -30,11 +30,11 @@ One of the most immediate hurdles is the fact that you will no longer be around 
 
 ## Missing out on Offline Communication Channels
 
-In both of my remote experiences, the companies were onsite by default. This leads to challenges regarding offline communication (in-person chats, impromptu meetings, etc.) that must be overcome. In handling these challenges, the goal should be to default to online communication and reach a level where there is no advantage to being in the office. Not only does this help remote employees, it helps those onsite by making all communication searchable and documented in a manner accessible to all employees. One specific difficulty I wanted to highlight is accidentally not being called into meetings. To solve this, my previous team added Google Hangout links to all calendar invites, which worked really well. Additionally, I made sure to be vocal if I wasn't called into a meeting before it started. Don't be shy. You wouldn't be rude by doing so and it will help make calling in remote employees more habitual for those in the office.
+In both of my remote experiences, the companies were onsite by default. This leads to challenges regarding offline communication (in-person chats, impromptu meetings, etc.) that must be overcome. In handling these challenges, the goal should be to default to online communication and reach a level where there is no advantage to being in the office. Not only does this help remote employees, it helps those onsite by making all communication searchable and documented in a manner accessible to all employees. One specific difficulty I wanted to highlight is accidentally not being called into meetings. To solve this, my previous team added Google Hangout links to all calendar invites, which worked really well. Additionally, I made sure to be vocal if I wasn't called into a meeting before it started. Don't be shy. You won't be rude by doing so and it will help make calling in remote employees more habitual for those in the office.
 
 ## Cabin Fever and Burnout
 
-Mental health is critical, especially when working remotely, and I wish it was discussed more frequently. To help stay in check, I have used meditation, mood logging, and hour tracking.
+Mental health is critical, especially when working remotely, and I wish it was discussed more openly. To help stay in check, I have used meditation, mood logging, and hour tracking.
 
 - Meditation
 
@@ -48,9 +48,9 @@ Mental health is critical, especially when working remotely, and I wish it was d
 
 - Shutting Down My Computer
 
-    One thing that surprised me when I initially started working remotely was that I actually worked more than I previously did onsite. I would often let work-related tasks slip into my personal life (exaggerated by time zone differences). Answering that one email after hours or getting extra development time in the night. While these small occurrences may seem harmless, they quickly add up and contribute to burnout. This is when I started to become strict about shutting down my computer after work. I wouldn't reply to non-urgent messages after signing off either. While this may require an adjustment period, it helped my previous teams rely on asynchronous communication, which plays well with time zones and honoring people's periods of productivity.
+    One thing that surprised me when I initially started working remotely was that I actually worked more than I previously did onsite. I would often let work-related tasks slip into my personal life (exaggerated by time zone differences). Answering that one email after hours or getting extra development time at night. While these small occurrences may seem harmless, they quickly add up and contribute to burnout. This is when I started to become strict about shutting down my computer after work. I wouldn't reply to non-urgent messages after signing off either. While this may require an adjustment period, it helped my previous teams rely on asynchronous communication, which plays well with time zones and honoring people's periods of productivity.
 
-All in all, I am a huge fan of remote work. It affords you and your team many benefits that just aren't possible when requiring everyone to be under the same roof. However, loneliness is a hurdle that needs to be discussed and overcome openly. I hope some of the lessons and techniques I learned can help in your journey. Have any that I missed? [Let me know!](https://twitter.com/jasdev)
+All in all, I am a huge fan of remote work. It affords you and your team many benefits that just aren't possible when requiring everyone to be under the same roof. However, loneliness is a hurdle that needs to be discussed openly and overcome. I hope some of the lessons and techniques I learned can help in your journey. Have any that I missed? [Let me know!](https://twitter.com/jasdev)
 
 ---
 
