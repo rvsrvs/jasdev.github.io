@@ -4,7 +4,7 @@ title: Remote Work and Loneliness
 permalink: remote-work-and-loneliness
 ---
 
-From a previous internship and my most recent job, I have been fortunate enough to be allowed to work remotely for extended periods of time. While the benefits of remote work are widely discussed, I wanted to talk about one of the downsides I struggled with the most, loneliness. This is a really personal topic and definitely hard to write about. However, I hope the lessons I have learned can help others who are dealing with (or are worried about) loneliness in a remote setting.
+From a previous internship and my most recent job, I have been fortunate enough to be allowed to work remotely for extended periods of time. While the benefits of remote work are widely discussed, I wanted to talk about one of the downsides I struggled with the most: loneliness. This is a really personal topic and definitely hard to write about. However, I hope the lessons I have learned can help others who are dealing with (or are worried about) loneliness in a remote setting.
 
 ## Not Being Around Others
 
