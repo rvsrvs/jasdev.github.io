@@ -42,7 +42,7 @@ Mental health is critical, especially when working remotely, and I wish it was d
 
 - Mood Logging
 
-    One of the lessons in Headspace is that you should only treat thoughts for what they are, thoughts! In practice, this means that you should try<sup>1</sup> not to let thoughts become larger than they really are. To do this, it is helpful to label thoughts when they arise. For example, is the thought a worry about the future, a feeling, or just thinking? After labeling the thought, I try to imagine the thought as being a glass ball floating in space. In labeling it, I'm gently pushing it away with a feather. This metaphor serves as a way to mentally separate myself from my thoughts. I recently discovered an app that encapsulates this process called [Moodnotes](http://moodnotes.com). After a week of use, it has already earned a spot on my home row!
+    One of the lessons in Headspace is that you should only treat thoughts for what they are, thoughts! In practice, this means that you should try<sup>1</sup> not to let thoughts become larger than they really are. To do this, it is helpful to label thoughts when they arise. For example, is the thought a worry about the future, a feeling, or just thinking? After labeling the thought, I try to imagine the thought as being a glass ball floating in space. In labeling it, I'm gently pushing it away with a feather. This metaphor serves as a way to mentally separate myself from my thoughts. I recently discovered an app that encapsulates this process called [Moodnotes](http://moodnotes.thriveport.com). After a week of use, it has already earned a spot on my home row!
 
     ![](/public/images/moodnotes.png)
 
