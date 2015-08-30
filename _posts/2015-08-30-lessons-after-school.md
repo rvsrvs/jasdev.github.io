@@ -34,7 +34,7 @@ In school, it's too easy to fall into the trap of **falsely** comparing yourself
 
 Additionally, just because someone has years of prior experience doesn't mean they can't one day be your peer. "[A little bit of slope makes up for a lot of y-intercept](https://www.quora.com/What-are-the-most-profound-life-lessons-from-Stanford-Professor-John-Ousterhout/answer/Eric-Conner?srid=kI&share=1)."
 
-![](http://i.imgur.com/xaYvryO.png)
+![](/public/images/slope.png)
 
 <sup>*From a lecture by Professor John Ousterhout*</sup>
 
