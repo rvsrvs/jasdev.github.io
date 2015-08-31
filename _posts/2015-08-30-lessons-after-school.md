@@ -4,15 +4,15 @@ title: Lessons After College
 permalink: lessons-after-college
 ---
 
-1 year, 3 months, and 12 days ago I graduated from college. I feel the transition from high school to college is openly discussed, but the following transition into the real world is not. Life after school has taught me about myself and I am writing this post as a reflection on some of the lessons I have learned (some the hard way).
+1 year, 3 months, and 13 days ago I graduated from college. I feel the transition from high school to college is openly discussed, but the following transition into the real world is not. Life after school has taught me a lot about myself and I am writing this post as a reflection on some of the lessons I have learned (a few the hard way).
 
 ## Everyone Is Making It up as They Go
 
-There is no manual to life and how you should live it. Your parents, idols, mentors, managers, and favorite celebrities are all making it up as they go. That is the beauty of it! It is yours to define and all of your past experiences, successes, and failures have brought you to this exact moment.
+There is no manual to life and how you should live it. Your parents, idols, mentors, managers, and favorite celebrities are all making it up as they go. That is the beauty of it! It is yours to define. All of your past experiences, successes, and failures have brought you to this exact moment.
 
 ## Time Moves Way Faster After School
 
-It seriously does. People claim that college will be the best four years of your life and that it moves quickly. I have two reactions to this. First, why upper bound your "best years?" College is an amazing time, but it should also be a launchpad into your best years. Secondly, as [Sam Altman](https://twitter.com/sama) mentioned in his [post on turning 30](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short): "the days are long but the decades are short." Years following school fly by way faster than those in school.
+It seriously does. People claim that college will be the best four years of your life and that it moves quickly. I have two reactions to this. First, why upper bound your "best years?" College is an amazing time, but it should also be a launchpad into your best years down the road. Secondly, as the president of [Y Combinator](http://www.ycombinator.com), [Sam Altman](https://twitter.com/sama), mentioned in his [post on turning 30](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short): "the days are long but the decades are short." Years following school fly by way faster than those in school.
 
 ## Mental Health Is Just as Important as Physical Health
 
@@ -30,7 +30,7 @@ After college, you might not exactly know your niche. That is perfectly fine. In
 
 ## Your Peers Are All on Their Own Trajectories
 
-In school, it's too easy to fall into the trap of **falsely** comparing yourself to others. Whether it's by GPA or courses taken, these metrics aren not clean-cut. Moreover, after school, everyone embarks on their own trajectories and you need to make sure not to juxtapose them. Life is a race against yourself.
+In school, it's too easy to fall into the trap of **falsely** comparing yourself to others. Whether it's by GPA or courses taken, these metrics are not clean-cut. Moreover, after school, everyone embarks on their own trajectories and you need to make sure not to juxtapose them. Life is a race against yourself.
 
 Additionally, just because someone has years of prior experience doesn't mean they can't one day be your peer. "[A little bit of slope makes up for a lot of y-intercept](https://www.quora.com/What-are-the-most-profound-life-lessons-from-Stanford-Professor-John-Ousterhout/answer/Eric-Conner?srid=kI&share=1)."
 
@@ -44,7 +44,7 @@ Additionally, just because someone has years of prior experience doesn't mean th
 
 ## No Matter What Happens, It'll Be Just Right
 
-Transitioning from college to the real world often leaves some aspects of your life in a difficult situation. Will you still be close to friends who are moving to a different city? Should you try a long-distance relationship with your boyfriend/girlfriend? I have coped with these difficult questions by being at ease with all possible outcomes. Some friends will naturally fall out of touch and that's perfectly fine. Hold onto those that stay close. Long-distance relationships can work, but if they don't, you'll know right away. No matter what happens, it'll be just right.
+Transitioning from college to the real world often leaves some aspects of your life in a difficult situation. Will you still be close to friends who are moving to a different city? Should you try a long-distance relationship with your significant other? I have coped with these difficult questions by being at ease with all possible outcomes. Some friends will naturally fall out of touch and that's perfectly fine. Hold onto those that stay close. Long-distance relationships can work, but if they don't, you'll know right away. No matter what happens, it'll be just right.
 
 ## Take Time to Reflect
 
