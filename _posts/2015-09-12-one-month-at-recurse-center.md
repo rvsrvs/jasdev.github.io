@@ -56,7 +56,7 @@ Given my experience so far, there are two small adjustments I'd like to make.
 
 #### Focus
 
-During my first month here in NYC, I've had trouble balancing social events with progress on my projects. While I absolutely love attending meetups and seeing what the city has to offer, I would like to strike more of a balance. This has been particularly draining because I tend to be more introverted. Moving forward, I'm going spend more time with my [head down](https://twitter.com/sama/status/630869228137127936) moving towards my goals, while maintaining a *healthier* amount of social activities.
+During my first month here in NYC, I've had trouble balancing social events with progress on my projects. While I absolutely love attending meetups and seeing what the city has to offer, I would like to strike more of a balance. This has been particularly draining because I tend to be more introverted. Moving forward, I'm going to spend more time with my [head down](https://twitter.com/sama/status/630869228137127936) moving towards my goals, while maintaining a *healthier* amount of social activities.
 
 #### More Technical Writing
 
