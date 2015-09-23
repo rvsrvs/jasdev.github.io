@@ -20,7 +20,7 @@ Eight months ago, I switched to focusing on iOS and Swift development full-time.
 
 ## eppz! Theme
 
-My favorite theme by far has to be [eppz](https://github.com/eppz/iOS.Library.eppz_xCode). It is easy on the eyes and looks beautiful (used in the '*After*' screenshot above).
+My favorite theme by far has to be [eppz](https://github.com/eppz/iOS.Library.eppz_xCode). It is easy on the eyes and looks beautiful (used in the '*Before*' screenshot above).
 
 ## Replacement for the Default Xcode I-Beam Cursor
 
