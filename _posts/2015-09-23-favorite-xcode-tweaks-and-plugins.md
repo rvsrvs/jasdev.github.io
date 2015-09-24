@@ -4,7 +4,7 @@ title: My Favorite Xcode Plugins and Tweaks
 permalink: xcode-plugins-and-tweaks
 ---
 
-Eight months ago, I switched to focusing on iOS and Swift development full-time. I've spent a lot of time tying out different plugins and tweaks to make Xcode feel like home. Below are a handful that I can't live without:
+Eight months ago, I switched to focusing on iOS and Swift development full-time. I've spent a lot of time trying out different plugins and tweaks to make Xcode feel like home. Below are a handful that I can't live without:
 
 ## Polychromatic
 
