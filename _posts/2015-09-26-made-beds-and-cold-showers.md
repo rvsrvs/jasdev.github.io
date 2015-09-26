@@ -29,4 +29,4 @@ Have aspects of your morning routine that you cannot live without? I'd love to [
 
 <sup>2</sup>: Momentum is a hell of a drug.
 
-<sup>3</sup>: My other morning habits include exercise, meditation, reading a [daily list](/daily-list/), and reflecting on previous [journal entries](/daily-list/).
+<sup>3</sup>: My other morning habits include exercise, meditation, reading a [daily list](/daily-list/), and reflecting on previous [journal entries](/small-moments/).
