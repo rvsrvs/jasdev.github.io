@@ -24,9 +24,7 @@ author:
   name:           'Jasdev Singh'
   url:            https://twitter.com/jasdev
 
-paginate:         5
-
-# Custom vars
+paginate:         3
 
 # User accounts
 keybase:          https://keybase.io/jasdev
