@@ -20,7 +20,7 @@ While making my bed and cold showers have helped bolster my morning routine, the
 
 ![](/public/images/dnd.png)
 
-The above habits are just a few<sup>3</sup> that I have been doing and hope to improve on. Fine-tuning my morning routine has paid its weight in gold. After all, the first step in building a better self is adjusting how you start each day.
+The above habits are just a few<sup>3</sup> that I have been doing and hope to improve on. Fine-tuning my morning routine has been worth its weight in gold. After all, the first step in building a better self is adjusting how you start each day.
 
 Have aspects of your morning routine that you cannot live without? I'd love to [know about them](https://twitter.com/jasdev)!
 
