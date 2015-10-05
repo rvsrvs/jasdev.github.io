@@ -8,6 +8,12 @@ Below is a list of projects I've done in my free time, at a hackathon, or for th
 
 (If I missed any, you can always see what I'm up to on [GitHub](https://github.com/Jasdev) 👻)
 
+### Rest, Fall 2015
+
+#### iOS
+
+During my first week at [Recurse Center](https://www.recurse.com), I built a small iOS bedtime calculator to let you know when to wake up in accordance to your sleep cycles. On the other hand, if you have a target wake up time, it'll tell you when to fall asleep! You can download it in the [App Store](https://appsto.re/us/de6J9.i)!
+
 ### Three, Spring 2015
 
 #### *iOS*

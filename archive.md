@@ -3,6 +3,8 @@ layout: page
 title: Archive
 ---
 
+I usually [tweet](https://twitter.com/jasdev) out each post. However, if you prefer RSS, you can find my feed [here](/atom.xml)!
+
 ## Posts
 
 {% for post in site.posts %}
