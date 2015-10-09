@@ -8,6 +8,12 @@ Below is a list of projects I've done in my free time, at a hackathon, or for th
 
 (If I missed any, you can always see what I'm up to on [GitHub](https://github.com/Jasdev) 👻)
 
+### Emotiboard, Fall 2015
+
+#### iOS
+
+Frustrated by how hard it is to send an emoticon on iOS? I was too. To solve this, I made a custom keyboard extension that allows you to save emoticon snippets and quickly enter them as text input. It's currently in review in the App Store but you can get a sneak peek from these [screenshots](http://imgur.com/a/yeEnJ)!
+
 ### Rest, Fall 2015
 
 #### iOS
