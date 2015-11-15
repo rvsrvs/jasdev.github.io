@@ -12,7 +12,7 @@ Below is a list of projects I've done in my free time, at a hackathon, or for th
 
 #### iOS
 
-Frustrated by how hard it is to send an emoticon on iOS? I was too. To solve this, I made a custom keyboard extension that allows you to save emoticon snippets and quickly enter them as text input. It's currently in review in the App Store but you can get a sneak peek from these [screenshots](http://imgur.com/a/yeEnJ)!
+Frustrated by how hard it is to send an emoticon on iOS? I was too. To solve this, I made a custom keyboard extension that allows you to save emoticon snippets and quickly enter them as text input. You can download it in the [App Store](https://itunes.apple.com/us/app/emotiboard-emoticon-keyboard/id1047338955?mt=8)!
 
 ### Rest, Fall 2015
 
