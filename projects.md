@@ -4,7 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
-Below is a list of projects I've done in my free time, at a hackathon, or for the pure fun of it. Enjoy!
+# Apps
+
+I started doing iOS development in early 2014, learning [Swift](https://developer.apple.com/swift/) first, then Objective-C. It helped give me a fresh perspective. Here are some of the apps I've worked on so far!
+
+[<img style="display: inline-block !important;" src="/public/images/Icon_Imgur.png">](https://itunes.apple.com/us/app/imgur-funny-gifs-memes-images/id639881495?mt=8)
+[<img style="display: inline-block !important;" src="/public/images/Icon_Emotiboard.png">](https://itunes.apple.com/us/app/emotiboard-emoticon-keyboard/id1047338955?mt=8)
+[<img style="display: inline-block !important;" src="/public/images/Icon_Rest.png">](https://itunes.apple.com/us/app/rest-bedtime-calculator/id1032823043?mt=8)
+[<img style="display: inline-block !important;" src="/public/images/Icon_Impulse.png">](https://github.com/Jasdev/Impulse)
+
+Below is a **full** list of projects I've done in my free time, at a hackathon, or for the pure fun of it. Enjoy!
 
 (If I missed any, you can always see what I'm up to on [GitHub](https://github.com/Jasdev) 👻)
 
