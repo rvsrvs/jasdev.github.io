@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Apps
-
 I started doing iOS development in early 2014, learning [Swift](https://developer.apple.com/swift/) first, then Objective-C. It helped give me a fresh perspective. Here are some of the apps I've worked on so far!
 
 [<img style="display: inline-block !important;" src="/public/images/Icon_Imgur.png">](https://itunes.apple.com/us/app/imgur-funny-gifs-memes-images/id639881495?mt=8)
