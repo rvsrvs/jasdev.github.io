@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Incude
 include: [".well-known"]
@@ -13,6 +12,7 @@ include: [".well-known"]
 gems:
   - jemoji
   - jekyll-redirect-from
+  - jekyll-paginate
 
 # Setup
 title:            '@jasdev'

@@ -4,6 +4,8 @@ title: My Favorite Xcode Plugins and Tweaks
 permalink: xcode-plugins-and-tweaks
 ---
 
+_Updated 12/29/2015_
+
 Eight months ago, I switched to focusing on iOS and Swift development full-time. I've spent a lot of time trying out different plugins and tweaks to make Xcode feel like home. Below are a handful that I can't live without:
 
 ## Polychromatic
@@ -21,6 +23,8 @@ Eight months ago, I switched to focusing on iOS and Swift development full-time.
 ## eppz! Theme
 
 My favorite theme by far has to be [eppz](https://github.com/eppz/iOS.Library.eppz_xCode). It is easy on the eyes and looks beautiful (used in the '*Before*' screenshot above).
+
+Tweaking eppz with Polychromatic was a bit tricky for me to get right. If you're interested, [here](/public/eppz!.dvtcolortheme) is my `.dvtcolortheme` file that you can import into Xcode by copying it to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
 
 ## Replacement for the Default Xcode I-Beam Cursor
 
@@ -43,5 +47,25 @@ In-between commits, I often leave `TODO`s sprinkled in my code. To avoid letting
 *Note:*
 
 To make the script in the post work for Swift, you'll want to add a `-or -name "*.swift"` clause in the `find` command.
+
+## VVDocumenter
+
+I was recently introduced to [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode) and immediately fell in love. VVDocumenter generates documentation for functions (or any code) by simply typing `///`.
+
+![](http://i.imgur.com/S8zqem9.gif)
+
+## Remap "Show Document Items" Shortcut
+
+![](/public/images/document_items.png)
+
+A wonderful feature of Xcode is the document outline that can be toggled from the toolbar or by pressing `⌃6`. However, the default shortcut is hard to reach, so I usually remap it to ``⌃` ``. This setting can be changed via Preferences > Key Bindings and then searching for "Show Document Items".
+
+![](/public/images/document_items_setting.png)
+
+## Custom Xcode Behavior on Build Success and Failure
+
+Have a project with long compile times? Chances are you context switch while building. I've often caught myself getting distracted way after my build finishes. To prevent this, I added a custom Xcode behavior to make a sound when builds finish!
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Xcode behavior to play a sound when builds finish -&gt; less wasted time when context switching during compilation <a href="https://t.co/9kXWuXjhQZ">pic.twitter.com/9kXWuXjhQZ</a></p>&mdash; jasdev singh (@jasdev) <a href="https://twitter.com/jasdev/status/675345062058921984">December 11, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Have any Xcode plugins or tweaks you love? [Let me know](https://twitter.com/jasdev)!

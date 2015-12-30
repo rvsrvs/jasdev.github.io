@@ -17,8 +17,6 @@ These actions must be registered upfront alongside the normal notifications perm
 
 Let's start by building two instances of `UIMutableUserNotificationAction` and attaching them to a `UIMutableUserNotificationCategory`. To allow text input on the `replyAction`, note that the `behavior` property is set to `.TextInput`.
 
-<!-- {% gist 8eae09fb1efcb79019b7#file-appdelegate-swift %} -->
-
 <script src="https://gist.github.com/Jasdev/8eae09fb1efcb79019b7.js?file=AppDelegate.swift"></script>
 
 That's all you need for permissions! Let's schedule a sample notification to see the results and implement the appropriate `UIApplicationDelegate` methods to handle them. I make use of the handy Pod, [Timepiece](https://github.com/naoty/Timepiece), which adds syntactic sugar to `NSDate`.
