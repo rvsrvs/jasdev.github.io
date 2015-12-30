@@ -8,14 +8,16 @@ In an effort to [read more books](https://www.coach.me/plans/904-read) each year
 
 Have any recommendations? Feel free to let me know on [Twitter](https://twitter.com/jasdev)!
 
-*Last updated: 9/27/2015*
+*Last updated: 12/29/2015*
 
 ## 2015
 
-- [Design + Code](https://designcode.io) (complete)
-- [The Crossroads of Should and Must](https://itunes.apple.com/us/book/crossroads-should-must/id912999065?mt=11)  (complete)
-- [Apple Watch User Guide](https://itunes.apple.com/us/book/apple-watch-user-guide/id985786488?mt=11)  (complete)
-- [Remote](https://itunes.apple.com/us/book/remote/id625981856?mt=11)  (complete)
-- [Make It Stick](https://itunes.apple.com/us/book/make-it-stick/id985224876?mt=11) (complete)
-- [Playground Secrets and Power Tips](https://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034?mt=11) (complete)
+- [Design + Code](https://designcode.io)
+- [The Crossroads of Should and Must](https://itunes.apple.com/us/book/crossroads-should-must/id912999065?mt=11)
+- [Apple Watch User Guide](https://itunes.apple.com/us/book/apple-watch-user-guide/id985786488?mt=11)
+- [Remote](https://itunes.apple.com/us/book/remote/id625981856?mt=11)
+- [Make It Stick](https://itunes.apple.com/us/book/make-it-stick/id985224876?mt=11)
+- [Playground Secrets and Power Tips](https://itunes.apple.com/us/book/playground-secrets-power-tips/id982838034?mt=11)
+
+## 2016
 - [Thinking, Fast and Slow](https://itunes.apple.com/us/book/thinking-fast-and-slow/id443149884?mt=11) (37% complete)
