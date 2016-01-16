@@ -15,6 +15,12 @@ Below is a **full** list of projects I've done in my free time, at a hackathon, 
 
 (If I missed any, you can always see what I'm up to on [GitHub](https://github.com/Jasdev) 👻)
 
+### CodePath University, Spring 2016
+
+#### *Mentoring*
+
+Served as the lead mentor for the [CodePath University](http://www.codepathuniversity.com) iOS program held at Virginia Tech! I helped student leaders plan assignment review sessions and held office hours during labs.
+
 ### Emotiboard, Fall 2015
 
 #### iOS
