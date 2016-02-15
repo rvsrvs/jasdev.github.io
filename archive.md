@@ -13,7 +13,9 @@ I usually [tweet](https://twitter.com/jasdev) out each post. However, if you pre
 
 ## External Posts
 
-  * 29 Sep 2014 &raquo; [Bitcasa CloudFS Hackathon Judge ](https://twitter.com/bitcasa/status/516729203920998400)
+  * 15 Feb 2016 &raquo; [Multithreading in iOS CodePath Guide](https://github.com/codepath/ios_guides/wiki/Multithreading-in-iOS)
+
+  * 29 Sep 2014 &raquo; [Bitcasa CloudFS Hackathon Judge](https://twitter.com/bitcasa/status/516729203920998400)
 
   * 25 Sep 2014 &raquo; [Why Stripe is Becoming the Transaction Layer of the Internet](http://blog.thinkful.com/post/98406708378/why-stripe-is-becoming-the-transaction-layer-of)
 
