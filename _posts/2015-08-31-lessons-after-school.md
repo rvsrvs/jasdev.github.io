@@ -18,7 +18,7 @@ It seriously does. People claim that college will be the best four years of your
 
 We tend to obsess over eating the right things, working out, and making healthier physical decisions. We need to do the same for our minds. Life after college is challenging. Find ways to be at ease with your mind and thoughts. [Meditate](https://www.headspace.com). [Track your mood](http://moodnotes.thriveport.com). Call an old friend who moved far away after graduation. FaceTime your parents and siblings. Smile while commuting to work. Say hi to a stranger. Or even see a psychiatrist every other week. Mental health is much easier to handle in a preventive fashion. It is not weird or a sign of failure to do these things. By learning to manage thoughts and emotions, mindfulness is worth its weight in gold.
 
-In a previous [post about loneliness](http://jasdev.me/remote-work-and-loneliness/). I failed to mention how normal these feelings are. This is especially true after graduation. You will be lonely at times in this new chapter. However, the irony of loneliness is that we all share it from time to time.
+In a previous [post about loneliness](http://jasdev.me/remote-work-and-loneliness). I failed to mention how normal these feelings are. This is especially true after graduation. You will be lonely at times in this new chapter. However, the irony of loneliness is that we all share it from time to time.
 
 ## Burnout Is Real
 
