@@ -14,7 +14,7 @@ One attribute that sticks out is `@nonobjc`. Often times, you'll need to use `@o
 
 The full error reads "Subscript getter with Objective-C selector '`objectForKeyedSubscript:`' conflicts with previous declaration with the same Objective-C selector" (and the analog for the setter). Turns out that Objective-C also supports [custom subscripting](http://nshipster.com/object-subscripting/) and Swift will automatically bridge them back! However, in our example, we're overloading the subscript with the same key and different return types (also referred to as return type polymorphism), which Objective-C doesn't support 😔. To fix this, we simply prevent the default bridging via `@nonobjc`.
 
-So, there you have it! A real example of the `@nonobjc` attribute in action. Hope this post sheds some light into why it exists 😃
+So, there you have it! A real example of the `@nonobjc` attribute in action. Hope this post sheds some light on why it exists 😃
 
 Shout-out to [Joe Groff](https://twitter.com/jckarter) for the help and [Garric Nahapetian](https://twitter.com/garricn) for motivating me to write this post!
 
