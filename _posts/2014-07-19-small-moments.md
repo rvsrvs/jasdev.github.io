@@ -8,7 +8,7 @@ permalink: small-moments
 
 ### My path to daily journaling
 
-A [year ago](/2013/08/13/on-forming-habits) I started a routine of writing down three positive things that happened every day. It didn’t matter how small they were, as long as I hit a minimum of three. A year and over a 1,000 moments later, I ventured to expanding this habit into a daily journal.
+A [year ago](/on-forming-habits) I started a routine of writing down three positive things that happened every day. It didn’t matter how small they were, as long as I hit a minimum of three. A year and over a 1,000 moments later, I ventured to expanding this habit into a daily journal.
 
 ---
 

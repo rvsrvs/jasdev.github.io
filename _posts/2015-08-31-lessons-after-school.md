@@ -40,7 +40,7 @@ Additionally, just because someone has years of prior experience doesn't mean th
 
 ## Establish Keystone Habits
 
-[Keystone habits](http://jamesclear.com/keystone-habits) are those that keep you due north, when everything else in life may appear to be going south. A common example is exercise. When you exercise regularly, you tend to sleep, eat, and feel better. Some of my keystone habits include [writing three positive things about each day](https://www.coach.me/plans/1090-write-three-positive-things-about-today) (which later turned into a [habit of journaling](http://jasdev.me/small-moments/)), meditation, and [reading](http://jasdev.me/reading-list/).
+[Keystone habits](http://jamesclear.com/keystone-habits) are those that keep you due north, when everything else in life may appear to be going south. A common example is exercise. When you exercise regularly, you tend to sleep, eat, and feel better. Some of my keystone habits include [writing three positive things about each day](https://www.coach.me/plans/1090-write-three-positive-things-about-today) (which later turned into a [habit of journaling](http://jasdev.me/small-moments)), meditation, and [reading](http://jasdev.me/reading-list/).
 
 ## No Matter What Happens, It'll Be Just Right
 
