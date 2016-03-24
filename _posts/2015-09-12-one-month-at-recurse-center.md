@@ -60,7 +60,7 @@ During my first month here in NYC, I've had trouble balancing social events with
 
 #### More Technical Writing
 
-Lastly, I'd like to do more technical writing. This past week, I wrote my first Swift post on [interactive iOS notifications](/ios-interactive-notifications/), which truly helped me iron out my knowledge of the subject. To make things even better, one of my idols, [Natasha Murashev](https://twitter.com/natashatherobot), added the post to her [weekly newsletter](https://swiftnews.curated.co/issues/52#start)!
+Lastly, I'd like to do more technical writing. This past week, I wrote my first Swift post on [interactive iOS notifications](/ios-interactive-notifications), which truly helped me iron out my knowledge of the subject. To make things even better, one of my idols, [Natasha Murashev](https://twitter.com/natashatherobot), added the post to her [weekly newsletter](https://swiftnews.curated.co/issues/52#start)!
 
 ---
 
