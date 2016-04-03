@@ -16,24 +16,22 @@ gems:
 
 # Setup
 title:            '@jasdev'
-description:      'Hi, I''m <a href="https://twitter.com/jasdev" target="_blank">Jasdev</a> <span>👋</span> I''m an iOS Engineer <span>📲</span>'
+description:      'Hi, I''m <a href="https://twitter.com/jasdev" target="_blank">Jasdev</a> <span>👋</span> I''m an engineer <span>📲</span>'
 url:              http://jasdev.github.io
 baseurl:          /
 
 author:
   name:           'Jasdev Singh'
   url:            https://twitter.com/jasdev
+  email:          jasdevs@gmail.com
 
 paginate:         3
 
 # Links
-keybase:          https://keybase.io/jasdev
 github:           https://github.com/jasdev
 twitter:          https://twitter.com/jasdev
-snapchat:         https://www.snapchat.com/add/justdavesingh
 gyroscope:        https://gyrosco.pe/jasdev
 instagram:        https://instagram.com/jasdev
 soundcloud:       https://soundcloud.com/jasdev-singh
 coach:            https://www.coach.me/users/3140daf3d432d7f0065b
-email:            mailto:jasdevs@gmail.com
 reading:          https://docs.google.com/spreadsheets/d/1_MuAkdaBHq5ib_fEJk6JBA4POMFk0BfIx8jRmbLXEmA/edit?usp=sharing
