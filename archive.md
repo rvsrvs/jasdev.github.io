@@ -13,6 +13,8 @@ I usually [tweet](https://twitter.com/jasdev) out each post. However, if you pre
 
 ## External Posts
 
+  * 13 April 2016 &raquo; [Guest on the SwiftCoders Podcast](https://overcast.fm/+GCc7vT_Uw)
+
   * 15 Feb 2016 &raquo; [Multithreading in iOS CodePath Guide](https://github.com/codepath/ios_guides/wiki/Multithreading-in-iOS)
 
   * 29 Sep 2014 &raquo; [Bitcasa CloudFS Hackathon Judge](https://twitter.com/bitcasa/status/516729203920998400)
