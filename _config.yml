@@ -13,23 +13,28 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Setup
-title:            '@jasdev'
+title:            'Jasdev Singh'
 description:      'Hi, I''m <a href="https://twitter.com/jasdev" target="_blank">Jasdev</a> <span>👋</span> I''m an engineer <span>📲</span>'
-url:              http://jasdev.github.io
+url:              http://jasdev.me
 baseurl:          /
 
 author:
   name:           'Jasdev Singh'
   url:            https://twitter.com/jasdev
   email:          jasdevs@gmail.com
+  twitter:        jasdev
+
+twitter:
+  username:       jasdev
+  url:            https://twitter.com/jasdev
 
 paginate:         3
 
 # Links
 github:           https://github.com/jasdev
-twitter:          https://twitter.com/jasdev
 gyroscope:        https://gyrosco.pe/jasdev
 instagram:        https://instagram.com/jasdev
 soundcloud:       https://soundcloud.com/jasdev-singh
