@@ -17,7 +17,7 @@ gems:
 
 # Setup
 title:            'Jasdev Singh'
-description:      'Hi, I''m <a href="https://twitter.com/jasdev" target="_blank">Jasdev</a> <span>👋</span> I''m an engineer <span>📲</span>'
+description:      'Hi, I''m <a href="/about">Jasdev</a> <span>👋</span> I''m an engineer <span>📲</span>'
 url:              http://jasdev.me
 baseurl:          /
 
