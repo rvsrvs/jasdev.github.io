@@ -36,7 +36,7 @@ I picked this tip up from an [episode of Under the Radar](https://overcast.fm/+F
 
 ---
 
-<sup>1</sup>: Especially since they're [recorded](https://developer.apple.com/videos/wwdc2016).
+<sup>1</sup>: Especially since they're [recorded](https://developer.apple.com/videos/wwdc2016)
 
 <sup>2</sup>: Round trip
 
