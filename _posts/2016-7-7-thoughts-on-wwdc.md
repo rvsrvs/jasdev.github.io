@@ -4,7 +4,7 @@ title: Thoughts on WWDC
 permalink: thoughts-on-wwdc
 ---
 
-WWDC is a conference like no other. This past month, I was lucky enough to experience it as a part of Tumblr's [iOS cohort](https://cocoa.tumblr.com/post/146758581738/wwdc-2016-has-come-and-passed-but-we-wanted-to). While my peers have done a fantastic job in [recapping the conference's highlights](https://swiftnews.curated.co/issues/91#start), I wanted to take a moment to reflect on the smaller details, things that went well, and things I wish I had done differently.
+WWDC is a conference like no other. This past month, I was lucky enough to experience it as a part of Tumblr's [iOS cohort](https://cocoa.tumblr.com/post/146758581738/wwdc-2016-has-come-and-passed-but-we-wanted-to). While my peers have done a fantastic job [recapping the conference's highlights](https://swiftnews.curated.co/issues/91#start), I wanted to take a moment to reflect on the smaller details, things that went well, and things I wish I had done differently.
 
 ## Recharge Days and Exercise
 
@@ -20,7 +20,7 @@ Podcasts have become a huge part of my life, since moving to New York City. Comm
 
 ## Twitter
 
-I recently uninstalled Twitter from my phone<sup>4</sup>. However, during WWDC, I made an exception. While the service gets a lot of flak, it has the magical ability to foster community, [coordinate spontaneous lunches](https://twitter.com/ayanonagon/status/743827770401165313), and [facilitate serendipity](https://twitter.com/joshavant/status/743178026259615745). I can't recommend using Twitter during that week enough!
+I recently uninstalled Twitter from my phone<sup>4</sup>. However, during WWDC, I made an exception. While the service gets a lot of flak, it has the magical ability to foster community, [coordinate spontaneous lunches](https://twitter.com/ayanonagon/status/743827770401165313), and [facilitate serendipity](https://twitter.com/joshavant/status/743178026259615745). The iOS community on Twitter is stellar and it truly shines during that week.
 
 ## Aggregating Team Questions for Labs
 
