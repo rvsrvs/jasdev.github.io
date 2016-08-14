@@ -15,7 +15,7 @@ typedef NS_ENUM(NSUInteger, NSFetchedResultsChangeType) {
 } NS_ENUM_AVAILABLE(NA, 3_0);
 ```
 
-What is the type of `changeType` in the following expression (assuming Swift 3.x)?
+What is the value of `changeType` in the following expression (assuming Swift 3.x)?
 
 ```swift
 let changeType = NSFetchedResultsChangeType(rawValue: 5)
