@@ -65,21 +65,21 @@ public func controller(_ controller: NSFetchedResultsController<NSFetchRequestRe
                      for type: NSFetchedResultsChangeType, 
             newIndexPath: IndexPath?) {
 
-			/* Precondition checks */
+	/* Precondition checks */
 
-			// ...
+	// ...
 
-			switch type {
-			case .insert:
-			/* Insertion logic */
-			case .delete:
-			/* Deletion logic */
-			case .move:
-			/* Move logic */
-			case .update:
-			/* Update logic */
-			}
-		}
+	switch type {
+	case .insert:
+	/* Insertion logic */
+	case .delete:
+	/* Deletion logic */
+	case .move:
+	/* Move logic */
+	case .update:
+	/* Update logic */
+	}
+}
 ```
 
 Breakpointing on calls to this function, we noticed something odd in the debug menu:
