@@ -107,7 +107,7 @@ guard [
 
 This keeps our code crash-free until ABI resilience alleviates the need for the `guard`. Of course, this doesn't handle the scenario in which Apple adds a new case, but that's why we perform logging in the `else` clause to keep an eye on any API updates. You can watch [this issue](https://bugs.swift.org/browse/SR-1258) on Swift's JIRA.
 
-Hope this helps make open and closed enumerations more clear! Huge shoutout to [Joe Groff](http://twitter.com/jckarter), [Caleb Davenport](https://twitter.com/calebd), and [Jordan Rose](https://twitter.com/UINT_MIN) for discussing this topic in the _open_<sup>1</sup> on Twitter and in the [Swift repository docs](https://github.com/apple/swift/tree/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs).
+Hope this helps make open and closed enumerations more clear! Huge shoutout to [Joe Groff](http://twitter.com/jckarter), [Caleb Davenport](https://twitter.com/calebd), and [Jordan Rose](https://twitter.com/UINT_MIN) for discussing this topic in the open<sup>1</sup> on Twitter and in the [Swift repository docs](https://github.com/apple/swift/tree/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs).
 
 ---
 
