@@ -56,7 +56,7 @@ Despite "open" being the default for enumerations moving forward, adding new cas
 
 ## Invalid Changes Sent to `NSFetchedResultsControllerDelegate`
 
-[`NSFetchedResultsControllerDelegate`](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate) provides an [optional function](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate/1622296-controller) to notify concrete implementations that a fetched object has been changed due to an add, remove, move, or update. During testing, we noticed "extra" calls<sup>4</sup> to this function, which caused crashes via to subsequent invalid table view updates. To set some context, our concrete implementation had the following structure:
+[`NSFetchedResultsControllerDelegate`](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate) provides an [optional function](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate/1622296-controller) to notify concrete implementations that a fetched object has been changed due to an add, remove, move, or update. During testing, we noticed "extra" calls<sup>4</sup> to this function, which caused crashes via subsequent invalid table view updates. To set some context, our concrete implementation had the following structure:
 
 ```swift
 public func controller(_ controller: NSFetchedResultsController<NSFetchRequestResult>, 
