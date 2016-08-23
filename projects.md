@@ -133,7 +133,7 @@ At PennApps Fall 2012, my team and I built BattSignal, an app that shows you the
 
 #### *Windows Phone*, *AppEngine*
 
-During one of my summers at Microsoft, my friend and I participated in the Intern XAPFest. During the summer-long hackathon, we built a Windows Phone app that finds interesting meetup locations, provides turn by turn directions, and a real-time location status of all the friends involved. We ended up winning [fist place](http://blogs.msdn.com/b/msr_er/archive/2012/09/18/microsoft-interns-in-the-clouds.aspx)!
+During one of my summers at Microsoft, my friend and I participated in the Intern XAPFest. During the summer-long hackathon, we built a Windows Phone app that finds interesting meetup locations, provides turn by turn directions, and a real-time location status of all the friends involved. We ended up winning [first place](http://blogs.msdn.com/b/msr_er/archive/2012/09/18/microsoft-interns-in-the-clouds.aspx)!
 
 ### EventHandler, July 2012
 
