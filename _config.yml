@@ -17,7 +17,7 @@ gems:
 
 # Setup
 title:            'Jasdev Singh'
-description:      'Hi, I''m <a href="/about">Jasdev</a> <span>👋</span> I''m an engineer <span>📲</span>'
+description:      'Hi, I''m <a href="/about">Jasdev</a>!. I''m an engineer who loves reading, writing, and human performance.'
 url:              http://jasdev.me
 baseurl:          /
 
@@ -31,7 +31,7 @@ twitter:
   username:       jasdev
   url:            https://twitter.com/jasdev
 
-paginate:         3
+paginate:         5
 
 # Links
 github:           https://github.com/jasdev
@@ -39,3 +39,4 @@ gyroscope:        https://gyrosco.pe/jasdev
 instagram:        https://instagram.com/jasdev
 soundcloud:       https://soundcloud.com/jasdev-singh
 coach:            https://www.coach.me/users/3140daf3d432d7f0065b
+instapaper:       http://instapaper.com/p/jasdev

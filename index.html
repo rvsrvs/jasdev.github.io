@@ -3,35 +3,84 @@ layout: default
 title: Home
 ---
 
+<h2 class="index-heading">About</h2>
+
+I'm an engineer, writer, and reader in Brooklyn who is endlessly fascinated by human performance, cognitive science, and behavior change.
+
+<br/>
+<br/>
+
+Currrently, I work on the Core iOS team at <a href="https://www.tumblr.com">Tumblr</a>. Previously, I've helped build <a href="https://imgur.com">Imgur</a>'s <a href="http://api.imgur.com">API</a> and <a href="http://imgur.com/apps">iOS app</a>. Before that, I studied Computer Science and Mathematics at the <a href="http://www.virginia.edu">University of Virginia</a>.
+
+<br/>
+<br/>
+
+You can find out more about me <a href="/about">here</a>!
+
+<h2 class="index-heading">Writing</h2>
+
 <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
+  {% for post in site.posts %}
+    <div class="post-link">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </div>
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<h2 class="index-heading">External Posts</h2>
+
+<div class="external-posts">
+  <div class="post-link">
+      <a href="https://engineering.tumblr.com/post/144151794436/swift-compilation-reporting-at-tumblr">
+        Swift Compilation Reporting at Tumblr
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="https://overcast.fm/+GCc7vT_Uw">
+        Guest on the SwiftCoders Podcast
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="https://github.com/codepath/ios_guides/wiki/Multithreading-in-iOS">
+        Multithreading in iOS CodePath Guide
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="https://twitter.com/bitcasa/status/516729203920998400">
+        Bitcasa CloudFS Hackathon Judge
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="http://blog.thinkful.com/post/98406708378/why-stripe-is-becoming-the-transaction-layer-of">
+        Why Stripe is Becoming the Transaction Layer of the Internet
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="http://imgur.com/blog/2014/09/02/tech-tuesday-speeding-up-client-side-applications-with-etags/">
+        Tech Tuesday: Speeding Up Client-Side Applications with ETags
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="http://www.seas.virginia.edu/pubs/unbound/pdfs/spring14.pdf">
+        UVa Engineering Unbound Magazine (Pages 8 - 9)
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="https://twitter.com/UVA/status/379975813581377536">
+        UVa Class of 2014 Feature
+      </a>
+  </div>
+
+  <div class="post-link">
+      <a href="http://articles.philly.com/2013-09-10/news/41906700_1_app-store-swap-programmer">
+        Mentioned in Philly.com article about PennApps
+      </a>
+  </div>
 </div>
