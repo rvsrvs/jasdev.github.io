@@ -17,7 +17,7 @@ gems:
 
 # Setup
 title:            'Jasdev Singh'
-description:      'Hi, I''m <a href="/about">Jasdev</a>!. I''m an engineer who loves reading, writing, and human performance.'
+description:      'Hi, I''m <a href="/about">Jasdev</a>! I''m an engineer who loves reading, writing, and human performance.'
 url:              http://jasdev.me
 baseurl:          /
 
