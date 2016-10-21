@@ -54,7 +54,7 @@ Below are some things I do during my morning commute:
   - Usually books or my [Instapaper Queue](http://instapaper.com/p/jasdev)<sup>7</sup>. I'm trying to strike a better balance between short and long-form content. But, that's for another post! [Scott Young](https://twitter.com/scotthyoung/) has a fantastic [comparison of the two](https://www.scotthyoung.com/blog/2014/01/16/blogs-vs-books/).
 
 - Meditation
-  - I always feel a bit awkward closing meditating on the train, but [Headspace](https://www.headspace.com)'s 'Commuting' exercise is my go-to.
+  - I always feel a bit awkward meditating on the train, but [Headspace](https://www.headspace.com)'s 'Commuting' exercise is my go-to.
  
 - Writing
   - Morning Pages
