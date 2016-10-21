@@ -48,7 +48,7 @@ Below are some things I do during my morning commute:
   - [More on this habit](/daily-list) and my [current list](https://github.com/Jasdev/thoughts/blob/master/daily-list.md)
  
 - Podcasts
-  - I manage my subscriptions with [Overcast](https://overcast.fm/podcasts).
+  - I manage my subscriptions with [Overcast](https://overcast.fm/).
  
 - Read
   - Usually books or my [Instapaper Queue](http://instapaper.com/p/jasdev)<sup>7</sup>. I'm trying to strike a better balance between short and long-form content. But, that's for another post! [Scott Young](https://twitter.com/scotthyoung/) has a fantastic [comparison of the two](https://www.scotthyoung.com/blog/2014/01/16/blogs-vs-books/).
