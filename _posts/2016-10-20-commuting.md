@@ -79,7 +79,7 @@ Doing so has the side-effect of slowing down one's perception of time<sup>9</sup
 
 ---
 
-These are just a few of the thoughts that have bubbled up after commuting for the past year. Looking back, it's hard to find a cohesive narrative that threads them together. But, maybe that's the beauty of it. Commuting is an unstructured block in the day that one can mold in any which way.
+These are just a few of the thoughts that have bubbled up after commuting for the past year. Looking back, it's hard to find a cohesive narrative that threads them together. But, maybe that's the beauty of it. Commuting is an unstructured block in the day that one can mold to their liking.
 
 ---
 
