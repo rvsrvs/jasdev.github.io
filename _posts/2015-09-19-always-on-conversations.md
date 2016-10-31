@@ -34,4 +34,4 @@ Always-on conversations make life better and I am beyond grateful for the close 
 
 <sup>1</sup>: We often refer to the thread as 'TNN' (Turntable News Network) for short.
 
-<sup>2</sup>: Virginia, California, Oregon, Texas, North Carolina, and New York
+<sup>2</sup>: Virginia, California, Oregon, Illinois, North Carolina, and New York
