@@ -14,7 +14,7 @@ A couple of days ago, I made a series of tweets that highlighted _smaller utilit
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">3/ Spectator by <a href="https://twitter.com/timonus">@timonus</a>: View Spectacles videos outside of Snapchat with the same rotation gesture<a href="https://t.co/FnMjcMVzNR">https://t.co/FnMjcMVzNR</a></p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/814666167038177280">December 30, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The thread hit home with others and served as a shoutout to the developers behind these tools that impact my life. I wanted to aggregate the list here (along with replies to the thread), broken down by platform<sup>2</sup>. If you have any other suggestions, [please let me know](https://twitter.com/jasdev)!
+The thread hit home with others and served as a shout out to the developers behind these tools that impact my life. I wanted to aggregate the list here (along with replies to the thread), broken down by platform<sup>2</sup>. If you have any other suggestions, [please let me know](https://twitter.com/jasdev)!
 
 ## iOS:
 
