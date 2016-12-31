@@ -50,7 +50,7 @@ The thread hit home with others and served as a shoutout to the developers behin
 While the following are _larger_ apps, their watchOS apps make the device that much better.
 
 - [Fantastical](https://itunes.apple.com/us/app/fantastical-2-for-iphone-calendar/id718043190?mt=8) by [Michael Simmons](https://twitter.com/macguitar) and [Kent Sutherland](https://twitter.com/ksuther): Its complication gets a lot of details right that the default Calendar misses.
-- [Dark Sky](https://itunes.apple.com/us/app/dark-sky-weather/id517329357?mt=8): The detailed, local weather notifications and complication with have saved me so many times.
+- [Dark Sky](https://itunes.apple.com/us/app/dark-sky-weather/id517329357?mt=8): The detailed, local weather notifications and complication have saved me so many times.
 - [PCalc](https://itunes.apple.com/us/app/pcalc-the-best-calculator/id284666222?mt=8) by [James Thomson](https://twitter.com/jamesthomson): The attention to detail put into this app is amazing. In the same league as [Junecloud](https://twitter.com/junecloud).
 
 ## Web and Email
