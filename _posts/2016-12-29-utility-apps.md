@@ -55,7 +55,7 @@ While the following are _larger_ apps, their watchOS apps make the device that m
 
 ## Web and Email
 
-- [Spoonbill](http://spoonbill.io) by [Justin Duke](https://twitter.com/justinmduke): Follow bio, location, and name changes on your Twitter following graph.
+- [Spoonbill](http://spoonbill.io) by [Justin Duke](https://twitter.com/justinmduke): Follow bio, location, and name changes in your Twitter following graph.
 - [Switchr](https://github.com/jurre/switchr) by [Jurre](https://twitter.com/jurretweet): Safari extension to quickly switch between `.h` and `.m` files on GitHub.
 - [DomainCloser](https://github.com/Jasdev/DomainCloser) (shameless plug 😆): Quickly close all tabs matching the domain of the currently active tab.
 
