@@ -77,5 +77,5 @@ So, while we may collectively [groan at the inability to edit tweets](https://tw
 
 
 ## Tangential Thoughts
-- [Mental noting](https://twitter.com/jasdev/status/793527820467265536) in meditation serves as a good first step in the ability to reconsolidate more effectively.
+- [Mental noting](https://www.headspace.com/blog/2015/11/04/noting-technique-video/) in meditation serves as a good first step in the ability to reconsolidate more effectively.
 - I wonder if there would be value in authors including drafts of their work, when purchasing a book. Much like open source repositories with a full revision history, drafts could give us insight into their process. Here are [some thoughts on this](https://twitter.com/jasdev/status/809416165940490240) in the replies to a (deleted) tweet of mine.
