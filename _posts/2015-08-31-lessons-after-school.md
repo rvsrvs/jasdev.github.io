@@ -28,7 +28,7 @@ Related to mental health, make sure to pace yourself in your work. There are no 
 
 After college, you might not exactly know your niche. That is perfectly fine. In this case, I tend to optimize for learning. Will that job at a startup pay less than the 800-pound gorilla but teach you more? Go with the startup. Your first job won't define your entire career. Lean towards opportunities that push you outside your comfort zone.
 
-## Your Peers Are All on Their Own Trajectories
+## <a name="trajectories">Your Peers Are All on Their Own Trajectories</a>
 
 In school, it's too easy to fall into the trap of **falsely** comparing yourself to others. Whether it's by GPA or courses taken, these metrics are not clean-cut. Moreover, after school, everyone embarks on their own trajectories and you need to make sure not to juxtapose them. Life is a race against yourself.
 
