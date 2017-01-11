@@ -30,7 +30,7 @@ In my current batch, there are two other attendees ([Caroline](https://twitter.c
 
 Recurse Center places a heavy emphasis on intrinsic motivation. Want to learn that framework you keep hearing about? Go for it! Have you learned all you can from your current project? Move onto the next one! Without traditional driving factors like deadlines or user metrics, you begin to program for the sake of becoming a better programmer. This makes RC feel better than 'traditional' work. I often find myself coming into the space at odd hours, simply because I am itching to get back to my projects.
 
-#### Energy Management
+#### <a name="energy-management">Energy Management</a>
 
 Since the majority of my day is spent programming, paired with the fact that I [eliminated caffeine](https://www.coach.me/plans/1098-no-caffeine) from my diet four months ago, I have learned a lot about managing my energy levels. *Actually* programming for eight hours **straight** each day is a myth and unsustainable. I've been able to refocus midday by taking breaks to work out and tweaking my sleep schedule (RC actually has both 10:30am and 1pm check-ins to cater to different routines). On the same note, one of my great friends, [Zack Shapiro](https://twitter.com/ZackShapiro), recently made a [tweet storm](https://twitter.com/ZackShapiro/status/641425157425377280) about putting your health first and work second:
 
