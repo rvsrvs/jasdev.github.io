@@ -6,7 +6,7 @@ permalink: lessons-after-college
 
 1 year, 3 months, and 13 days ago I graduated from college. I feel the transition from high school to college is openly discussed, but the following transition into the real world is not. Life after school has taught me a lot about myself and I am writing this post as a reflection on some of the lessons I have learned (a few the hard way).
 
-## Everyone Is Making It up as They Go
+## <a name="making">Everyone Is Making It up as They Go</a>
 
 There is no manual to life and how you should live it. Your parents, idols, mentors, managers, and favorite celebrities are all making it up as they go. That is the beauty of it! It is yours to define. All of your past experiences, successes, and failures have brought you to this exact moment.
 
