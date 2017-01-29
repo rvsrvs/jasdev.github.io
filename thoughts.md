@@ -5,6 +5,10 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 1/29/2017
+
+- Looking towards May and the seven day silent retreat, I think it'll probably be one of the toughest (mental) challenges I tackle this year. I wonder if this is how ultra-marathon runners feel when thinking about upcoming races.
+
 ## 1/28/2017
 
 - Been a while since I’ve made an entry. Migrating the thought journal to my personal site (Canvas’ mobile app is currently un-maintained, Salesforce’s acquisition of Quip will always loom over, and GDocs doesn’t support Markdown).
