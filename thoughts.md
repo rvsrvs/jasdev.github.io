@@ -8,7 +8,7 @@ Unpolished, developed over time.
 ## 2/1/2017
 
 - Stings, but have to keep moving.
-- Actively being mindful about (or abstaining) from social media to come across as surprising. Now, it’s almost a competitive advantage.
+- Actively being mindful about (or abstaining) from social media used to come across as surprising. Now, it’s almost a competitive advantage.
     - On 12/22/2016 I noted about good posture (not forced) being attractive. Attentive listening is as well. When someone listens without the urge to constantly nod along or make periodic confirmations, I can tell they’re meditating on what’s being said.
 
 ## 1/31/2017
