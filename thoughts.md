@@ -5,6 +5,15 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 1/31/2017
+
+- Last day of the month, absolutely flew by.
+- While setting up the new laptop at work, I’ve realized that the “lazy-loading” approach to configuring my development environment works best. That is, instead of spending a day to install all of the tools I “think“ I need, I just install them as I go. Helps avoid the “configuration trap” I’ve wanted to write about for some time.
+- Experimenting with 3+ hour `SelfControl.app` sessions at the office => deep work has skyrocketed. Going to keep this up.
+- Hilarious moment when Matt noticed I was doing his on-demand class today at the office.
+- As I’m writing this, the phrase I mentioned on 12/12/16 is still lingering: “In the end, winning is sleeping better.”
+    - For me (touched on this on 1/12/17), that means doing three things: pushing my mind (difficult problems), pushing my heart (exercise), and meditating.
+
 ## 1/29/2017
 
 - Looking towards May and the seven day silent retreat, I think it'll probably be one of the toughest (mental) challenges I tackle this year. I wonder if this is how ultra-marathon runners feel when thinking about upcoming races.
@@ -219,7 +228,7 @@ Unpolished, developed over time.
 - Today I had that magical "I love my job" moment.
 - First studio session w/ Peloton (previously had done on-demand rides for post-surgery recovery). The experience is fantastic. These past two bullets sound cheesy, but it's so refreshing to work in a domain that resonates with me personally.
 - Late to realize this. But, a way I'm trying to foster a [feeling of home](https://twitter.com/jasdev/status/788543352736186368) in NYC is by finding "my spot." [Perpetuum](https://foursquare.com/v/perpetuum/55f870c1498e6e582a881075) seems like the best candidate so far. Have a future vision of hosting 1x1s with my team there, if I become a manager/tech lead some day.
-- "In the end, winning is sleeping better."
+- “In the end, winning is sleeping better.”
   - Quote really hit home with me after noticing that my favorite days are the ones where I hit the bed emotionally/physically exhausted (in a good way)
     - Is there a synonym for exhaustion that has a positive connotation?
  
