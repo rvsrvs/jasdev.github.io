@@ -5,6 +5,10 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/1/2017
+
+- Stings, but have to keep moving.
+
 ## 1/31/2017
 
 - Last day of the month, absolutely flew by.
