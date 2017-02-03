@@ -5,6 +5,14 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/2/2017
+
+- Potentially Unpopular Opinions
+    - I actually _really_ like the new MBP (despite the community flak)
+    - Paperback books > hardcover books
+    - Drinking almond milk in a glass by itself isn’t weird (can’t understand why people have an issue with this)
+- [Bobby Murphy is a prime example of how to work quietly on longer timescales](https://twitter.com/jasdev/status/827288017685639168)
+
 ## 2/1/2017
 
 - Stings, but have to keep moving.
