@@ -5,6 +5,12 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/3/2017
+
+- Noticing [more](https://twitter.com/aprilzero) and [more](https://twitter.com/KrauseFx) peeps unfollowing _everyone_ on Twitter. Felix even [made a tool for this](https://twitter.com/KrauseFx/status/827340707106938881) that backs up your current following graph.
+- As I step away from Twitter, I’m using it more as a funnel for content (distilled through apps like Nuzzel) that I digest elsewhere. A subtle, but important distinction. I’m no longer consuming _on_ Twitter. But instead, from it, at my own pace.
+- Cryotherapy session tomorrow. Nervously excited.
+
 ## 2/2/2017
 
 - Potentially Unpopular Opinions
