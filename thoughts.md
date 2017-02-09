@@ -5,6 +5,10 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/8/2017
+
+- Have a few thoughts I’ll post in the morning. For now, time to rest. A lot to digest from this week. Can’t wait to distill it with John tomorrow, beyond grateful for our friendship and how he “[bet on me prematurely](https://twitter.com/jxxf/status/464246272896286720).”
+
 ## 2/3/2017
 
 - Noticing [more](https://twitter.com/aprilzero) and [more](https://twitter.com/KrauseFx) peeps unfollowing _everyone_ on Twitter. Felix even [made a tool for this](https://twitter.com/KrauseFx/status/827340707106938881) that backs up your current following graph.
