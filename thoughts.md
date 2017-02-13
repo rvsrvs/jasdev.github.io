@@ -5,6 +5,20 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/12/2017
+
+- A bit delayed, but finally got the time (and energy) to sit down and write some thoughts from this past week.
+- Small moments of joy when walking through the city:
+	- Noticing someone smiling at their phone and imagining them either sending (or receiving) a message from a loved one
+	- Audibly laughing aloud to yourself during a funny moment in a podcast
+- Speaking of podcasts, this is the best ad I’ve heard: “This show is sponsored by X and they asked us not to read an ad.”
+- Easy wins that I’d add to the next version of watchOS:
+	- Mindfulness minutes (whether through the Breathe app or HealthKit) being a part of the activity rings (could even be a binary indicator in the center of all of the rings, which would be a subtle metaphor)
+	- Variable move goals. If I hit 750 calories each weekday, I’m going to be a vegetable on the weekend. That’s okay and the Activity app should cater to that.
+- The more I think about it, meditation helps me (in the larger scheme of things) in the same way Track and Field helps an athlete have a baseline level of competence in any (read most) sports.
+- Have another social leap of faith planned for this week. Fingers crossed.
+- Learned how to make matcha lattes today, so tempted to buy a frother. Imagining making lattes for my future partner on a cozy weekend morning warms my heart.
+
 ## 2/8/2017
 
 - Have a few thoughts I’ll post in the morning. For now, time to rest. A lot to digest from this week. Can’t wait to distill it with John tomorrow, beyond grateful for our friendship and how he “[bet on me prematurely](https://twitter.com/jxxf/status/464246272896286720).”
