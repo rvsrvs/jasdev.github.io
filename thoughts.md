@@ -33,7 +33,7 @@ Unpolished, developed over time.
 		- Simply getting the supplies to make the perfect cup of matcha (lattes). After reading _Bird by Bird_ (finished it today!), Anne’s metaphor for [writing as a sort of tea ceremony](https://www.instagram.com/p/BPk28P5AIGj) stuck with me.
 	- Programming
 		- Also needs a bit of formalization, but music seems to be the  key here. Usually in the form of longer sets. Also, the motion of blocking Twitter (noted in 1/31/17’s update) helps a bit.
-- Probably enough for today. Did leave table some other updates: mention of sending notes to Matt about his 60 minute class this week, realizing it’s time to write my post-surgery post, and mini-retreat this coming weekend to practice for the one with Tara.
+- Probably enough for today. Did table some other updates: mention of sending notes to Matt about his 60 minute class this week, realizing it’s time to write my post-surgery post, and mini-retreat this coming weekend to practice for the one with Tara.
 
 ## 2/12/2017
 
