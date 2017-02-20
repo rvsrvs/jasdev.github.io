@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 ---
 
-Inspired by [Patrick Collison](https://patrickcollison.com/bookshelf) and [Sean Rose](https://medium.com/@sean_a_rose/2017-books-6a081de313da#.p68gx5cz5)’s attempts at digital “bookshelves,” I’ve decided to catalog mine here. 
+Inspired by [Patrick Collison](https://patrickcollison.com/bookshelf) and [Sean Rose](https://medium.com/@sean_a_rose/2017-books-6a081de313da#.p68gx5cz5)’s attempts at digital “bookshelves,” I’ve decided to catalog mine here.
 
 Below is a (fairly) updated list of all of the (physical&#124;digital) books I own (in no particular order).
 
@@ -39,10 +39,10 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [The Last Lecture (Randy Pausch)](https://www.amazon.com/Last-Lecture-Randy-Pausch/dp/1401323251) 📖 🎧
 - [The Shape of Design (Frank Chimero)](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
 - [Originals: How Non-Conformists Move the World (Adam Grant)](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/014312885X) 📖
-- [What I Talk About When I Talk About Running (Haruki Murakami)](https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839)
+- [What I Talk About When I Talk About Running (Haruki Murakami)](https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839) ✏️
 - [The Essential Rumi (Jalal al-Din Rumi)](https://www.amazon.com/Essential-Rumi-New-Expanded/dp/0062509594)
 - [Wherever You Go, There You Are (Jon Kabat-Zinn)](https://www.amazon.com/Wherever-You-Go-There-Are/dp/1401307787)
-- [Bird by Bird: Some Instructions on Writing and Life (Anne Lamott)](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016) ✏️ ⭐️
+- [Bird by Bird: Some Instructions on Writing and Life (Anne Lamott)](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016) 📖 ⭐️
 - [Swift Style: An Opinionated Guide to an Opinionated Language (Erica Sadun)](https://pragprog.com/book/esswift/swift-style)
 - [Types and Programming Languages (Benjamin C. Pierce)](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091)
 - [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph (Ryan Holiday)](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
