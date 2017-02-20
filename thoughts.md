@@ -5,6 +5,36 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/20/2017
+- Might need to update this log more frequently, today’s entry is bursting at the seams.
+- Systems—or more magically put, worlds—that we create, but don’t yet _fully_ understand fascinate me. Examples:
+	- [Go](https://en.wikipedia.org/wiki/Go_(game)). [Mark Bao noted this recently](https://twitter.com/markbao/status/833406045997395969). A game we’ve constructed, yet have barely scratched the surface of its emergent properties.
+	- Mathematics. I was reminded of this beautiful realization from the [Collatz Conjecture](https://twitter.com/jasdev/status/833408677264683011). Such a simple problem statement—probably only requires a grade-school-level education to understand, yet the greatest minds in our field can’t crack it. We (humankind) created the integers, but haven’t unpacked its greatest mysteries (e.g. distribution of primes). Making somewhat of a leap, I’m excited for when we come in [contact with other life forms](https://github.com/Jasdev/thoughts/blame/fed73c9e022360a5f7ffdabde721300f02431bdc/beliefs.md#L19), determine if their systems are equivalent (up to isomorphism), and see how much of the domain’s “knowledge” graph they’ve traversed (i.e. with their understanding, have they been able to prove the Collatz Conjecture?)
+- The owners of laundromat I go to asked if I was a boxer last night, after seeing my cycling jerseys. Felt a warm sense of “belonging” from that interaction during a normally mundane task.
+- Small, physical manifestation of empathy I’ve noticed:
+	- Stocking toiletries in your bathroom that aren’t necessarily “expected,” but cater to _anyone_ visiting or staying at your space (being serious here—for me at least, noticing these items shows that you have a baseline level of thoughtfulness that is rare these days):
+		- Tampons and pads
+		- Prep-H Wipes
+		- Poo-Pourri
+- Ryan perfectly described the difference between living in and out of Manhattan as follows: “it’s like being on-campus versus off-campus.” Of course, there is a level of _privilege_ that comes with being able to live _in_ the city. But, given the option, nothing beats the __absence__ of the cognitive overhead in planning your day around commuting.
+- Justin captured the (antonym of) a feeling I was trying to describe in my 12/12/2016 update in his latest [newsletter issue](http://tinyletter.com/jmduke/letters/one-of-those-slow-weeks) (which is amazing, by the way). “Earned fatigue” is the core of what I was trying to get at. A day filled with total dedication to each task at hand, allowing you to come back to your apartment, drop your things, and crash-land onto your bed with accomplishment pumping through you.
+	- Side note: the salutations in his newsletter are refreshingly different
+- Practiced going first in organizing an outing to see [Yotto on the 3rd](http://www.ticketfly.com/purchase/event/1426253) with some friends (if you would like to join, let me know 🙂). Made me miss living near a “concert buddy.“ That is, a friend who would drop everything they’re doing to go to a concert with you at a moment’s notice. Vinay is definitely that person for me (he’s coming up to visit in April for Anjunabeats), but living near him would make this a regular occurrence. Soon enough we’ll get him out of Virginia 🙃.
+- Furthermore’s post on [routines versus rituals](http://furthermore.equinox.com/articles/2017/02/exercise-rituals) made me think about how I’ve inadvertently starting doing this with some of my keystone habits:
+	- Reading
+		- Sessions w/ Sravanti and Kate & Jason around coffee/tea
+		- Sitting in a designated place and using reading time as an opportunity to catch up on Anjunadeep episodes
+	- Workout
+		- Still formalizing this one a bit. But, noticing that I use the walk to/from the gym as a period of peace that I fill with [anthemic music](https://soundcloud.com/thirdpartymusic/third-party-have-no-fear-1). Asked Drew (my coach) if he could start sending me our workouts before sessions, so I can meditate/visualize them beforehand.
+	- Meditation
+		- At home: using my own cushions (as opposed to laying on my bed) and ending each session gazing out my window and noticing something new about the view (turns out Hunter College is right next to my apartment?! Saw the sign after today’s session).
+		- Away from home: The structure and rhythm that Balanced provides for me (and my week).
+	- Tea
+		- Simply getting the supplies to make the perfect cup of matcha (lattes). After reading _Bird by Bird_ (finished it today!), Anne’s metaphor for [writing as a sort of tea ceremony](https://www.instagram.com/p/BPk28P5AIGj) stuck with me.
+	- Programming
+		- Also needs a bit of formalization, but music seems to be the  key here. Usually in the form of longer sets. Also, the motion of blocking Twitter (noted in 1/31/17’s update) helps a bit.
+- Probably enough for today. Did leave table some other updates: mention of sending notes to Matt about his 60 minute class this week, realizing it’s time to write my post-surgery post, and mini-retreat this coming weekend to practice for the one with Tara.
+
 ## 2/12/2017
 
 - A bit delayed, but finally got the time (and energy) to sit down and write some thoughts from this past week.
