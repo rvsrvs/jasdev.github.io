@@ -12,7 +12,6 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - 📖 Read ebook or physical book
 - ✏️ In progress
 - ⭐️ Would gift to a friend or loved one
-	- (requires one of the previous statuses)
 
 ## Books
 - [Starting Strength: Basic Barbell Training (Mark Rippetoe)](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738)
