@@ -33,7 +33,7 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [“What Do You Care What Other People Think?”: Further Adventures of a Curious Character (Richard P. Feynman)](https://www.amazon.com/What-Care-Other-People-Think/dp/0393320928)
 - [The Pleasure of Finding Things Out (Richard P. Feynman)](https://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959)
 - [How to Calculate Quickly: Full Course in Speed Arithmetic (Henry Sticker)](https://www.amazon.com/How-Calculate-Quickly-Arithmetic-Mathematics/dp/048620295X)
-- [When Breath Becomes Air (Paul Kalanithi)](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X)
+- [When Breath Becomes Air (Paul Kalanithi)](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X) ✏️ ⭐️
 - [Live Your Truth (Kamal Ravikant)](https://www.amazon.com/Live-Your-Truth-Kamal-Ravikant/dp/0989584992)
 - [The Last Lecture (Randy Pausch)](https://www.amazon.com/Last-Lecture-Randy-Pausch/dp/1401323251) 📖 🎧
 - [The Shape of Design (Frank Chimero)](https://www.amazon.com/Shape-Design-Frank-Chimero/dp/0985472200)
