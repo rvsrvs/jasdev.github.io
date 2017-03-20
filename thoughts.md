@@ -5,6 +5,90 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 2/20/2017
+- Might need to update this log more frequently, today’s entry is bursting at the seams.
+- Systems—or more magically put, worlds—that we create, but don’t yet _fully_ understand fascinate me. Examples:
+	- [Go](https://en.wikipedia.org/wiki/Go_(game)). [Mark Bao noted this recently](https://twitter.com/markbao/status/833406045997395969). A game we’ve constructed, yet have barely scratched the surface of its emergent properties.
+	- Mathematics. I was reminded of this beautiful realization from the [Collatz Conjecture](https://twitter.com/jasdev/status/833408677264683011). Such a simple problem statement—probably only requires a grade-school-level education to understand, yet the greatest minds in our field can’t crack it. We (humankind) created the integers, but haven’t unpacked its greatest mysteries (e.g. distribution of primes). Making somewhat of a leap, I’m excited for when we come in [contact with other life forms](https://github.com/Jasdev/thoughts/blame/fed73c9e022360a5f7ffdabde721300f02431bdc/beliefs.md#L19), determine if their systems are equivalent (up to isomorphism), and see how much of the domain’s “knowledge” graph they’ve traversed (i.e. with their understanding, have they been able to prove the Collatz Conjecture?)
+- The owners of laundromat I go to asked if I was a boxer last night, after seeing my cycling jerseys. Felt a warm sense of “belonging” from that interaction during a normally mundane task.
+- Small, physical manifestation of empathy I’ve noticed:
+	- Stocking toiletries in your bathroom that aren’t necessarily “expected,” but cater to _anyone_ visiting or staying at your space (being serious here—for me at least, noticing these items shows that you have a baseline level of thoughtfulness that is rare these days):
+		- Tampons and pads
+		- Prep-H Wipes
+		- Poo-Pourri
+- Ryan perfectly described the difference between living in and out of Manhattan as follows: “it’s like being on-campus versus off-campus.” Of course, there is a level of _privilege_ that comes with being able to live _in_ the city. But, given the option, nothing beats the __absence__ of the cognitive overhead in planning your day around commuting.
+- Justin captured the (antonym of) a feeling I was trying to describe in my 12/12/2016 update in his latest [newsletter issue](http://tinyletter.com/jmduke/letters/one-of-those-slow-weeks) (which is amazing, by the way). “Earned fatigue” is the core of what I was trying to get at. A day filled with total dedication to each task at hand, allowing you to come back to your apartment, drop your things, and crash-land onto your bed with accomplishment pumping through you.
+	- Side note: the salutations in his newsletter are refreshingly different
+- Practiced going first in organizing an outing to see [Yotto on the 3rd](http://www.ticketfly.com/purchase/event/1426253) with some friends (if you would like to join, let me know 🙂). Made me miss living near a “concert buddy.“ That is, a friend who would drop everything they’re doing to go to a concert with you at a moment’s notice. Vinay is definitely that person for me (he’s coming up to visit in April for Anjunabeats), but living near him would make this a regular occurrence. Soon enough we’ll get him out of Virginia 🙃.
+- Furthermore’s post on [routines versus rituals](http://furthermore.equinox.com/articles/2017/02/exercise-rituals) made me think about how I’ve inadvertently starting doing this with some of my keystone habits:
+	- Reading
+		- Sessions w/ Sravanti and Kate & Jason around coffee/tea
+		- Sitting in a designated place and using reading time as an opportunity to catch up on Anjunadeep episodes
+	- Workout
+		- Still formalizing this one a bit. But, noticing that I use the walk to/from the gym as a period of peace that I fill with [anthemic music](https://soundcloud.com/thirdpartymusic/third-party-have-no-fear-1). Asked Drew (my coach) if he could start sending me our workouts before sessions, so I can meditate/visualize them beforehand.
+	- Meditation
+		- At home: using my own cushions (as opposed to laying on my bed) and ending each session gazing out my window and noticing something new about the view (turns out Hunter College is right next to my apartment?! Saw the sign after today’s session).
+		- Away from home: The structure and rhythm that Balanced provides for me (and my week).
+	- Tea
+		- Simply getting the supplies to make the perfect cup of matcha (lattes). After reading _Bird by Bird_ (finished it today!), Anne’s metaphor for [writing as a sort of tea ceremony](https://www.instagram.com/p/BPk28P5AIGj) stuck with me.
+	- Programming
+		- Also needs a bit of formalization, but music seems to be the  key here. Usually in the form of longer sets. Also, the motion of blocking Twitter (noted in 1/31/17’s update) helps a bit.
+- Probably enough for today. Did table some other updates: mention of sending notes to Matt about his 60 minute class this week, realizing it’s time to write my post-surgery post, and mini-retreat this coming weekend to practice for the one with Tara.
+
+## 2/12/2017
+
+- A bit delayed, but finally got the time (and energy) to sit down and write some thoughts from this past week.
+- Small moments of joy when walking through the city:
+	- Noticing someone smiling at their phone and imagining them either sending (or receiving) a message from a loved one
+	- Audibly laughing aloud to yourself during a funny moment in a podcast
+- Speaking of podcasts, this is the best ad I’ve heard: “This show is sponsored by X and they asked us not to read an ad.”
+- Easy wins that I’d add to the next version of watchOS:
+	- Mindfulness minutes (whether through the Breathe app or HealthKit) being a part of the activity rings (could even be a binary indicator in the center of all of the rings, which would be a subtle metaphor)
+	- Variable move goals. If I hit 750 calories each weekday, I’m going to be a vegetable on the weekend. That’s okay and the Activity app should cater to that.
+- The more I think about it, meditation helps me (in the larger scheme of things) in the same way Track and Field helps an athlete have a baseline level of competence in any (read most) sports.
+- Have another social leap of faith planned for this week. Fingers crossed.
+- Learned how to make matcha lattes today, so tempted to buy a frother. Imagining making lattes for my future partner on a cozy weekend morning warms my heart.
+
+## 2/8/2017
+
+- Have a few thoughts I’ll post in the morning. For now, time to rest. A lot to digest from this week. Can’t wait to distill it with John tomorrow, beyond grateful for our friendship and how he “[bet on me prematurely](https://twitter.com/jxxf/status/464246272896286720).”
+
+## 2/3/2017
+
+- Noticing [more](https://twitter.com/aprilzero) and [more](https://twitter.com/KrauseFx) peeps unfollowing _everyone_ on Twitter. Felix even [made a tool for this](https://twitter.com/KrauseFx/status/827340707106938881) that backs up your current following graph.
+- As I step away from Twitter, I’m using it more as a funnel for content (distilled through apps like Nuzzel) that I digest elsewhere. A subtle, but important distinction. I’m no longer consuming _on_ Twitter. But instead, from it, at my own pace.
+- Cryotherapy session tomorrow. Nervously excited.
+
+## 2/2/2017
+
+- Potentially Unpopular Opinions
+    - I actually _really_ like the new MBP (despite the community flak)
+    - Paperback books > hardcover books
+    - Drinking almond milk in a glass by itself isn’t weird (can’t understand why people have an issue with this)
+- [Bobby Murphy is a prime example of how to work quietly on longer timescales](https://twitter.com/jasdev/status/827288017685639168)
+
+## 2/1/2017
+
+- Stings, but have to keep moving.
+- Actively being mindful about (or abstaining) from social media used to come across as surprising. Now, it’s almost a competitive advantage.
+    - On 12/22/2016 I noted about good posture (not forced) being attractive. Attentive listening is as well. When someone listens without the urge to constantly nod along or make periodic confirmations, I can tell they’re meditating on what’s being said.
+
+## 1/31/2017
+
+- Last day of the month, absolutely flew by.
+- While setting up the new laptop at work, I’ve realized that the “lazy-loading” approach to configuring my development environment works best. That is, instead of spending a day to install all of the tools I “think“ I need, I just install them as I go. Helps avoid the “configuration trap” I’ve wanted to write about for some time.
+- Experimenting with 3+ hour `SelfControl.app` sessions at the office => deep work has skyrocketed. Going to keep this up.
+- Hilarious moment when Matt noticed I was doing his on-demand class today at the office.
+- As I’m writing this, the phrase I mentioned on 12/12/16 is still lingering: “In the end, winning is sleeping better.”
+    - For me (touched on this on 1/12/17), that means doing three things: pushing my mind (difficult problems), pushing my heart (exercise), and meditating.
+
+## 1/29/2017
+
+- Looking towards May and the seven day silent retreat, I think it'll probably be one of the toughest (mental) challenges I tackle this year. I wonder if this is how ultra-marathon runners feel when thinking about upcoming races.
+- "I hope you have a blank slate of time today to fill with building something you love."
+	- _adds to favorite salutation list_
+- Realization while reading with Kate and Jason today that I'm already orbiting around the Morning Teams concept in a stepwise fashion
+
 ## 1/28/2017
 
 - Been a while since I’ve made an entry. Migrating the thought journal to my personal site (Canvas’ mobile app is currently un-maintained, Salesforce’s acquisition of Quip will always loom over, and GDocs doesn’t support Markdown).
@@ -212,7 +296,7 @@ Unpolished, developed over time.
 - Today I had that magical "I love my job" moment.
 - First studio session w/ Peloton (previously had done on-demand rides for post-surgery recovery). The experience is fantastic. These past two bullets sound cheesy, but it's so refreshing to work in a domain that resonates with me personally.
 - Late to realize this. But, a way I'm trying to foster a [feeling of home](https://twitter.com/jasdev/status/788543352736186368) in NYC is by finding "my spot." [Perpetuum](https://foursquare.com/v/perpetuum/55f870c1498e6e582a881075) seems like the best candidate so far. Have a future vision of hosting 1x1s with my team there, if I become a manager/tech lead some day.
-- "In the end, winning is sleeping better."
+- “In the end, winning is sleeping better.”
   - Quote really hit home with me after noticing that my favorite days are the ones where I hit the bed emotionally/physically exhausted (in a good way)
     - Is there a synonym for exhaustion that has a positive connotation?
  
