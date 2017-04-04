@@ -5,6 +5,16 @@ title: Thoughts
 
 Unpolished, developed over time.
 
+## 4/3/2017
+- Concepts, learnings, and things that seem to “come into your life when you’re ready for them.“
+    - Meditation
+    - Learning about your parents’ past
+    - Joy of reading
+        - WBBA
+- These things _should_ be introduced at an early age, but are better absorbed when we naturally find ourselves gravitating towards them on our own accord (meditation in school tweet, Jorgensen, “emotional intelligence”) 
+- Fifth book of the year. While I tweeted out before about not counting books, there is no better feeling than finishing a good one (and putting down one that isn’t right for you, or not the right time to fully appreciate it)
+- Missing writing and development work
+
 ## 3/20/2017
 - > At the heart of Ten Thousand is the idea of pursuit. In business, fitness, and life, we believe in moving forward with a quiet dedication to constant improvement.
     - From my favorite [company about page](https://www.tenthousand.cc/pages/about) to date
