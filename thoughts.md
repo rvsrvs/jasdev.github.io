@@ -14,7 +14,7 @@ Unpolished, developed over time.
 - Knee appointment turned up all-clear. _Phew_. Just a patellar tendinitis flare up (which I actually dealt with back in my cross country days)
     - Taking it somewhat easy this week, but, I should be set to race on Sunday (!!!).
 - One of the best aspects of NYC is coming back to it after vacation. It’s getting increasingly hard to see myself living anywhere else (while I don’t have a family). Going back home to VA this past weekend felt like exiting a highway. Which is necessary, but felt like I didn’t have the environment to chase earned fatigue.
-- Attending the first wedding in my friend circle this past weekend gave me a fresh lens on my friendships. Questions like: “Who do I want in my wedding party?“, “Who should give a speech?”, and “How well would my difference ‘compartments’ of friends get along (not a worry, just that I have different mannerisms with some of them)?”
+- Attending the first wedding in my friend circle this past weekend gave me a fresh lens on my friendships. Questions like: “Who do I want in my wedding party?“, “Who should give a speech?”, and “How well would my different ‘compartments’ of friends get along (not a worry, just that I have different mannerisms with some of them)?”
 - Peloton hackathon in a few weeks. Excited to come out of the woodwork.
 
 ## 2/20/2017
@@ -115,7 +115,7 @@ Unpolished, developed over time.
 ## 1/13/2017
 
 - Going to bed with a full heart
- 
+
 ## 1/12/2017
 
 - Dust has settled after my latest post on pouring my whole self into work. Seemed to resonate with peeps ❤️
@@ -149,17 +149,17 @@ Unpolished, developed over time.
       - Passing on backups of journals and Dropbox accounts to loved ones in the case of an emergency
       - Content from shutdown services will be the "old albums in the grandparent's attic" of our generation
       - [Medium Rare](http://blog.semilshah.com/2016/04/30/medium-rare/)
- 
+
 ## 1/4/2017
 
 - Noticing that when people set a goal to wake up earlier, they forget about volume of sleep. The former should be secondary. Sleep enough, then work on shifting your wake up times.
 - Calm excitement as Ryan, Michael, Kenny and I prepare to announce our logs.
- 
+
 ## 1/3/2017
 
 - Just got news that I don't need a second surgery (deep exhale). Finally can get back to training. The 'limbo' state of not knowing an outcome was the hardest to deal with. Noticed a similar parallel in a previous long distance relationship (and those of my close friends). There needed to be an end goal in mind, where one of the partners (or both) take the hit and move to the same place. If that conversation isn't addressed, it tends to lead to issues (something I tried to resolve, in my move to NYC).
 - Walking home today, I forgot to play music after putting in my headphones. Reminded me of Nikhil's [thought on this](https://twitter.com/nikillinit/status/815666904442531840) earlier in the week. Just walking in silence with my thoughts, gave me the ability to notice aspects of my commute I typically gloss over. Nothing particularly profound here, just a nice reminder that I can turn off autopilot when navigating the city.
- 
+
 ## 1/2/2017
 
 - Feeling so much love today. My favorite core value is to love myself and others infinitely. On a long enough timescale, it comes back around.
@@ -184,7 +184,7 @@ Unpolished, developed over time.
 ## 1/1/2017
 
 - [Fantastic thought here](https://twitter.com/chriseidhof/status/815663730285494273)
- 
+
 ## 12/31/2016
 
 - Through journals like this, my daily private journal, and my monthly checkins with Shiva, I tend to notice that I lack the urge to do larger yearly "reviews." The incremental course adjustment seems to work better for me. However, when asking myself what went well and what didn't go well in 2016, here are the things that bubble up in my mind (more stream of conscious, gut instinct)
@@ -202,39 +202,39 @@ Unpolished, developed over time.
 - Been quiet on the journal front. It's 1:13am and I'm struggling to distill these past few days into thoughts. Not a bad thing necessarily. Got my follow-up ultrasound yesterday, so I'll have some closure in whether or not I need another surgery. Either way, I'll be stronger because of it.
 - I have a couple of physical goals, post-surgery. One that I'm public about is my desire to enter my first cycling race. Can't wait to start training once this injury clears up. Until then, I'll be putting in mental work.
 - Saw some old friends that I haven't seen in over two years. Felt incredible to catch up and some of them have even moved into the city. Walking home right now just smiling. Noticing that my best days usually end like this.
- 
+
 ## 12/27/2016
 
 - Found myself creating two notes in my journal the other day: one for date spots in NYC (I used to do this during previous relationships, a good sign that my heart felt the urge to write some ideas down) and one moonshot note about names for the kids I hope to have someday.
 - Chatted with Ryan today about ways to "shock the system" in different domains of our lives. Taking fitness as an example, marathons are a way of raising your baseline. In work, switching jobs (and the subsequent interviewing you have to do) accomplishes this. We tried to suss out other ways to do this in areas like reading and relationships.
- 
+
 ## 12/26/2016
 
 - Just because technology can enable anyone to build anything they want to exist, doesn't mean they *should*. This is because, as programmers, we often lack the background to understand the anthropological implications of our creations. This is why I want to go back to school and study cognitive science. Mixtures of the two fields will be entire [areas of research](https://twitter.com/nbashaw/status/813548745841197056).
 - Sounds obvious in retrospect, but a crucial second half to allowing myself more space to do meaningful work (writing and side projects) is proper energy levels. Two main contributors for me personally I this regard: sleep and recharge time (since I'm more of an introvert, spacing out time with friends, instead of back to back social outings in the week).
 - Looking back on my interest in track during high school and passion for cycling that developed over the past year, I'm realizing that I love endurance sports. Threads mental grit with physical training.
- 
+
 ## 12/24/2016
 
 - Meditation is starting to become normalized in my family. It's no longer awkward when I'll take 20 minutes to myself to sit in an adjacent room to recharge.
 - Body is still exhausted from this past five workouts week, going to throttle back this coming week.
 - Found myself randomly checking Ryan's thought journal as well. Felt like going beyond the surface level of his online persona (Snap stories for the time being). Journals like these are special.
 - [Hit the nail on the head](https://twitter.com/sean_a_rose/status/812750884987813888)
- 
+
 ## 12/23/2016
 
 - Not gonna lie, post surgery life is a bit tough. It's hard to know if I'm pushing it too much on the exercise front or if it's just residual recovery pain (since it's all below the skin).
 - Day 1 with Spectacles. Still digesting their impact. Like my approach to saving text notes in a platform-agnostic format, I'm consciously saving all of my Spectacle video files. These glasses are powerful in that they enable first-person memories.
 - Finally got to see Toshi after so long. Missed him a ton. One of those friends that transcends the normal compartments we tend to bucket our friends into (i.e. work friends, sports team friends, etc.)
 - On the train to Utica now, thinking about this journal. Still would like a way for people to subscribe to it (but still be somewhat involved, as a proxy for intimacy). Maybe an RSS feed that hits the Canvas API and generates a diff each day?
- 
+
 ## 12/22/2016
 
 - Looking back on my tweet about [NYC finally feeling like home](https://twitter.com/jasdev/status/788543352736186368). Meeting certain people helped contribute to that. Kate and Jason are two of them. I hope to do the same for any new NYC transplants.
 - During my reading session today w/ Originals, Grant challenged one of the core assumptions I'm basing this journal off of (which I'm glad he does)! On 12/7's entry, I made a note that this private--soon to be public--journal doesn't have the mechanisms to allow dopamine conditioning from likes, RTs, etc. However, Grant argues that in doing a volume of work, that feedback is essential in determining which of your ideas are great (because we're notoriously bad at self-assessment). I don't know if virality metrics are the right form of feedback though. Going to sit on this for a bit.
   - Coming back to this. Grant's stance of getting feedback on volumes of work doesn't really apply to journals. Still a good thought to chew on, but, the intent of this log isn't to be a form of creative output. Just high cadence thoughts (shoutout to Ryan).
 - Good posture (not forced) is attractive.
- 
+
 ## 12/21/2016
 
 - Sacrificed a bit of sleep last night to just talk with the roomies. Haven't laughed so hard in a long time. Went to bed yesterday with a warm heart.
@@ -243,22 +243,22 @@ Unpolished, developed over time.
   - Looping back at the end of the day. Finally cleared out a bunch of backlogged messages and emails. feels_good.png
 - Really excited for 2017. As Shiva had mentioned during our last checkin, we both have grown an immense amount over '16. Here's to even more growth (in both expected and unexpected ways).
 - Shared an excerpt from this journal on Twitter today and it resonated with a few peeps. Can't wait to make this public.
- 
+
 ## 12/20/2016
 
 - A sign of inner peace is the ability to sit in silence for an hour. A sign of a good relationship is the ability to comfortably do the same with someone else.
 - Mom's birthday today. It's an understatement that she is the strongest person I know. Love her more than she could ever imagine (and vice versa).
- 
+
 ## 12/19/2016
 
 - Despite the cost (which can somewhat be justified by the potential savings down the road by being in good health), I've come to love working with a coach/trainer. They help me build a better version of myself, while providing me with a friend I see multiple times a week, outside of my normal social circle.
 - Really missed the apartment mates while I was gone this weekend. Writing this entry now as we all sit in it living room, coexisting, yet silently connected through all we've been through (lived with them for a couple of years back at UVA).
- 
+
 ## 12/18/2016
 
 - A recurring theme in noticing amongst podcast interviewees is that chasing 'happiness' is a lost cause (much more of a fleeting emotion). Instead, a common thread is to instead strive for a steady state of contentedness. Noticing consistent meditation helping with this. Things that usually bothered me (e.g. my flight that was just cancelled), seem to brush off with way less friction.
 - I actually enjoy joining new social networks. The prospect of creating new, more compartmentalized social graphs is [exciting to me](http://jasdev.me/growing-up-with-facebook).
- 
+
 ## 12/17/2016
 
 - Brother's graduation ceremony in the morning. Haven't cried this much in a few months. Sounds awkward, but, crying more frequently (whether it be from laughter, love, movies etc.) *feels* healthier.
@@ -266,7 +266,7 @@ Unpolished, developed over time.
 - Watching Nisha help my Mom set up her Snapchat warmed my heart. I do a pretty good job of calling my Mom regularly, but voice and texts don't really give her a lens into my life. Excited to change this. If you're reading this journal, I'd like to do the same with you: snapchat.com/add/justdavesingh
 - The party always gets started when someone pulls out a deck of Uno cards 💯
 - [Nathan is spot on here](https://twitter.com/nbashaw/status/810339855641223168).
- 
+
 ## 12/16/2016
 
 - Haven't travelled outside the US (not counting Canada) since my trip to India in my teens. That needs to change in 2017. On the list:
@@ -275,12 +275,12 @@ Unpolished, developed over time.
   - Iceland
   - Japan
   - (will append to this as more come to mind)
- 
+
 - Sounds like the journal has hit home with Shiva. He mentioned a few points that make this journal feel worth it: he mentioned that he checked the journal more than Instagram or Twitter, maintaining an identity outside of traditional networks is important, and the thought of this journal has come up multiple times for him over the past few days.
 - His thoughts on this sparked my response: "I've noticed with this style, it requires peeps to poll it every so often (as opposed to push with social), which is somewhat refreshing because it comes from a place of genuine interest."
 - About to spend the weekend with my brother and the family for his graduation. Proud of him more than he realizes. To be honest, I wish I had been more vocal about this over the past few years.
 - Finally finished "Spark." Can't thank Zack enough for the recommendation. That book came into my life at just the right time.
- 
+
 ## 12/14/2016
 
 - Foods I've changed my mind about (which I now enjoy)
@@ -288,21 +288,21 @@ Unpolished, developed over time.
   - Sweet potatoes
   - Tea
   - Brussel sprouts
- 
+
 - "We're all playing our own game, but also the referee of it."
   - Spontaneous dinner w/ Ryan at Dig Inn. Funny how we're all going through the same emotions in parallel (Ryan, if you're reading this, "ambient," *air quotes* ).
- 
+
 - Checkin w/ Shiva in 30. We have *a lot* to recap. This will likely be our last session of 2016. Onwards.
 - Friends who push back on what we discuss/do are refreshing. Many peeps blindly accept what others say (or stay silent), when challenging what's said could help the other person grow in ways they didn't expect.
   - Today, Shiva reminded me of this when I told him about "digital listening." Sure, there is a place for pulling back from posting on social media. But, you can still be the person you want to be without abstaining from services like Twitter.
 - Shared a link to this journal for the third time.
- 
+
 ## 12/13/2016
 
 - Shared a link to this journal for the second time.
 - Continuing on Arjun's personal value of having a bias towards action, a decent framework for this is to assume most *negative* outcomes are your fault (within reason). Taking this view feels a bit more action-oriented. Take losing an important document because the power went out as an example. Sure it's bad luck, but when you ask yourself "damn, that's my fault, how can I prevent this?" Magic starts to happen. I could have instead backed up my documents continuously. Still ruminating on this.
 - Abstaining from sharing content on social media is almost a way of practicing "digital listening."
- 
+
 ## 12/12/2016
 
 - Today I had that magical "I love my job" moment.
@@ -311,37 +311,37 @@ Unpolished, developed over time.
 - “In the end, winning is sleeping better.”
   - Quote really hit home with me after noticing that my favorite days are the ones where I hit the bed emotionally/physically exhausted (in a good way)
     - Is there a synonym for exhaustion that has a positive connotation?
- 
- 
- 
+
+
+
 ## 12/11/2016
 
 - A weekend well-spent for me usually ends with a desire to get back to programming.
 - Collecting memories.
 - Building on "expect magic in every encounter."
   - Funny how much we can learn from having a pet (made a pact to get a corgi by 27). This is just one of the lessons I've started to premeditate on.
- 
- 
+
+
 ## 12/10/2016
 
 - Had a bit of time to digest all of the information from the Tim Ferriss live podcast recording last night. While it was packed with gems, it's hard not to look past the fact that the guests were entirely male (only one person of color). This lack of diversity might be why I started to pull back from his content. This isn't to say that his work is bad, but it could be *so much better* with different voices.
 - The more I read about [@dhh](https://twitter.com/dhh) and [@jasonfried](https://twitter.com/jasonfried), the more I realize that they're *silently* building the version of Slack that caters to people who want to work for *many decades*. Not the version where you're always reachable, constantly struggling to keep up with channels, etc. that leads to the "always-available" culture we have in startups.
   - A takeaway I got from David's comment about "engagement being a vanity metric for companies" is that I want to work for companies where engagement => positive impacts on user's lives. [Feel great about this with Peloton](https://twitter.com/jasdev/status/806979724908044288).
- 
+
 - "Information without emotion isn't retained." *adds to writing notes*
- 
+
 ## 12/9/2016
 
 - "Expect magic in every encounter."
 - Following up on "Don't give advice, tell stories." This is based on the assumption that you have stories to tell. Those don't come from working in your room all the time. Trying to get better at this.
- 
+
 ## 12/8/2016
 
 - Grateful
 - Whenever I'm in a group at a party/event and I see someone walking around alone, I try to invite them to the conversation and catch them up. This stems from the fact that I used to/still am often in that situation where I feel socially isolated at times and don't want others to have to feel that uneasiness.
 - I was initially nervous about meditating in the office the other day. But, after a few people saw, they came up to me later and told me they'd like to join!
 - "Thumbs on glass"
- 
+
 ## 12/7/2016
 
 - Don't give advice, tell stories.
@@ -349,21 +349,21 @@ Unpolished, developed over time.
 - Nights where I head to bed, physically and mentally drained (in a good way where I know I put in the work) are the best.
 - This journal is almost a way for me to decondition the dopamine rush of sharing on Twitter. But, it's arguably more private and less accessible. Funny how the answer to most things in life is balance.
 - Sounds obvious in hindsight, but buying furniture that isn't just my bed or desk has given me a space to *relax* in my apartment (not just being on the work or sleep side of the spectrum).
- 
+
 ## 12/6/2016
 
 - Shared a link to this journal for the first time.
 - Still trying to figure out the best way to phrase this--but, some of my closest friends are the ones I (goof&#124;derp) around with the most. Take Jay Whang and Jonathon Ho for example. They're easily two of the smartest people I know, yet we're so comfortable around one another, that we'll say/laugh at the *dumbest* things. I'll have days where I'll cry of laughter reading their messages. I want to suss that out of other close friends. A "derp litmus test," per say.
     - "Little rainbows of absurdity" as Tim Ferriss phrased it in the Tools of Titans
- 
+
 - Working through some of the less glamorous tickets at work, I'm reminded of Curtis' [thoughts on this](https://twitter.com/parrots/status/805892582140211200). Occasionally, you'll have to put the team on your back and do the dirty work. But, when you're a one-person shop, this slowdown in productivity needs to be weighed against accordingly. Definitely not black and white, but there is a balance.
- 
+
 ## 12/5/16
 
 - "Let's do all the things. Quietly."
 - I've never been one to erase pictures, videos, etc. of previous partners. While I understand this stance stems from the fact that I haven't had a break up that ended on bad terms, each person has molded me in some way. I'll always [love infinitely](https://github.com/Jasdev/thoughts/blame/97c505fa1cd52e74060fc898d0f20f3206347164/core-values.md#L6).
 - Surgery recovery this past seven weeks => redirecting my energy towards mediation. Makes me realize that people who say "X is my meditation," where X is some form of exercise itself most likely haven't been through a serious injury or period of time where they had to step away from X.
- 
+
 ## 12/4/16
 
 - It's really hard to describe myself in dating app profiles. Not sure if that's a bad thing.
@@ -371,11 +371,10 @@ Unpolished, developed over time.
 - When I change my mind about something (say X), I try to thank the first person who introduced me to X for expanding my perspective.
 - A framework for mentors that I've been thinking about recently involves having three. One older, younger, and your age. This gives you perspective along three axes as you navigate your career and life.
 - I'd like to have more friends who are parents (but not related to me). Khe is the first person that comes to mind for me personally.
- 
+
 ## 12/3/16
 
 - After chatting with certain people in my life, I'll either notice that I have more or less *energy* after the conversation. Definitely want to stay close to those who induce the former. [Hanging with Ashoka](https://twitter.com/jasdev/status/804174855021195264) this past week reminded me of this.
 - Spent the entire day just reading. *Still* days like these feel amazing.
 - One thing I really admire about [Lickability](http://lickability.com) is how [they allow friends to join their Slack](https://www.youtube.com/watch?v=vB7pop61oLg). A common desire for employees is to [work with friends](https://medium.com/@fat/twitter-bootstrap-b95033c270af#.68tmqbn14), what a great way to bring that in-house.
 - Reading [Jordan's post on Spectacles and how they've affected his *thinking*](https://twitter.com/jasdev/status/805164678808793088), I'm starting to realize this for myself and Twitter. The network is definitely more valuable than FB, Instagram, etc. for me personally, but I want to decondition this tendency to think in small 'bites.' Might go on read-only hiatus for a bit and post here.
- 
