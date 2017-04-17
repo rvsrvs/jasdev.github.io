@@ -13,7 +13,7 @@ I'm originally from and grew up in [Virginia](http://en.wikipedia.org/wiki/Fairf
 
 For the curious:
 
-- [Resume](/public/resume.pdf)
+- [Resume](http://jasdev.me/public/resume.pdf)
 - My old (deprecated) [projects page](/projects)
 
 ![](/public/images/about-pic.png)
