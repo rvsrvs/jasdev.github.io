@@ -3,7 +3,25 @@ layout: page
 title: Thoughts
 ---
 
-Unpolished, developed over time.
+Unpolished, developed over time (there may be typos).
+
+## 4/16/2017
+- Been a while. Just wrapped up a dense NYC weekend with Vinay (visiting from Virginia).
+- Backfilling my journal this evening was a blast. Excited for summer travels ahead.
+- Sitting with my itch write and work on side projects again, the main blocker seemed to come to the surface. I’ve been spending a lot of energy (and time) solely on work, fitness (hovering around six workouts a week leaves me pretty wiped), and friends/family. Obviously there is a balance here. Going to start carving out time for myself again to just sit, think, and reflect.
+    - Used to do this pretty regularly when I spent Sundays at Balanced.
+- Writing this entry next to Ryan at the office right now. Sometimes I pinch myself at how our friendship transitioned from a Twitter follow to calling him one of my closest friends in the city.
+
+## 4/3/2017
+- Concepts, learnings, and things that seem to “come into your life when you’re ready for them.“
+    - Meditation
+    - Learning about your parents’ past
+    - Joy of reading
+        - Despite being gifted to me over a year ago, I finally read [WBBA](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X) last month. I couldn’t put it down. The first book in a while that had this effect on me.
+- These things _should_ be introduced at an early age, but are _better absorbed_ when we naturally find ourselves gravitating towards them on our own accord
+    - Reminded of this by [Eric’s tweet on emotional control](https://twitter.com/EricJorgenson/status/848189594403262465) and efforts by public schools in using meditation instead of detention.
+- Fifth book of the year. While I tweeted out before about not counting books, there is no better feeling than finishing a good one (and putting down one that isn’t right for you)
+- Missing writing and projects a lot.
 
 ## 3/20/2017
 - > At the heart of Ten Thousand is the idea of pursuit. In business, fitness, and life, we believe in moving forward with a quiet dedication to constant improvement.
