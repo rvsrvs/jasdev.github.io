@@ -14,6 +14,9 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - ⭐️ Would gift to a friend or loved one
 
 ## Books
+- [RxSwift: Reactive Programming with Swift (RW Team)](https://www.amazon.com/RxSwift-Reactive-Programming-raywenderlich-com-Team/dp/1942878346) 📖
+- [Modern Romance (Aziz Ansari)](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251) 📖
+- [The Manager’s Path (Camille Fournier)](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 📖 ⭐️
 - [Starting Strength: Basic Barbell Training (Mark Rippetoe)](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738)
 - [Tools of Titans (Tim Ferriss)](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
 - [The Fascinating World of Graph Theory (Arthur Benjamin, Gary Chartrand, Ping Zhang)](https://www.amazon.com/Fascinating-World-Graph-Theory/dp/0691163812)
