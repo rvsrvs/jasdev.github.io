@@ -78,4 +78,3 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Remote (Jason Fried and David Heinemeier Hansson)](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) 📖 ⭐️
 - [Hooked: How to Build Habit-Forming Products (Nir Eyal)](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
 - [Like Father, Like Son: My Story on Running, Coaching and Parenting (Matt Centrowitz)](https://www.amazon.com/Like-Father-Son-Coaching-Parenting/dp/1542655048) 📖
-- [Modern Romance (Aziz Ansari)](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251) ✏️
