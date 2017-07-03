@@ -15,7 +15,8 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 
 ## Books
 - [RxSwift: Reactive Programming with Swift (RW Team)](https://www.amazon.com/RxSwift-Reactive-Programming-raywenderlich-com-Team/dp/1942878346) ✏️
-- [Behave: The Biology of Humans at Our Best and Worst (Robert Sapolsky)](https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078) ✏️
+- [Psyched Up (Daniel McGinn)](https://www.amazon.com/Psyched-Up-Science-Preparation-Succeed/dp/159184830X/) ✏️
+- [Behave: The Biology of Humans at Our Best and Worst (Robert Sapolsky)](https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078)
 - [Modern Romance (Aziz Ansari)](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251) 📖
 - [The Manager’s Path (Camille Fournier)](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 📖 ⭐️
 - [Starting Strength: Basic Barbell Training (Mark Rippetoe)](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738)
