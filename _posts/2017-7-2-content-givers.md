@@ -4,7 +4,7 @@ title: Content Givers
 permalink: content-givers
 ---
 
-Our routine is like clockwork. After each [hangout](https://www.instagram.com/p/BUFscWDApi3/), [Ryan](https://twitter.com/ryandawidjan) and I will exchange [photos](https://twitter.com/jasdev/status/862051865529286656) and videos to store in our [digital attics](/digital-attics). This habit sparked from the realization that while our generation [takes a hard-to-even-approximate amount of photos](http://ben-evans.com/benedictevans/2015/8/19/how-many-pictures) each year, a quick scroll of our Camera Rolls shows just how _rarely_ we take photos of ourselves and others.
+Our routine is like clockwork. After each [hangout](https://www.instagram.com/p/BUFscWDApi3/), [Ryan](https://twitter.com/ryandawidjan) and I will exchange [photos](https://twitter.com/jasdev/status/862051865529286656) and videos to store in our [digital attics](/digital-attics). This habit sparked from the realization that although it’s [hard to approximate how many photos our generation takes each year](http://ben-evans.com/benedictevans/2015/8/19/how-many-pictures), a quick scroll of our Camera Rolls shows just how _rarely_ we take photos of ourselves and others.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The photos you’ll care about later will be the ones with people in them.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/421088648310706176">January 8, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
