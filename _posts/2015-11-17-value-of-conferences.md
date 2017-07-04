@@ -10,7 +10,7 @@ I'm a huge fan of [Sean Rose](https://twitter.com/sean_a_rose). He is a forward-
 
 I had recently been lucky enough to attend [Swift Summit](https://www.swiftsummit.com), a conference for [Swift](https://developer.apple.com/swift/) developers in [San Francisco](https://en.wikipedia.org/wiki/San_Francisco). It was honestly one of the best decisions I've made as a young iOS developer. I wanted to offer a perspective on conferences that Sean's tweet misses.
 
-## Humanizing Your Heroes
+## <a name="humanizing-heroes">Humanizing Your Heroes</a>
 
 A quote I used to swear by is "keep working until your heroes become your peers." I've have since modified my mindset towards this idea. Your heroes are really no different than you are. They may have a years of experience under their belts, **but life is isn't about Y-intercepts**. [It's all about your slope](https://www.quora.com/What-are-the-most-profound-life-lessons-from-Stanford-Professor-John-Ousterhout/answer/Eric-Conner?srid=kI&share=1). Conferences help remind me of this.
 
