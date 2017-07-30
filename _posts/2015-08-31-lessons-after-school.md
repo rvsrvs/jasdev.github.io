@@ -32,7 +32,7 @@ After college, you might not exactly know your niche. That is perfectly fine. In
 
 In school, it's too easy to fall into the trap of **falsely** comparing yourself to others. Whether it's by GPA or courses taken, these metrics are not clean-cut. Moreover, after school, everyone embarks on their own trajectories and you need to make sure not to juxtapose them. Life is a race against yourself.
 
-Additionally, just because someone has years of prior experience doesn't mean they can't one day be your peer. "[A little bit of slope makes up for a lot of y-intercept](https://twitter.com/sean_a_rose/status/631310981147271168)."
+Additionally, just because someone has years of prior experience doesn't mean they can't one day be your peer. "[A little bit of slope makes up for a lot of y-intercept](https://www.quora.com/What-are-the-most-profound-life-lessons-from-Stanford-Professor-John-Ousterhout/answer/Eric-Conner?srid=kI&share=1)."
 
 ![](/public/images/slope.png)
 
