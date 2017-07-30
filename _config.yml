@@ -33,14 +33,6 @@ twitter:
 
 paginate:         5
 
-collections:
-  thoughts:
-    output: true
-    permalink: /:collection/:name
-    defaults:
-      values:
-        layout: post
-
 # Links
 github:           https://github.com/jasdev
 gyroscope:        https://gyrosco.pe/jasdev/helix/
