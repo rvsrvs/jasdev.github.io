@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Thoughts
+title: Thoughts - All
 ---
 
-[Unpolished, developed over time](/high-cadence-versus-well-formed).
-
-- [All](/thoughts/all)
 {% assign sorted_thoughts = site.thoughts | sort: "date" | reverse %}
 {% for thought in sorted_thoughts %}
 {% if thought.title != "Thoughts - All" %}
-- [{{ thought.title }}]({{ thought.url }})
+## [{{ thought.title }}]({{ thought.url }})
+{{ thought.content }}
 {% endif %}
 {% endfor %}
