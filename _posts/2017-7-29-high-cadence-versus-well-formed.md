@@ -22,7 +22,7 @@ This journal helped reveal my inner gears. More specifically, it allowed others 
 
 ## What Didn’t Go So Well?
 
-Counterintuitively, the journal almost acted like an _escape valve_ for my ambition to write longer-form posts. Instead of taking the extra time to crystallize a cohesive thesis, I’d sometimes fire off an entry and call it a day<sup>3</sup>. Doing so caused me to miss out on arguably the most important of writing: the final 20% involved in publishing. Editing, _n_-ary drafts, and trimming the cruft are the metaphorical [sticking points](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4887540/) where most of my cognitive growth happens.
+Counterintuitively, the journal almost acted like an _escape valve_ for my ambition to write longer-form posts. Instead of taking the extra time to crystallize a cohesive thesis, I’d sometimes fire off an entry and call it a day<sup>3</sup>. Doing so caused me to miss out on arguably the most important part of writing: the final 20% involved in publishing. Editing, _n_-ary drafts, and trimming the cruft are the metaphorical [sticking points](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4887540/) where most of my cognitive growth happens.
 
 A second, more concrete aspect that could have been improved was tooling. Below are the steps<sup>4</sup>—read friction—around updating the thought journal:
 
