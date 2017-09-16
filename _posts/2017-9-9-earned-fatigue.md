@@ -76,7 +76,7 @@ Special thanks to [Kate](https://twitter.com/katelikestoread) and [Justin](https
 
 <sup>2</sup>: [GIF equivalent of this](https://twitter.com/cgallello/status/841401466124349441)
 
-<sup>3</sup>: In the absence of quarters and semesters that university provided, I’ve tried to impose structure on my years through seasons. It helps avoid “[Forever Projects](http://blog.dianakimball.com/post/82007556697/no-more-forever-projects)” and allows efforts to be directed for finite periods of time.
+<sup>3</sup>: In the absence of quarters and semesters that university provided, I’ve tried to impose structure on my years through seasons. It helps avoid “[Forever Projects](https://dianaberlin.com/posts/no-more-forever-projects)” and allows efforts to be directed for finite periods of time.
 
 <sup>4</sup>: I hope the [literal definition](http://www.dictionary.com/browse/humbling) of “humbling” makes a comeback. Not the faux-bragging version that’s used in “I’m so humbled to receive this reward…”
 
