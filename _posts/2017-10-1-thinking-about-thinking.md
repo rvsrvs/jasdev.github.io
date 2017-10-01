@@ -24,7 +24,7 @@ It seems contradictory that I’m regarding these states as being mutually exclu
 
 > […] You should disagree with yourself. Totalitarian thought asks us to consider, much less accept, only one hypothesis at a time. By contrast quantum thought, […] demands that we [simultaneously] consider often mutually contradictory possibilities.
 
-The thinking/present distinction is the first instance of quantum thought I’ve come across, since reading their post. Maybe we’re constantly oscillating between the present and thought that when we actually attain either _specifically_, we truly notice it. In any case, this has been in my stream of consciousness for a couple of weeks now, so I wanted to write it down.
+The thinking/present distinction is the first instance of quantum thought I’ve come across, since reading their post. I’m still processing this thought. But, it’s been in my stream of consciousness for a couple of weeks now, so I wanted to commit it to prose.
 
 ---
 
@@ -32,6 +32,6 @@ Special thanks to [Joe](http://twitter.com/mergesort) for providing feedback on 
 
 ## Footnotes
 
-<sup>1</sup>: I took pages of notes during the week-long retreat. If you’d like posts on the major themes, let me know!
+<sup>1</sup>: I took notes during the silent, week-long retreat. If you’d like posts on the major themes, let me know!
 
 <sup>2</sup>: This isn’t meant to put thinking in a negative light! Without it, we wouldn’t be able to cogitate at all.
