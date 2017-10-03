@@ -1,19 +1,44 @@
 ---
 layout: page
-title: About
 ---
 
-Hi, my name is Jasdev Singh! I'm an engineer who loves building APIs and iOS apps! I currently work at [Peloton](https://www.pelotoncycle.com) as a software engineer.
+(Last Updated: 10/7/2017)
 
-I've previously worked at [Tumblr](https://www.tumblr.com) as an iOS Core Engineer, [Imgur](http://imgur.com) as an API and iOS engineer, and spent time building side projects at the [Recurse Center](https://www.recurse.com). Before that, I interned at Twitter (in the [KPCB Fellow '13 Class](http://kpcbfellows.com)), [Fitocracy](https://www.fitocracy.com), and Microsoft. I was one of the founders of UVa's [first student hackathon](http://hackuva.io) and also studied math and computer science there (SEAS '14).
+## How’d I End Up in NYC?
 
-In my free time, I love building [habits](https://www.coach.me/users/3140daf3d432d7f0065b), cycling, reading, and following [corgi accounts](https://www.instagram.com/zoeydacorgi/) on Instagram. Also, I run [Public Extension](https://twitter.com/publicextension), where I tweet out handy Swift language extensions. Occasionally, I give [talks](https://github.com/Jasdev/talks)! [Dance music](https://soundcloud.com/jasdev-singh) is a big part of my life (wrote my [thesis on it](https://www.youtube.com/watch?v=irAFO2rGvTg)).
+I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation in 2014, I headed out to [San Francisco](http://en.wikipedia.org/wiki/San_Francisco) for about a year. But, I eventually found myself back on the East-Coast. The _only_ part of the “Where do you see yourself in five years?” question I feel remotely confident answering is that I’ll still be in New York.
 
-I'm originally from and grew up in [Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia), lived in [San Francisco](http://en.wikipedia.org/wiki/San_Francisco) after graduating, and am currently living in New York!
+## What Am I Struggling With Right Now?
 
-For the curious:
+A couple of things:
 
-- [Resume](http://jasdev.me/public/resume.pdf)
-- My old (deprecated) [projects page](/projects)
+- Growing out of the “iOS Engineer” label. I recently [wrote about the power of the labels](/peeling-labels) we hold—both voluntarily and involuntarily. Simply calling myself an “engineer” might _inadvertently_ lower my ceiling, since I love exploring the folds of product, technology, and thoughtful design.
+- [Finding an editor](https://twitter.com/jasdev/status/916265441584140288). A long-term goal I’m working towards at the moment is writing professionally. Hiring an editor is likely a point along that trajectory. If you have any recommendations, it’d mean a ton if you [sent them my way](mailto:{{ site.email }}).
+
+## What I’d Love to Help You With
+
+- Editing. I wholeheartedly believe that [editors help craft better writers](https://twitter.com/jasdev/status/790202105839640580). If you need a pair of eyes on a post, please [reach out](https://twitter.com/jasdev) (DMs open).
+- [Holding space](https://twitter.com/jasdev/status/831682922704945152). I learn the most when listening to [folks from walks of life unlike mine](https://twitter.com/jasdev/status/906596468873728000). I’d love to help work through an issue (of any variety) by holding space for you to talk about it.
+- Feedback on prototypes and project ideas (I mostly focus on iOS apps and APIs these days).
+
+## Questions I’m Thinking About
+
+- Ways to [slow down one’s perception of time](https://twitter.com/naval/status/769745071675539456)
+- How can we foster [effortful learning](http://journals.sagepub.com/doi/abs/10.1177/0963721414540167) (espoused in [_Make it Stick_](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)) in an age of fleeting content (tweets, snaps, and faster-paced blogs)?
+- There are tons of clear thinkers out there that don’t write. How do we surface their thoughts without the friction associated with blogs and Medium posts, yet provide more room for nuance than Twitter?
+
+## What I Would Like To Be Known For
+
+- Making the world better through people.
+- A friend who [loves infinitely](https://github.com/Jasdev/thoughts/blame/181dbeacaf083497ad10f080247a2e5b9b4af401/core-values.md#L7), but also [challenges peers grow](https://twitter.com/jasdev/status/869938469153492999).
+- Someone who [thinks aloud](/thoughts) as a reminder that we usually [experience similar invisible wounds](https://twitter.com/jasdev/status/784511992618971136).
+
+## Things I Spend/Spent Way Too Much Time On
+
+- [Dance music](https://soundcloud.com/jasdev-singh) (wrote my [thesis on it](https://www.youtube.com/watch?v=irAFO2rGvTg)).
+- [Journaling](/small-moments). Starting in July 2013, I’ve kept a daily journal of my inner life.
+- [Thinking about group fitness](https://twitter.com/jasdev/status/852130577461465089) and how to build products that help us build better versions of ourselves.
+- Following [corgi accounts](https://www.instagram.com/zoeydacorgi/) on Instagram.
+- Tetris. I used to be globally ranked in [Cascade Tetris](https://en.wikipedia.org/wiki/Tetris_Worlds#Arcade_mode) when I was a teenager.
 
 ![](/public/images/about-pic.png)

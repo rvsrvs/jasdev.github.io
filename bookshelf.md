@@ -3,31 +3,39 @@ layout: page
 title: Bookshelf
 ---
 
-Inspired by [Patrick Collison](https://patrickcollison.com/bookshelf) and [Sean Rose](https://medium.com/@sean_a_rose/2017-books-6a081de313da#.p68gx5cz5)’s attempts at digital “bookshelves,” I’ve decided to catalog mine here.
+My reading is (sometimes-evenly) split between blogs and books. While the merits of the two mediums are [heavily](https://stratechery.com/2017/books-and-blogs/) [debated](https://www.scotthyoung.com/blog/2014/01/16/blogs-vs-books/), I try to stick with a mix of both.
 
-Below is a (fairly) updated list of all of the (physical&#124;digital) books I own (in no particular order).
+## Blogs
+
+[Instapaper](https://www.instapaper.com) is my tool of choice in navigating web content. Here are a few ways to follow along: [web](http://instapaper.com/p/jasdev), [RSS](http://instapaper.com/starred/rss/4750197/tes3ESKY5E01Sx4DKAfUYK9rUQ), and [Twitter](https://twitter.com/whatjasdevreads).
+
+## Books
+
+Inspired by [Patrick Collison](https://patrickcollison.com/bookshelf)’s attempt at a digital “bookshelf,” I’ve decided to catalog mine here.
+
+Below is a (fairly) updated list of all of the (physical&#124;digital) books I own (in no particular order, without affiliate links).
 
 ### Legend
+
 - 🎧 Listened to audiobook
 - 📖 Read ebook or physical book
 - ✏️ In progress
 - ⭐️ Would gift to a friend or loved one
 
-## Books
+### Reading List (Last Updated: 10/7/2017)
+
 - [RxSwift: Reactive Programming with Swift (RW Team)](https://www.amazon.com/RxSwift-Reactive-Programming-raywenderlich-com-Team/dp/1942878346) ✏️
 - [Psyched Up (Daniel McGinn)](https://www.amazon.com/Psyched-Up-Science-Preparation-Succeed/dp/159184830X/) ✏️
 - [Behave: The Biology of Humans at Our Best and Worst (Robert Sapolsky)](https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078)
 - [Modern Romance (Aziz Ansari)](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251) 📖
 - [The Manager’s Path (Camille Fournier)](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 📖 ⭐️
 - [Starting Strength: Basic Barbell Training (Mark Rippetoe)](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738)
-- [Tools of Titans (Tim Ferriss)](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
 - [The Fascinating World of Graph Theory (Arthur Benjamin, Gary Chartrand, Ping Zhang)](https://www.amazon.com/Fascinating-World-Graph-Theory/dp/0691163812)
 - [Gödel, Escher, Bach: An Eternal Golden Braid (Douglas R. Hofstadter)](https://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567)
 - [Shoe Dog: A Memoir by the Creator of Nike (Phil Knight)](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135910)
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Ben Horowitz)](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 - [Wonderland: How Play Made the Modern World (Steven Johnson)](https://www.amazon.com/Wonderland-Play-Made-Modern-World/dp/0399184481)
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager (Michael Lopp)](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
-- [Connecting in College: How Friendship Networks Matter for Academic and Social Success (Janice M. McCabe)](https://www.amazon.com/Connecting-College-Friendship-Networks-Academic/dp/022640952X)
 - [100 Plus: How the Coming Age of Longevity Will Change Everything, From Careers and Relationships to Family and Faith (Sonia Arrison)](https://www.amazon.com/100-Plus-Longevity-Everything-Relationships/dp/0465063764)
 - [How to Prove It: A Structured Approach (Daniel J. Velleman)](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995) 📖
 - [Inner Engineering: A Yogi's Guide to Joy (Sadhguru)](https://www.amazon.com/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794)
@@ -57,7 +65,6 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Swift Documentation Markup (Erica Sadun)](https://leanpub.com/swiftdocumentationmarkup) 📖
 - [The Internet Of Garbage (Sarah Jeong)](https://www.amazon.com/Internet-Garbage-Sarah-Jeong-ebook/dp/B011JAV030)
 - [Thinking, Fast and Slow (Daniel Kahneman)](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA)
-	- (I don’t think I’ve met anyone who has finished this tome)
 - [The War of Art (Steven Pressfield)](https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG)
 - [Ask Me Anything (Various)](https://www.amazon.com/Anything-collection-Reddits-best-IAmA/dp/0692582266)
 - [Gratitude (Oliver Sacks)](https://www.amazon.com/Gratitude-Oliver-Sacks/dp/0451492935) 📖
@@ -75,8 +82,23 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [The Crossroads of Should and Must (Elle Luna)](https://www.amazon.com/Crossroads-Should-Must-Follow-Passion/dp/0761184880) 📖 ⭐️
 - [Creativity, Inc. (Ed Catmull)](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012)
 - [Simple Rules: How to Thrive in a Complex World (Donald Sull and Kathleen M. Eisenhardt)](https://www.amazon.com/Simple-Rules-Thrive-Complex-World/dp/0544705203)
+- [Tools of Titans (Tim Ferriss)](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
 - [Make It Stick (Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel)](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013) 📖 ⭐️
 - [A Beautiful Constraint (Adam Morgan and Mark Barden)](https://www.amazon.com/Beautiful-Constraint-Transform-Limitations-Advantages/dp/1118899016)
 - [Remote (Jason Fried and David Heinemeier Hansson)](https://www.amazon.com/Remote-Office-Required-Jason-Fried/dp/0804137501) 📖 ⭐️
 - [Hooked: How to Build Habit-Forming Products (Nir Eyal)](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
 - [Like Father, Like Son: My Story on Running, Coaching and Parenting (Matt Centrowitz)](https://www.amazon.com/Like-Father-Son-Coaching-Parenting/dp/1542655048) 📖
+- [Haskell Programming from First Principles (Julie Moronuki and Christopher Allen)](http://haskellbook.com)
+- [Foolproof, and Other Mathematical Meditations (Brian Hayes)](https://www.amazon.com/gp/product/026203686X)
+- [Reset (Ellen Pao)](https://www.amazon.com/gp/product/039959101X)
+- [Bright Dead Things (Ada Limón)](https://www.amazon.com/gp/product/1571314717)
+- [The Time-Crunched Cyclist (Chris Carmichael and Jim Rutberg)](https://www.amazon.com/gp/product/1937715507)
+- [Tribe (Sebastian Junger)](https://www.amazon.com/gp/product/1455566381)
+- [Nicely Said (Nicole Fenton and Kate Kiefer Lee)](https://www.amazon.com/gp/product/0321988191)
+- [The Rise of Superman (Steven Kotler)](https://www.amazon.com/gp/product/1477800832)
+- [Design Your Work (Tiago Forte)](https://www.amazon.com/dp/B075VXH7ZL)
+- [Aphrodite Emerges (Susie Herrick and Elle Luna)](https://www.aphroditeemerges.com)
+- [Peak (Anders Ericsson and Robert Pool)](https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223)
+- [Practice (Postlight)](https://postlight.com/practice/)
+- [Radical Candor (Kim Scott)](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
+- [Optimizing Collections (Károly Lőrentey)](https://www.objc.io/books/optimizing-collections/)

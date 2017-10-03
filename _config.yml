@@ -17,7 +17,7 @@ gems:
 
 # Setup
 title:            'Jasdev Singh'
-description:      'Hi, I''m <a href="/about">Jasdev</a>! I''m an engineer who loves reading, writing, and human performance.'
+description:      'Hey, I’m Jasdev. I write software and prose in New York.'
 url:              http://jasdev.me
 baseurl:          /
 
@@ -43,9 +43,7 @@ collections:
 
 # Links
 github:               https://github.com/jasdev
+search:               https://www.google.com/search?q=site%3Ajasdev.me
 gyroscope:            https://gyrosco.pe/jasdev/helix/
 instagram:            https://instagram.com/jasdev
 soundcloud:           https://soundcloud.com/jasdev-singh
-instapaper:           http://instapaper.com/p/jasdev
-instapaper_rss:       http://instapaper.com/starred/rss/4750197/tes3ESKY5E01Sx4DKAfUYK9rUQ
-instapaper_twitter:   https://twitter.com/whatjasdevreads

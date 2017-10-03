@@ -6,8 +6,8 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jasdev Singh - Thoughts</title>
- <link href="{{ site.url }}{{ site.baseurl }}thoughts.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}thoughts"/>
+ <link href="{{ site.url }}{{ "/thoughts.xml" | relative_url }}" rel="self"/>
+ <link href="{{ site.url }}{{ "/thoughts" | relative_url }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
  <author>
@@ -18,12 +18,12 @@ layout: null
 
  {% assign sorted_thoughts = site.thoughts | sort: "date" | reverse %}
  {% for thought in sorted_thoughts %}
- {% if thought.title != "Thoughts - All" %}
+ {% if thought.title != "Thoughts - Archive" %}
  <entry>
    <title>{{ thought.title }}</title>
    <link href="{{ site.url }}{{ thought.url }}"/>
    <updated>{{ thought.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ site.baseurl }}{{ thought.id }}</id>
+   <id>{{ site.url }}{{ thought.url }}</id>
    <content type="html">{{ thought.content | xml_escape }}</content>
  </entry>
  {% endif %}
