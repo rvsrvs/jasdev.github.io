@@ -6,7 +6,7 @@ layout: page
 
 ## [Thoughts](/thoughts) ([RSS](/thoughts.xml))
 
-An attempt to create a public, high-cadence log of what’s on my mind. Along the spectrum between [my Twitter account](https://twitter.com/jasdev) and my blog, this journal sits in-between. Unpolished thoughts, developed over time.
+An attempt to create a public, high-cadence log of what’s on my mind. Along the spectrum between [my Twitter account](https://twitter.com/jasdev) and my blog, [this journal](/thoughts) sits in-between. Unpolished thoughts, developed over time.
 
 ## How’d I End Up in NYC?
 
