@@ -4,6 +4,10 @@ layout: page
 
 (Last Updated: 10/7/2017)
 
+## [Thoughts](/thoughts) ([RSS](/thoughts.xml))
+
+An attempt to create a public, high-cadence log of what’s on my mind. Along the spectrum between [my Twitter account](https://twitter.com/jasdev) and my blog, this journal sits in-between. Unpolished thoughts, developed over time.
+
 ## How’d I End Up in NYC?
 
 I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation in 2014, I headed out to [San Francisco](http://en.wikipedia.org/wiki/San_Francisco) for about a year. But, I eventually found myself back on the East-Coast. The _only_ part of the “Where do you see yourself in five years?” question I feel remotely confident answering is that I’ll still be in New York.
