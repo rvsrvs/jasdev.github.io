@@ -32,7 +32,7 @@ Regimented discomfort has taken the form of training. Currently, I aim for three
 
 The mental side of contrast mostly mirrors its physical counterpart. That is, [submarine-like periods of attention](https://twitter.com/sama/status/630869228137127936) help me better enjoy the lighthearted moments. However, there are two nuances I want to explore: why some of my smartest friends are (often) the “goofiest” and how meditation compliments our [default mode of _consuming_ media all day](http://nearthespeedoflight.com/article/2017_01_25_don___t_kill_time_2).
 
-### Raw Intellect <> “Derpiness”
+### <a name="derpiness">Raw Intellect <> “Derpiness”</a>
 
 When I think about my friends[^6] who pack the most mental firepower[^7], a common thread through all of them is that they _love_ derping around. To provide some context, one of my closest friends, [Nishant](https://twitter.com/binroot), is easily one [smartest people I know](http://shukla.io). We’re so comfortable around one another to the point that we laugh at [the most mindless things](https://twitter.com/jasdev/status/843930159451426818). On many occasions, I’ve cried of laughter reading his messages. I’d _guess_ that this dynamic occurs because Nishant is constantly surrounded by extraordinary colleagues, _implicitly_ applying pressure to appear “with it.“ Goofing around after hours provides a refreshing contrast.
 
