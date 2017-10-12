@@ -102,3 +102,5 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Practice (Postlight)](https://postlight.com/practice/)
 - [Radical Candor (Kim Scott)](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509)
 - [Optimizing Collections (Károly Lőrentey)](https://www.objc.io/books/optimizing-collections/)
+- [The Paper Menagerie (Ken Liu)](https://www.amazon.com/gp/product/148142436X)
+- [The Elephant in the Brain (Kevin Simler and Robin Hanson)](https://www.amazon.com/gp/product/0190495995)
