@@ -32,7 +32,7 @@ There's a concept in physics that objects have a moment of inertia. An item’s 
 
 ## If I’m More Than an “iOS Engineer,” What Am I?
 
-I’m still sitting with this question. For now, I’m _personally_ content with “Building Peloton.” But, this is super<sup>ambiguous</sup> in the workplace (and when it comes to pay grades). “Product engineer” could be fitting, given that I spend a lot of time in our users’ shoes (literally, I try to clip into the bike a couple of times a week to experience Peloton’s touch points).
+I’m still sitting with this question. For now, I’m _personally_ content with “Building Peloton.” But, this is super ambiguous in the workplace (and when it comes to pay grades). “Product engineer” could be fitting, given that I spend a lot of time in our users’ shoes (literally, I try to clip into the bike a couple of times a week to experience Peloton’s touch points).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My new hobby is to attend random group fitness classes in NYC to see how we can better improve Peloton 😏</p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/852130577461465089?ref_src=twsrc%5Etfw">April 12, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
