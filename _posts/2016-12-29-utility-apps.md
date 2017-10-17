@@ -4,7 +4,7 @@ title: Utility Apps
 permalink: utility-apps
 ---
 
-A couple of days ago, I made a series of tweets that highlighted _smaller utility_[^1] applications that I've found recently.
+A couple of days ago, I made a series of tweets that highlighted _smaller utility_[^1] applications that I’ve found recently.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love utility apps that solve a small need in an elegant way. Wanted to share three I’ve found recently (would love other recommendations)!</p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/814666130371604485">December 30, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -29,7 +29,7 @@ The thread hit home with others and served as a shout out to the developers behi
 
 ## macOS:
 
-- [Balance](https://balancemy.money) by [Ben Baron](https://twitter.com/einsteinx2), [Chris Baroni](https://twitter.com/chrisbaroni), and [Richard Burton](https://twitter.com/ricburton): Ever since Mint [deprecated their Mac app](https://mint.lc.intuit.com/questions/1244369-discontinuing-the-mac-quickview-app), I've been looking for a replacement. Balance has helped fill this void.
+- [Balance](https://balancemy.money) by [Ben Baron](https://twitter.com/einsteinx2), [Chris Baroni](https://twitter.com/chrisbaroni), and [Richard Burton](https://twitter.com/ricburton): Ever since Mint [deprecated their Mac app](https://mint.lc.intuit.com/questions/1244369-discontinuing-the-mac-quickview-app), I’ve been looking for a replacement. Balance has helped fill this void.
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jasdev">@jasdev</a> <a href="https://twitter.com/campedersen">@campedersen</a> that was a big motivation for us. If you have any feature requests or ideas, please do let us know.</p>&mdash; Balance (@balancemymoney) <a href="https://twitter.com/balancemymoney/status/775760491683516416">September 13, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -38,9 +38,9 @@ The thread hit home with others and served as a shout out to the developers behi
 - [Bartender](https://www.macbartender.com) by [Surtees Studios](http://www.surteesstudios.com): Lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to a separate bar.
 - [BetterTouchTool](https://www.boastr.net) by [Andreas Hegenberg](https://twitter.com/boastr_net): Takes macOS gestures and shortcuts to the next level. This is a must-install on all of my macOS devices.
 - [Chatology](https://flexibits.com/chatology) by [Michael Simmons](https://twitter.com/macguitar) and [Kent Sutherland](https://twitter.com/ksuther): What ⌘ + F for Messages.app should be.
-- [Helium](https://itunes.apple.com/us/app/helium/id1054607607?mt=12) by [Jaden Geller](https://twitter.com/jadengeller): [Apple's PiP](https://support.apple.com/en-us/HT206997) on steroids.
-- [Boxy](https://itunes.apple.com/us/app/boxy.-inbox-by-gmail-email/id1053031090?l=it&ls=1&mt=12) by [Francesco Di Lorenzo](https://twitter.com/frankdilo) and [Fabrizio Rinaldi](https://twitter.com/linuz90): An native wrapper for Google's [Inbox](https://www.google.com/inbox/).
-- [Messenger for Mac](https://fbmacmessenger.rsms.me) by [Rasmus Andersson](https://twitter.com/rsms): A native wrapper for Facebook's [Messenger](https://www.messenger.com).
+- [Helium](https://itunes.apple.com/us/app/helium/id1054607607?mt=12) by [Jaden Geller](https://twitter.com/jadengeller): [Apple’s PiP](https://support.apple.com/en-us/HT206997) on steroids.
+- [Boxy](https://itunes.apple.com/us/app/boxy.-inbox-by-gmail-email/id1053031090?l=it&ls=1&mt=12) by [Francesco Di Lorenzo](https://twitter.com/frankdilo) and [Fabrizio Rinaldi](https://twitter.com/linuz90): An native wrapper for Google’s [Inbox](https://www.google.com/inbox/).
+- [Messenger for Mac](https://fbmacmessenger.rsms.me) by [Rasmus Andersson](https://twitter.com/rsms): A native wrapper for Facebook’s [Messenger](https://www.messenger.com).
 - [Redacted](https://itunes.apple.com/app/redacted/id984968384?mt=12) by [Sam Soffes](https://twitter.com/soffes): A simple photo redaction tool.
 - [Spectrum](https://itunes.apple.com/us/app/spectrum/id518156125?mt=12) by [Eigenlogik](http://www.eigenlogik.com): Easily manage your color palettes.
 - [Wallcat](https://itunes.apple.com/us/app/wallcat/id1000397973?mt=12) by [Dustin Senos](https://twitter.com/dustin): Wake up every morning to a new, hand-picked desktop image.

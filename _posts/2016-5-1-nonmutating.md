@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Swift's nonmutating Keyword
+title: Swift’s nonmutating Keyword
 permalink: nonmutating
 ---
 
-In preparing my recent "[Hidden Gems in Swift](https://speakerdeck.com/jasdev/hidden-gems-in-swift)" talk, I carefully combed through Swift's "[Lexical Structure](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/LexicalStructure.html)" section. One keyword that stuck out to me, but ultimately didn't make it into the talk was `nonmutating`. Much like the [`@nonobjc`](/when-to-use-nonobjc) attribute, it surprised me that I hadn't seen this keyword in the wild.
+In preparing my recent “[Hidden Gems in Swift](https://speakerdeck.com/jasdev/hidden-gems-in-swift)” talk, I carefully combed through Swift’s “[Lexical Structure](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/LexicalStructure.html)” section. One keyword that stuck out to me, but ultimately didn’t make it into the talk was `nonmutating`. Much like the [`@nonobjc`](/when-to-use-nonobjc) attribute, it surprised me that I hadn’t seen this keyword in the wild.
 
 In searching for example uses, I stumbled upon this conversation between [Andy Matuschak](https://twitter.com/andy_matuschak/) and [Sidney San Martín](https://twitter.com/Sidnicious):
 
@@ -22,8 +22,8 @@ In searching for example uses, I stumbled upon this conversation between [Andy M
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/Sidnicious">@Sidnicious</a> Hm. I think you’re right, actually!</p>&mdash; Andy Matuschak (@andy_matuschak) <a href="https://twitter.com/andy_matuschak/status/653620726801395712">October 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Stepping through Sidney's example, we can see how `nonmutating` signals that a setter doesn't modify the containing instance, but instead has global side effects.
+Stepping through Sidney’s example, we can see how `nonmutating` signals that a setter doesn’t modify the containing instance, but instead has global side effects.
 
 <script src="https://gist.github.com/Jasdev/cd96d61277a8b1c1e6f4b413d9ccc645.js"></script>
 
-Whether or not this is good practice is a larger question. But, it's definitely worth adding to your tool belt!
+Whether or not this is good practice is a larger question. But, it’s definitely worth adding to your tool belt!

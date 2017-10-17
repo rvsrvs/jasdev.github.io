@@ -12,7 +12,7 @@ There is no manual to life and how you should live it. Your parents, idols, ment
 
 ## Time Moves Way Faster After School
 
-It seriously does. People claim that college will be the best four years of your life and that it moves quickly. I have two reactions to this. First, why upper bound your "best years?" College is an amazing time, but it should also be a launchpad into your best years down the road. Secondly, as the president of [Y Combinator](http://www.ycombinator.com), [Sam Altman](https://twitter.com/sama), mentioned in his [post on turning 30](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short): "the days are long but the decades are short." Years following school fly by way faster than those in school.
+It seriously does. People claim that college will be the best four years of your life and that it moves quickly. I have two reactions to this. First, why upper bound your “best years?” College is an amazing time, but it should also be a launchpad into your best years down the road. Secondly, as the president of [Y Combinator](http://www.ycombinator.com), [Sam Altman](https://twitter.com/sama), mentioned in his [post on turning 30](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short): “the days are long but the decades are short.” Years following school fly by way faster than those in school.
 
 ## Mental Health Is Just as Important as Physical Health
 
@@ -26,13 +26,13 @@ Related to mental health, make sure to pace yourself in your work. There are no 
 
 ## Optimize for Learning
 
-After college, you might not exactly know your niche. That is perfectly fine. In this case, I tend to optimize for learning. Will that job at a startup pay less than the 800-pound gorilla but teach you more? Go with the startup. Your first job won't define your entire career. Lean towards opportunities that push you outside your comfort zone.
+After college, you might not exactly know your niche. That is perfectly fine. In this case, I tend to optimize for learning. Will that job at a startup pay less than the 800-pound gorilla but teach you more? Go with the startup. Your first job won’t define your entire career. Lean towards opportunities that push you outside your comfort zone.
 
 ## <a name="trajectories">Your Peers Are All on Their Own Trajectories</a>
 
-In school, it's too easy to fall into the trap of **falsely** comparing yourself to others. Whether it's by GPA or courses taken, these metrics are not clean-cut. Moreover, after school, everyone embarks on their own trajectories and you need to make sure not to juxtapose them. Life is a race against yourself.
+In school, it’s too easy to fall into the trap of **falsely** comparing yourself to others. Whether it’s by GPA or courses taken, these metrics are not clean-cut. Moreover, after school, everyone embarks on their own trajectories and you need to make sure not to juxtapose them. Life is a race against yourself.
 
-Additionally, just because someone has years of prior experience doesn't mean they can't one day be your peer. "[A little bit of slope makes up for a lot of y-intercept](https://twitter.com/sean_a_rose/status/631310981147271168)."
+Additionally, just because someone has years of prior experience doesn’t mean they can’t one day be your peer. “[A little bit of slope makes up for a lot of y-intercept](https://twitter.com/sean_a_rose/status/631310981147271168).”
 
 ![](/public/images/slope.png)
 
@@ -42,14 +42,14 @@ Additionally, just because someone has years of prior experience doesn't mean th
 
 [Keystone habits](http://jamesclear.com/keystone-habits) are those that keep you due north, when everything else in life may appear to be going south. A common example is exercise. When you exercise regularly, you tend to sleep, eat, and feel better. Some of my keystone habits include [writing three positive things about each day](https://www.coach.me/plans/1090-write-three-positive-things-about-today) (which later turned into a [habit of journaling](http://jasdev.me/small-moments)), meditation, and reading.
 
-## No Matter What Happens, It'll Be Just Right
+## No Matter What Happens, It’ll Be Just Right
 
-Transitioning from college to the real world often leaves some aspects of your life in a difficult situation. Will you still be close to friends who are moving to a different city? Should you try a long-distance relationship with your significant other? I have coped with these difficult questions by being at ease with all possible outcomes. Some friends will naturally fall out of touch and that's perfectly fine. Hold onto those that stay close. Long-distance relationships can work, but if they don't, you'll know right away. No matter what happens, it'll be just right.
+Transitioning from college to the real world often leaves some aspects of your life in a difficult situation. Will you still be close to friends who are moving to a different city? Should you try a long-distance relationship with your significant other? I have coped with these difficult questions by being at ease with all possible outcomes. Some friends will naturally fall out of touch and that’s perfectly fine. Hold onto those that stay close. Long-distance relationships can work, but if they don’t, you’ll know right away. No matter what happens, it’ll be just right.
 
 ## Take Time to Reflect
 
-You know that [quote about the second best time to plant a tree being now](http://thinkexist.com/quotation/the_best_time_to_plant_a_tree_is_twenty_years_ago/254949.html)? The same applies to journaling your thoughts, feelings, and smaller moments in life. The only regret I have about actively [journaling](http://dayoneapp.com) is the fact that I didn't start earlier. Make sure to also reflect on your previous entries. It can often be a great reminder of how far you've come.
+You know that [quote about the second best time to plant a tree being now](http://thinkexist.com/quotation/the_best_time_to_plant_a_tree_is_twenty_years_ago/254949.html)? The same applies to journaling your thoughts, feelings, and smaller moments in life. The only regret I have about actively [journaling](http://dayoneapp.com) is the fact that I didn’t start earlier. Make sure to also reflect on your previous entries. It can often be a great reminder of how far you’ve come.
 
 ## There Are No Guardrails
 
-I like to think of college as a highway that you and your peers are driving along. You have the safe comfort of guardrails to keep you on track. Graduation is much like taking an exit in this regard. No one will tell you what you should do, when you should do it, or how to approach it. You are own your own now. Maybe you'll blaze a new trail. Maybe you'll find yourself at an intersection with an old friend. In either case, take care of your vehicle, visit rest stops, and enjoy the journey!
+I like to think of college as a highway that you and your peers are driving along. You have the safe comfort of guardrails to keep you on track. Graduation is much like taking an exit in this regard. No one will tell you what you should do, when you should do it, or how to approach it. You are own your own now. Maybe you’ll blaze a new trail. Maybe you’ll find yourself at an intersection with an old friend. In either case, take care of your vehicle, visit rest stops, and enjoy the journey!

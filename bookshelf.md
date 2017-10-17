@@ -38,9 +38,9 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager (Michael Lopp)](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
 - [100 Plus: How the Coming Age of Longevity Will Change Everything, From Careers and Relationships to Family and Faith (Sonia Arrison)](https://www.amazon.com/100-Plus-Longevity-Everything-Relationships/dp/0465063764)
 - [How to Prove It: A Structured Approach (Daniel J. Velleman)](https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995) 📖
-- [Inner Engineering: A Yogi's Guide to Joy (Sadhguru)](https://www.amazon.com/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794)
+- [Inner Engineering: A Yogi’s Guide to Joy (Sadhguru)](https://www.amazon.com/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794)
 - [Spark: The Revolutionary New Science of Exercise and the Brain (John J. Ratey)](https://www.amazon.com/Spark-Revolutionary-Science-Exercise-Brain/dp/0316113514) 📖 ⭐️
-- [Surely You're Joking, Mr. Feynman! (Richard P. Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
+- [Surely You’re Joking, Mr. Feynman! (Richard P. Feynman)](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 - [Alone on the Wall (Alex Honnold)](https://www.amazon.com/Alone-Wall-Alex-Honnold/dp/0393353176)
 - [The Monk and the Riddle: The Art of Creating a Life While Making a Living (Randy Komisar)](https://www.amazon.com/Monk-Riddle-Creating-Making-Living/dp/1578516447)
 - [“What Do You Care What Other People Think?”: Further Adventures of a Curious Character (Richard P. Feynman)](https://www.amazon.com/What-Care-Other-People-Think/dp/0393320928)
@@ -76,7 +76,7 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [The Art of Learning: An Inner Journey to Optimal Performance (Josh Waitzkin)](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
 - [Foodist (Darya Pino Rose)](https://www.amazon.com/Foodist-Science-Weight-Without-Dieting/dp/0062201263)
 - [Core Data (Florian Kugler and Daniel Eggert)](https://www.objc.io/books/core-data/) 📖
-- [The Swift Developer's Cookbook (Erica Sadun)](https://www.amazon.com/Developers-Cookbook-Content-Program-Library/dp/0134395263)
+- [The Swift Developer’s Cookbook (Erica Sadun)](https://www.amazon.com/Developers-Cookbook-Content-Program-Library/dp/0134395263)
 - [The 4-Hour Workweek (Tim Ferriss)](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357)
 - [How to Read a Book: The Classic Guide to Intelligent Reading (Mortimer J. Adler and Charles Van Doren)](https://www.amazon.com/How-Read-Book-Intelligent-Touchstone/dp/0671212095)
 - [The Crossroads of Should and Must (Elle Luna)](https://www.amazon.com/Crossroads-Should-Must-Follow-Passion/dp/0761184880) 📖 ⭐️

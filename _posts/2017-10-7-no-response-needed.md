@@ -26,7 +26,7 @@ I’ll often want to send a message to someone I’m thinking about without the 
 
 Ending thoughtful texts—“Hi, I miss your face [Toshi](https://www.instagram.com/toshinoguchi). Please move back to NYC.”—with “NRN” signals a digital [pulse](https://twitter.com/jasdev/status/849637857169952768) _instead_ of an obligation to reply immediately.
 
-Thinking generally, [AIM](https://en.wikipedia.org/wiki/AOL_Instant_Messenger) (RIP) Away Messages might’ve been onto something when it comes to online social cues. [Just because you’re online, doesn't mean you have to respond.](https://twitter.com/nbashaw/status/816779171472912384)
+Thinking generally, [AIM](https://en.wikipedia.org/wiki/AOL_Instant_Messenger) (RIP) Away Messages might’ve been onto something when it comes to online social cues. [Just because you’re online, doesn’t mean you have to respond.](https://twitter.com/nbashaw/status/816779171472912384)
 
 ## Posting is Different than Conversing
 

@@ -13,13 +13,13 @@ Starting in iOS 8, Apple opened up APIs to allow actions to be embedded in notif
 
 ## Request Permissions
 
-These actions must be registered upfront alongside the normal notifications permissions. For the sake of this example, I'm going to place this logic in my `AppDelegate`. However, in a larger project, I'd recommend factoring this out into a Notification helper class.
+These actions must be registered upfront alongside the normal notifications permissions. For the sake of this example, I’m going to place this logic in my `AppDelegate`. However, in a larger project, I’d recommend factoring this out into a Notification helper class.
 
-Let's start by building two instances of `UIMutableUserNotificationAction` and attaching them to a `UIMutableUserNotificationCategory`. To allow text input on the `replyAction`, note that the `behavior` property is set to `.TextInput`.
+Let’s start by building two instances of `UIMutableUserNotificationAction` and attaching them to a `UIMutableUserNotificationCategory`. To allow text input on the `replyAction`, note that the `behavior` property is set to `.TextInput`.
 
 <script src="https://gist.github.com/Jasdev/8eae09fb1efcb79019b7.js?file=AppDelegate.swift"></script>
 
-That's all you need for permissions! Let's schedule a sample notification to see the results and implement the appropriate `UIApplicationDelegate` methods to handle them. I make use of the handy Pod, [Timepiece](https://github.com/naoty/Timepiece), which adds syntactic sugar to `NSDate`.
+That’s all you need for permissions! Let’s schedule a sample notification to see the results and implement the appropriate `UIApplicationDelegate` methods to handle them. I make use of the handy Pod, [Timepiece](https://github.com/naoty/Timepiece), which adds syntactic sugar to `NSDate`.
 
 <script src="https://gist.github.com/Jasdev/8eae09fb1efcb79019b7.js?file=NotificationScheduler.swift"></script>
 
@@ -34,14 +34,14 @@ UI for text input reply flow
 
 ## Handling Notification Actions
 
-Next, we'll implement the `UIApplicationDelegate` protocol method for handling notification actions. To access the user-inputted text, we key into `responseInfo` with the `UIUserNotificationActionResponseTypedTextKey` constant. Also, the `Notifications.Actions` enum we defined earlier combined with a guard at the top of the function makes the subsequent `switch` very clean!
+Next, we’ll implement the `UIApplicationDelegate` protocol method for handling notification actions. To access the user-inputted text, we key into `responseInfo` with the `UIUserNotificationActionResponseTypedTextKey` constant. Also, the `Notifications.Actions` enum we defined earlier combined with a guard at the top of the function makes the subsequent `switch` very clean!
 
 <script src="https://gist.github.com/Jasdev/8eae09fb1efcb79019b7.js?file=AppDelegateContinued.swift"></script>
 
-That's it! As an additional note, if you happened to set your `UIMutableUserNotificationAction`'s `activationMode` to `.Foreground`, the way to handle this flow on application launch is as follows:
+That’s it! As an additional note, if you happened to set your `UIMutableUserNotificationAction`’s `activationMode` to `.Foreground`, the way to handle this flow on application launch is as follows:
 
 <script src="https://gist.github.com/Jasdev/8eae09fb1efcb79019b7.js?file=AppDelegateAside.swift"></script>
 
-You can reference the full source of this post [here](https://gist.github.com/Jasdev/8eae09fb1efcb79019b7) and for more info, check out the ["What's New in Notifications" WWDC 2015](https://developer.apple.com/videos/wwdc/2015/?id=720) session.
+You can reference the full source of this post [here](https://gist.github.com/Jasdev/8eae09fb1efcb79019b7) and for more info, check out the [“What’s New in Notifications” WWDC 2015](https://developer.apple.com/videos/wwdc/2015/?id=720) session.
 
 Enjoyed this post? [Let me know](https://twitter.com/intent/tweet?text=A%20Tour%20of%20iOS%20Interactive%20Notifications%20by%20%40jasdev%20-%20http%3A%2F%2Fjasdev.me%2Fios-interactive-notifications%2F)!

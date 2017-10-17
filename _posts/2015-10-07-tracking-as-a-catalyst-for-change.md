@@ -21,7 +21,7 @@ Tracking has spilled into many other areas of my life:
 
 - Food
 
-    I am consistent with exercise. However, my diet consists of an unclear strategy of picking "healthy" foods, without actually tracking macronutrients. To solidify this approach, I began tracking meals with [MyFitnessPal](https://www.myfitnesspal.com). Once my diet became balanced, I transitioned to using [Lark](http://www.web.lark.com). Lark is more personal, as it uses a virtual coach to cheer you on in making healthier choices.
+    I am consistent with exercise. However, my diet consists of an unclear strategy of picking “healthy” foods, without actually tracking macronutrients. To solidify this approach, I began tracking meals with [MyFitnessPal](https://www.myfitnesspal.com). Once my diet became balanced, I transitioned to using [Lark](http://www.web.lark.com). Lark is more personal, as it uses a virtual coach to cheer you on in making healthier choices.
 
 - Money
 
@@ -29,7 +29,7 @@ Tracking has spilled into many other areas of my life:
 
 - Age
 
-    I never truly appreciated how fast time moves until I installed Sam Soffes' [age ticker screensaver](https://github.com/soffes/motivation). Watching my age tick upwards each time I opened my computer reminds me of life's finiteness[^3]. I even ported this concept to an [iOS app and Today Extension](https://github.com/jasdev/impulse)[^4]!
+    I never truly appreciated how fast time moves until I installed Sam Soffes’ [age ticker screensaver](https://github.com/soffes/motivation). Watching my age tick upwards each time I opened my computer reminds me of life’s finiteness[^3]. I even ported this concept to an [iOS app and Today Extension](https://github.com/jasdev/impulse)[^4]!
 
     ![](/public/images/age_ticker.gif)
 
@@ -43,20 +43,20 @@ It is fascinating what you can do with all of this data in a [single place](http
 
 ## Final Thoughts
 
-While habit change often involves moving towards specific goals[^6], tracking is often eye-opening enough to incite positive change. Insight on metrics I want to improve has enabled me to better coordinate my efforts. After all, you can't reach your north star goals without establishing a frame of reference.
+While habit change often involves moving towards specific goals[^6], tracking is often eye-opening enough to incite positive change. Insight on metrics I want to improve has enabled me to better coordinate my efforts. After all, you can’t reach your north star goals without establishing a frame of reference.
 
 ---
 
 ## Footnotes:
 
-[^1]: To accomplish this, I made heavy use of RescueTime's push notifications ([enabling persistent alerts](/public/images/rescuetime_alerts.png)) and used [SelfControl](http://selfcontrolapp.com).
+[^1]: To accomplish this, I made heavy use of RescueTime’s push notifications ([enabling persistent alerts](/public/images/rescuetime_alerts.png)) and used [SelfControl](http://selfcontrolapp.com).
 
 [^2]: Tracking not only includes an overall mood but also details about recent events and tips on how to avoid common mental traps.
 
-[^3]: I am a huge fan of [John Feminella](https://twitter.com/jxxf)'s [post](http://jxf.me/entries/time-passes/) on this subject.
+[^3]: I am a huge fan of [John Feminella](https://twitter.com/jxxf)’s [post](http://jxf.me/entries/time-passes/) on this subject.
 
 [^4]: [Alex MacCaw](https://twitter.com/maccaw) made a [Chrome extension](https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj) for this concept as well!
 
 [^5]: I started using [Swarm](https://www.swarmapp.com) (previously bundled into [Foursquare](https://foursquare.com)) in 2012.
 
-[^6]: In these scenarios, I employ [Dave Brailsford's 1% technique](http://jamesclear.com/marginal-gains).
+[^6]: In these scenarios, I employ [Dave Brailsford’s 1% technique](http://jamesclear.com/marginal-gains).
