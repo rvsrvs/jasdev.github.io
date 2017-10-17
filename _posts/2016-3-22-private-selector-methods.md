@@ -4,7 +4,7 @@ title: Hiding Selector Methods
 permalink: private-selector-methods
 ---
 
-On the [Tumblr](https://www.tumblr.com) iOS team, we have a strict rule that everything with an `internal` or `public` visibility must be documented<sup>1</sup>. This gets a bit awkward when using the [Target-Action](https://developer.apple.com/library/ios/documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html) pattern that `UIKit` often forces you into. When dealing with multiple action selectors, it makes sense to factor out the target into a separate object. However, we'll often just need a one-off action selector to handle an event from a `UIControl` subclass. Previously, this would lead to the following scenario and awkward comment:
+On the [Tumblr](https://www.tumblr.com) iOS team, we have a strict rule that everything with an `internal` or `public` visibility must be documented[^1]. This gets a bit awkward when using the [Target-Action](https://developer.apple.com/library/ios/documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html) pattern that `UIKit` often forces you into. When dealing with multiple action selectors, it makes sense to factor out the target into a separate object. However, we'll often just need a one-off action selector to handle an event from a `UIControl` subclass. Previously, this would lead to the following scenario and awkward comment:
 
 <script src="https://gist.github.com/Jasdev/3338cda9d6c799323abe.js"></script>
 
@@ -16,4 +16,6 @@ This allows our action to be invoked from a selector, but prevents other files f
 
 ---
 
-<sup>1</sup>: To help with this, we use [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode).
+## Footnotes:
+
+[^1]: To help with this, we use [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode).

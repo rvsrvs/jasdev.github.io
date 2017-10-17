@@ -12,15 +12,15 @@ This is something I regret not doing during the week. At times, WWDC can feel li
 
 ## [Layers 2016](https://bringyourlayers.com)
 
-I truly believe the magic of WWDC week is in the people you meet, not the actual sessions themselves<sup>1</sup>. If I were to do it all over again, I'd attend [Layers](https://bringyourlayers.com). Layers is a three-day design conference for the macOS and iOS community and in their words: a "party, but for learning." Moreover, [Casey Liss' post on his experience](https://www.caseyliss.com/2016/6/17/layers-2016) convinced me to attend next year.
+I truly believe the magic of WWDC week is in the people you meet, not the actual sessions themselves[^1]. If I were to do it all over again, I'd attend [Layers](https://bringyourlayers.com). Layers is a three-day design conference for the macOS and iOS community and in their words: a "party, but for learning." Moreover, [Casey Liss' post on his experience](https://www.caseyliss.com/2016/6/17/layers-2016) convinced me to attend next year.
 
 ## Attending In-Person Podcast Recordings
 
-Podcasts have become a huge part of my life, since moving to New York City. Commuting from Park Slope to the Flatiron District each day gives me about an hour<sup>2</sup> of idle time to learn via auditory osmosis. During the week of WWDC, both [RelayFM](https://www.relay.fm) and [John Gruber](https://twitter.com/gruber) from [The Talk Show](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber) hosted in-person recordings of episodes<sup>3</sup>! I definitely hope to attend some of these events next year to help put faces to the voices I listen to each day on the way to work.
+Podcasts have become a huge part of my life, since moving to New York City. Commuting from Park Slope to the Flatiron District each day gives me about an hour[^2] of idle time to learn via auditory osmosis. During the week of WWDC, both [RelayFM](https://www.relay.fm) and [John Gruber](https://twitter.com/gruber) from [The Talk Show](https://overcast.fm/itunes528458508/the-talk-show-with-john-gruber) hosted in-person recordings of episodes[^3]! I definitely hope to attend some of these events next year to help put faces to the voices I listen to each day on the way to work.
 
 ## Twitter
 
-I recently uninstalled Twitter from my phone<sup>4</sup>. However, during WWDC, I made an exception. While the service gets a lot of flak, it has the magical ability to foster community, [coordinate spontaneous lunches](https://twitter.com/ayanonagon/status/743827770401165313), and [facilitate serendipity](https://twitter.com/joshavant/status/743178026259615745). The iOS community on Twitter is stellar and it truly shines during that week.
+I recently uninstalled Twitter from my phone[^4]. However, during WWDC, I made an exception. While the service gets a lot of flak, it has the magical ability to foster community, [coordinate spontaneous lunches](https://twitter.com/ayanonagon/status/743827770401165313), and [facilitate serendipity](https://twitter.com/joshavant/status/743178026259615745). The iOS community on Twitter is stellar and it truly shines during that week.
 
 ## Aggregating Team Questions for Labs
 
@@ -36,10 +36,12 @@ I picked this tip up from an [episode of Under the Radar](https://overcast.fm/+F
 
 ---
 
-<sup>1</sup>: Especially since they're [recorded](https://developer.apple.com/videos/wwdc2016)
+## Footnotes:
 
-<sup>2</sup>: Round trip
+[^1]: Especially since they're [recorded](https://developer.apple.com/videos/wwdc2016)
 
-<sup>3</sup>: [RelayCon Announcement](http://www.extras.relay.fm/blog/2016/4/4/announcing-relaycon-wwdc-2016) and [The Talk Show 158](https://vimeo.com/171186055) links
+[^2]: Round trip
 
-<sup>4</sup>: More on this in a separate post (also take this approach to e-mail)! I'm definitely not perfect at this, but it helps avoid the trap of [continuous partial attention](https://twitter.com/jasdev/status/742985718461571073).
+[^3]: [RelayCon Announcement](http://www.extras.relay.fm/blog/2016/4/4/announcing-relaycon-wwdc-2016) and [The Talk Show 158](https://vimeo.com/171186055) links
+
+[^4]: More on this in a separate post (also take this approach to e-mail)! I'm definitely not perfect at this, but it helps avoid the trap of [continuous partial attention](https://twitter.com/jasdev/status/742985718461571073).

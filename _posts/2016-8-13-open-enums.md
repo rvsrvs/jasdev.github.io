@@ -29,19 +29,19 @@ __(Corgi for padding between question and answer)__
 
 Turns out `changeType` is non-`nil`, [works in a `switch` statement](https://twitter.com/jckarter/status/720413224110129152), and has [undefined behavior](https://twitter.com/jckarter/status/720413571734118400)!
 
-To understand why this is the case<sup>1</sup>, we have to take a step back and define two terms: open and closed enumerations. `NSFetchedResultsChangeType` is an `NS_ENUM` and when bridged to Swift, it's [represented as an "open" enumeration](https://twitter.com/jckarter/status/720413830329663488). The distinction between open and closed enumerations can be found in [Jordan Rose](https://twitter.com/UINT_MIN)'s manifesto on Swift [Library Evolution](https://github.com/apple/swift/blob/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs/LibraryEvolution.rst#enums). In summary, open enumerations will be the [_default once ABI resilience ships_](https://twitter.com/jckarter/status/720413830329663488) and __allow__ the following changes between library versions __without breaking binary compatibility__:
+To understand why this is the case[^1], we have to take a step back and define two terms: open and closed enumerations. `NSFetchedResultsChangeType` is an `NS_ENUM` and when bridged to Swift, it's [represented as an "open" enumeration](https://twitter.com/jckarter/status/720413830329663488). The distinction between open and closed enumerations can be found in [Jordan Rose](https://twitter.com/UINT_MIN)'s manifesto on Swift [Library Evolution](https://github.com/apple/swift/blob/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs/LibraryEvolution.rst#enums). In summary, open enumerations will be the [_default once ABI resilience ships_](https://twitter.com/jckarter/status/720413830329663488) and __allow__ the following changes between library versions __without breaking binary compatibility__:
 
 
-> - Adding a new case<sup>2</sup>
+> - Adding a new case[^2]
 > - Reordering existing cases is a binary-compatible source-breaking change. In particular, if an enum is `RawRepresentable`, changing the raw representations of cases may break existing clients who use them for serialization
 > - Adding a raw type to an enum that does not have one
-> - Removing a non-public, non-versioned case<sup>3</sup>
+> - Removing a non-public, non-versioned case
 > - Adding any other members
 > - Removing any non-public, non-versioned members
 > - Adding a new protocol conformance (with proper availability annotations)
 > - Removing conformances to non-public protocols
 
-On the flip side, [closed enumarations](https://github.com/apple/swift/blob/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs/LibraryEvolution.rst#closed-enums) must be explicitly marked with the `@closed` attribute. This attribute __prevents__ the enumeration from "having any cases with less access than the enum itself<sup>3</sup> and adding new cases in the future." In addition to __guaranteeing case exhaustion for clients__, the attribute implies:
+On the flip side, [closed enumarations](https://github.com/apple/swift/blob/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs/LibraryEvolution.rst#closed-enums) must be explicitly marked with the `@closed` attribute. This attribute __prevents__ the enumeration from "having any cases with less access than the enum itself[^3] and adding new cases in the future." In addition to __guaranteeing case exhaustion for clients__, the attribute implies:
 
 > - Adding new cases is not permitted
 > - Reordering existing cases is not permitted.
@@ -56,13 +56,13 @@ Despite "open" being the default for enumerations moving forward, adding new cas
 
 ## Invalid Changes Sent to `NSFetchedResultsControllerDelegate`
 
-[`NSFetchedResultsControllerDelegate`](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate) provides an [optional function](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate/1622296-controller) to notify concrete implementations that a fetched object has been changed due to an add, remove, move, or update. During testing, we noticed "extra" calls<sup>4</sup> to this function, which caused crashes via subsequent invalid table view updates. To set some context, our concrete implementation had the following structure:
+[`NSFetchedResultsControllerDelegate`](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate) provides an [optional function](https://developer.apple.com/reference/coredata/nsfetchedresultscontrollerdelegate/1622296-controller) to notify concrete implementations that a fetched object has been changed due to an add, remove, move, or update. During testing, we noticed "extra" calls[^4] to this function, which caused crashes via subsequent invalid table view updates. To set some context, our concrete implementation had the following structure:
 
 ```swift
-public func controller(_ controller: NSFetchedResultsController<NSFetchRequestResult>, 
-               didChange anObject: AnyObject, 
-                      at indexPath: IndexPath?, 
-                     for type: NSFetchedResultsChangeType, 
+public func controller(_ controller: NSFetchedResultsController<NSFetchRequestResult>,
+               didChange anObject: AnyObject,
+                      at indexPath: IndexPath?,
+                     for type: NSFetchedResultsChangeType,
             newIndexPath: IndexPath?) {
 
 	/* Precondition checks */
@@ -107,14 +107,16 @@ guard [
 
 This keeps our code crash-free until ABI resilience alleviates the need for the `guard`. Of course, this doesn't handle the scenario in which Apple adds a new case, but that's why we perform logging in the `else` clause to keep an eye on any API updates. You can watch [this issue](https://bugs.swift.org/browse/SR-1258) on Swift's JIRA.
 
-Hope this helps make open and closed enumerations more clear! Huge shoutout to [Joe Groff](http://twitter.com/jckarter), [Caleb Davenport](https://twitter.com/calebd), and [Jordan Rose](https://twitter.com/UINT_MIN) for discussing this topic in the open<sup>1</sup> on Twitter and in the [Swift repository docs](https://github.com/apple/swift/tree/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs).
+Hope this helps make open and closed enumerations more clear! Huge shoutout to [Joe Groff](http://twitter.com/jckarter), [Caleb Davenport](https://twitter.com/calebd), and [Jordan Rose](https://twitter.com/UINT_MIN) for discussing this topic in the open on Twitter and in the [Swift repository docs](https://github.com/apple/swift/tree/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs).
 
 ---
 
-<sup>1</sup>: Pun intended 😁
+## Footnotes:
 
-<sup>2</sup>: We'll soon see why this feature causes `changeType` in the quiz to be non-`nil`.
+[^1]: Pun intended 😁
 
-<sup>3</sup>: [Non-`public` cases don't exist at the moment](https://github.com/apple/swift/blame/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs/LibraryEvolution.rst#L828).
+[^2]: We'll soon see why this feature causes `changeType` in the quiz to be non-`nil`.
 
-<sup>4</sup>: Masked as insertions due to this [undefined behavior](https://twitter.com/calebd/status/720413415894683649).
+[^3]: [Non-`public` cases don't exist at the moment](https://github.com/apple/swift/blame/26fcd8c1e2a716b1b695de39e9be470c2a1814ba/docs/LibraryEvolution.rst#L828).
+
+[^4]: Masked as insertions due to this [undefined behavior](https://twitter.com/calebd/status/720413415894683649).

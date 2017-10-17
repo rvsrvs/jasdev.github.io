@@ -10,7 +10,7 @@ I usually cringe at the trite question: “what does success mean to you?” But
 
 When I first heard this, I immediately paused the podcast I was listening to and took note. Foster [powerfully compresses](http://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas) so much into a handful of words.
 
-Personally, sleeping **better** requires the sensation of _earning_ my fatigue<sup>1</sup>, which usually arises from a day packed with total dedication to each task. One where I come home, drop my backpack, and crash-land onto my bed<sup>2</sup> with my entire being filled with contentment. This past summer<sup>3</sup>, I’ve been chasing “earned fatigue.” In doing so, the following thoughts have shaken out: contrast (and how it sparks fatigue), defining “enough,” and [toeing the line](https://twitter.com/jasdev/status/888200077046624256) with [overtraining](/thoughts/2017-7-25).
+Personally, sleeping **better** requires the sensation of _earning_ my fatigue[^1], which usually arises from a day packed with total dedication to each task. One where I come home, drop my backpack, and crash-land onto my bed[^2] with my entire being filled with contentment. This past summer[^3], I’ve been chasing “earned fatigue.” In doing so, the following thoughts have shaken out: contrast (and how it sparks fatigue), defining “enough,” and [toeing the line](https://twitter.com/jasdev/status/888200077046624256) with [overtraining](/thoughts/2017-7-25).
 
 ## Contrast
 
@@ -22,9 +22,9 @@ This “contrast“ seems to have two faces: [physical and mental](https://twitt
 
 ### Physical
 
-How have I attempted to remedy this inactivity? By pushing my baseline as far as I can from relaxation. More tangibly, this involves [practicing being uncomfortable](http://nymag.com/scienceofus/2016/06/how-exercise-shapes-you-far-beyond-the-gym.html) and [shocking the system](/thoughts/2016-12-27) through humbling experiences<sup>4</sup>.
+How have I attempted to remedy this inactivity? By pushing my baseline as far as I can from relaxation. More tangibly, this involves [practicing being uncomfortable](http://nymag.com/scienceofus/2016/06/how-exercise-shapes-you-far-beyond-the-gym.html) and [shocking the system](/thoughts/2016-12-27) through humbling experiences[^4].
 
-Regimented discomfort has taken the form of training. Currently, I aim for three [key sessions](https://furthermore.equinox.com/articles/2012/05/are-you-training-too-much) (around 60–70 minutes) a week—focusing on strength—and two supplementary workouts (endurance and yoga). By kicking off my days with intense, physical work (and the [concentration it requires](https://twitter.com/jewelia/status/888414514047180802)<sup>5</sup>), any bug or feature I tackle at the office almost pales in comparison.
+Regimented discomfort has taken the form of training. Currently, I aim for three [key sessions](https://furthermore.equinox.com/articles/2012/05/are-you-training-too-much) (around 60–70 minutes) a week—focusing on strength—and two supplementary workouts (endurance and yoga). By kicking off my days with intense, physical work (and the [concentration it requires](https://twitter.com/jewelia/status/888414514047180802)[^5]), any bug or feature I tackle at the office almost pales in comparison.
 
 “Shocking the system” refers to experiences that embody the _literal_ definition of “humbling.” Challenges which knock me down, so I can make sure _I don’t forget how to stand up again_. An instance of this was my [first outdoor cycling race](https://www.instagram.com/p/BSGpGqegAwO). I trained indoors all winter…rookie mistake. Come race day, I got [dropped from the peloton](https://en.wikipedia.org/wiki/Glossary_of_cycling#D) and spent the rest of the race rounding out the back of the field. I was in the peak physical condition, but failed to realize that conditioning can’t substitute time in the saddle, drafting skills, and timely gear shifting. The race helped me spot these unknown unknowns. Since then, I have been building my [endurance base](https://www.instagram.com/p/BUVA4ZRgLDK) and sharing some [great memories (and laughs) along the ride](https://www.instagram.com/p/BVK_u8UBll5).
 
@@ -34,11 +34,11 @@ The mental side of contrast mostly mirrors its physical counterpart. That is, [s
 
 ### Raw Intellect <> “Derpiness”
 
-When I think about my friends<sup>6</sup> who pack the most mental firepower<sup>7</sup>, a common thread through all of them is that they _love_ derping around. To provide some context, one of my closest friends, [Nishant](https://twitter.com/binroot), is easily one [smartest people I know](http://shukla.io). We’re so comfortable around one another to the point that we laugh at [the most mindless things](https://twitter.com/jasdev/status/843930159451426818). On many occasions, I’ve cried of laughter reading his messages. I’d _guess_ that this dynamic occurs because Nishant is constantly surrounded by extraordinary colleagues, _implicitly_ applying pressure to appear “with it.“ Goofing around after hours provides a refreshing contrast.
+When I think about my friends[^6] who pack the most mental firepower[^7], a common thread through all of them is that they _love_ derping around. To provide some context, one of my closest friends, [Nishant](https://twitter.com/binroot), is easily one [smartest people I know](http://shukla.io). We’re so comfortable around one another to the point that we laugh at [the most mindless things](https://twitter.com/jasdev/status/843930159451426818). On many occasions, I’ve cried of laughter reading his messages. I’d _guess_ that this dynamic occurs because Nishant is constantly surrounded by extraordinary colleagues, _implicitly_ applying pressure to appear “with it.“ Goofing around after hours provides a refreshing contrast.
 
 ### Meditation as Mental Defragmentation
 
-While engineering necessitates (relative) physical inactivity, the mental work involved lands on the opposite end of the spectrum. It’s very possible—if not common—to spend _all of my waking hours_ consuming inputs (text, audio, video, etc.). Through this lens, mental contrast involves stepping away from these stimuli. Meditation has accomplished this for me. Over the past three years (and ~268 hours using [Headspace](https://www.headspace.com)), the practice has become a sort of defragmentation for my mind. Time to just __be with my own thoughts__, process them (if needed), and [work through any difficult emotions](https://twitter.com/mmay3r/status/841431966536814592).   Moreover, while meditation may come across as a purely mental effort, its effects have spilled over into my workouts<sup>8</sup>.
+While engineering necessitates (relative) physical inactivity, the mental work involved lands on the opposite end of the spectrum. It’s very possible—if not common—to spend _all of my waking hours_ consuming inputs (text, audio, video, etc.). Through this lens, mental contrast involves stepping away from these stimuli. Meditation has accomplished this for me. Over the past three years (and ~268 hours using [Headspace](https://www.headspace.com)), the practice has become a sort of defragmentation for my mind. Time to just __be with my own thoughts__, process them (if needed), and [work through any difficult emotions](https://twitter.com/mmay3r/status/841431966536814592).   Moreover, while meditation may come across as a purely mental effort, its effects have spilled over into my workouts[^8].
 
 ## Defining “Enough”
 
@@ -60,7 +60,7 @@ With a notion of _enough_ fatigue, it’s normal to _accidentally_ surpass it, o
 
 - __Seasonality__: an (unfortunate) adage thrown around the fitness community is that one should “always be improving.“ I agree with the general notion here, but it glosses over a subtle nuance. Improvement can (and should) happen along __multiple__ axes. More specifically, plateaus in one performance metric might be a sign to focus on another (potentially related) one. This happened with my cycling power output. I tended to __compress__ how “effective“ a workout was solely based on my output, _trying to set a PR session after session_. When the wattage started to flatline, I redirected my attention to flexibility—through more consistent yoga—and it pushed the ceiling on my output within a month. Tying this back to seasonality, a useful mindset for handling overtraining is dividing efforts along seasons (e.g. strength, flexibility, endurance, etc.), instead of locking into the “always improving” framework along a single dimension.
 - __“Remember the fun“__: I wholeheartedly believe that “absence makes the heart grow fonder” applies to training. This has held up for habits I’ve kept on longer timescales (the tail-end of habit formation isn’t discussed enough). By minimizing time in the gym, I _missed it_ and reminded me of the [often-forgotten fun](/thoughts/2017-4-25) involved in routine activities.
-- __Don’t chase the end__: One of my favorite cues<sup>9</sup> my coach has given me is “not to chase the end of a set.” Typically, this will happen when he throws out a target rep-range, say eight to ten, and notices that I mindlessly start rushing towards that mile marker. Taking a mental step back to focus on each repetition and time under tension helps make workouts more sustainable, as opposed to a series of dashes.
+- __Don’t chase the end__: One of my favorite cues[^9] my coach has given me is “not to chase the end of a set.” Typically, this will happen when he throws out a target rep-range, say eight to ten, and notices that I mindlessly start rushing towards that mile marker. Taking a mental step back to focus on each repetition and time under tension helps make workouts more sustainable, as opposed to a series of dashes.
 
 ---
 
@@ -70,22 +70,22 @@ Earned fatigue—and the investigation of what induces it, defining “enough,�
 
 Special thanks to [Kate](https://twitter.com/katelikestoread) and [Justin](https://twitter.com/justinmduke) for reading early drafts of this post.
 
-## Footnotes
+## Footnotes:
 
-<sup>1</sup>: [Ryan](https://twitter.com/ryandawidjan) commonly refers to this as the ”other side of tired.” Additionally, this is predicated on [allocating enough time for sleep](https://github.com/Jasdev/thoughts/blame/181dbeacaf083497ad10f080247a2e5b9b4af401/daily-list.md#L8).
+[^1]: [Ryan](https://twitter.com/ryandawidjan) commonly refers to this as the ”other side of tired.” Additionally, this is predicated on [allocating enough time for sleep](https://github.com/Jasdev/thoughts/blame/181dbeacaf083497ad10f080247a2e5b9b4af401/daily-list.md#L8).
 
-<sup>2</sup>: [GIF equivalent of this](https://twitter.com/cgallello/status/841401466124349441)
+[^2]: [GIF equivalent of this](https://twitter.com/cgallello/status/841401466124349441)
 
-<sup>3</sup>: In the absence of quarters and semesters that university provided, I’ve tried to impose structure on my years through seasons. It helps avoid “[Forever Projects](https://dianaberlin.com/posts/no-more-forever-projects)” and allows efforts to be directed for finite periods of time.
+[^3]: In the absence of quarters and semesters that university provided, I’ve tried to impose structure on my years through seasons. It helps avoid “[Forever Projects](https://dianaberlin.com/posts/no-more-forever-projects)” and allows efforts to be directed for finite periods of time.
 
-<sup>4</sup>: I hope the [literal definition](http://www.dictionary.com/browse/humbling) of “humbling” makes a comeback. Not the faux-bragging version that’s used in “I’m so humbled to receive this reward…”
+[^4]: I hope the [literal definition](http://www.dictionary.com/browse/humbling) of “humbling” makes a comeback. Not the faux-bragging version that’s used in “I’m so humbled to receive this reward…”
 
-<sup>5</sup>: I’ve come around to better understanding why top-performers often [don’t train with music](https://twitter.com/jasdev/status/779000205815480321). When actually ensuring “time under tension” in strength work or keeping form during intervals, audio can be distracting (and even affect [perception of time](https://twitter.com/jxxf/status/817405605963038720)).
+[^5]: I’ve come around to better understanding why top-performers often [don’t train with music](https://twitter.com/jasdev/status/779000205815480321). When actually ensuring “time under tension” in strength work or keeping form during intervals, audio can be distracting (and even affect [perception of time](https://twitter.com/jxxf/status/817405605963038720)).
 
-<sup>6</sup>: Of course, noting that this might not be an actual pattern, but instead a result of the self-selected pattern amongst my close friends.
+[^6]: Of course, noting that this might not be an actual pattern, but instead a result of the self-selected pattern amongst my close friends.
 
-<sup>7</sup>: Nikhil [phrased this question](https://twitter.com/nikillinit/status/820697243753840641) well in his thread on interview questions.
+[^7]: Nikhil [phrased this question](https://twitter.com/nikillinit/status/820697243753840641) well in his thread on interview questions.
 
-<sup>8</sup>: [Further research on the combination](http://www.nature.com/tp/journal/v6/n2/full/tp2015225a.html)
+[^8]: [Further research on the combination](http://www.nature.com/tp/journal/v6/n2/full/tp2015225a.html)
 
-<sup>9</sup>: Amongst many. If you’re interested in a more-detailed post on his cues, let me know!
+[^9]: Amongst many. If you’re interested in a more-detailed post on his cues, let me know!

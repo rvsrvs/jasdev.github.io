@@ -4,7 +4,7 @@ title: Let's Get Meta&#58; Swift Metatypes and Cell Reuse
 permalink: lets-get-meta
 ---
 
-For the past few weeks, I've been running a small project called [Public Extension](https://twitter.com/publicextension). Each weekday<sup>1</sup>, I come up with a handy Swift extension (to the [Standard Library](http://swiftdoc.org), UIKit, etc.) and tweet it out for everyone to follow along!
+For the past few weeks, I've been running a small project called [Public Extension](https://twitter.com/publicextension). Each weekday[^1], I come up with a handy Swift extension (to the [Standard Library](http://swiftdoc.org), UIKit, etc.) and tweet it out for everyone to follow along!
 
 One particular extension has been on the back of my mind for a few days now. [Public Extension #9](https://twitter.com/PublicExtension/status/656489984485146624) (initial draft below)
 
@@ -52,7 +52,7 @@ One of my friends, [Hans](https://twitter.com/Lumilux), brought up a potential g
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jasdev">@jasdev</a> <a href="https://twitter.com/PublicExtension">@PublicExtension</a> this doesn&#39;t allow for inheritance for classes that implement `Reusable`, right?</p>&mdash; Hans E Hyttinen (@Lumilux) <a href="https://twitter.com/Lumilux/status/662411481842065408">November 5, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The `static` keyword in Swift translates to `class final`<sup>2</sup>, meaning that the property is attached to a class but cannot be overridden. However, when defining `Reusable`, we have to use the `static` keyword (even though we have the explicit `class` requirement on the protocol) because the class keyword is only allowed within `class` definitions. To allow for subclassing of cells that conform to `Reusable`, we can define `reuseIdentifier` as a computed<sup>3</sup> `class var`.
+The `static` keyword in Swift translates to `class final`[^2], meaning that the property is attached to a class but cannot be overridden. However, when defining `Reusable`, we have to use the `static` keyword (even though we have the explicit `class` requirement on the protocol) because the class keyword is only allowed within `class` definitions. To allow for subclassing of cells that conform to `Reusable`, we can define `reuseIdentifier` as a computed[^3] `class var`.
 
 <script src="https://gist.github.com/Jasdev/efe1feb9179fa1f8dd04.js?file=CustomCell.swift"></script>
 
@@ -66,8 +66,10 @@ Hope this pattern is useful! If you have any feedback or suggestions, I'd love t
 
 ---
 
-<sup>1</sup>: Took a break between November 4th through 16th for job interviews :)
+## Footnotes:
 
-<sup>2</sup>: In the case of classes
+[^1]: Took a break between November 4th through 16th for job interviews :)
 
-<sup>3</sup>: Stored `class` properties aren't supported yet.
+[^2]: In the case of classes
+
+[^3]: Stored `class` properties aren't supported yet.

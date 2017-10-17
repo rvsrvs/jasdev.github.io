@@ -8,7 +8,7 @@ In my free time, I run a Twitter account called [Public Extension](https://twitt
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">4️⃣6️⃣: Make NSUserDefaults a bit easier to work with 😃<a href="https://t.co/1eULFysnXb">https://t.co/1eULFysnXb</a> <a href="https://t.co/7127Y6PCB1">pic.twitter.com/7127Y6PCB1</a></p>&mdash; Public Extension (@PublicExtension) <a href="https://twitter.com/PublicExtension/status/702543100095426560">February 24, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-One attribute that sticks out is `@nonobjc`. Often times, you'll need to use `@objc`<sup>1</sup> to expose your Swift classes that don't derive from an Objective-C class to the Objective-C runtime. It's rare to _explicitly_ cut that interoperability. Let's dig into why this attribute is necessitated here by dropping it and deconstructing the compilation error:
+One attribute that sticks out is `@nonobjc`. Often times, you'll need to use `@objc`[^1] to expose your Swift classes that don't derive from an Objective-C class to the Objective-C runtime. It's rare to _explicitly_ cut that interoperability. Let's dig into why this attribute is necessitated here by dropping it and deconstructing the compilation error:
 
 ![](/public/images/nonobjc_error.png)
 
@@ -24,4 +24,6 @@ Shout-out to [Joe Groff](https://twitter.com/jckarter) for the help and [Garric 
 
 ---
 
-<sup>1</sup>: Swift also allows for the `@objc(name)` variant, which uses `name` when exposing the target class to the Objective-C runtime.
+## Footnotes:
+
+[^1]: Swift also allows for the `@objc(name)` variant, which uses `name` when exposing the target class to the Objective-C runtime.

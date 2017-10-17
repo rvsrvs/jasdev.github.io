@@ -8,9 +8,9 @@ Hear me out. While typos and grammar issues are inevitable in the absence of edi
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thought: Twitter is (potentially) an RSS-like feed for your life</p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/803791802918637568">November 30, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Twitter threads with other users are [gold mines of insight](https://twitter.com/artypapers/status/632263932594421760). But, there is untapped value in longitudinal threads—over time—with yourself<sup>1</sup>. The lack of editing gives you the opportunity to posit something, sit with it, and revisit your stance at a later point<sup>2</sup>. If Twitter allowed editing with a revision history, the history would likely be tucked away in a submenu<sup>3</sup>, squandering its usefulness. The deltas revealed through threads gives us a peek into our thought processes, instead of focusing on editing a __single__, polished snapshot in-place.
+Twitter threads with other users are [gold mines of insight](https://twitter.com/artypapers/status/632263932594421760). But, there is untapped value in longitudinal threads—over time—with yourself[^1]. The lack of editing gives you the opportunity to posit something, sit with it, and revisit your stance at a later point[^2]. If Twitter allowed editing with a revision history, the history would likely be tucked away in a submenu[^3], squandering its usefulness. The deltas revealed through threads gives us a peek into our thought processes, instead of focusing on editing a __single__, polished snapshot in-place.
 
-[Nikhil Krishnan](https://twitter.com/nikillinit)’s tweets embody this approach. Below are some of his _truncated_ threads<sup>4</sup> (along with a personal example). Remember, what’s important here is that these threads evolve over time and aren’t simply _one-time bursts_.
+[Nikhil Krishnan](https://twitter.com/nikillinit)’s tweets embody this approach. Below are some of his _truncated_ threads[^4] (along with a personal example). Remember, what’s important here is that these threads evolve over time and aren’t simply _one-time bursts_.
 
 ### Future of Consumer Products and the Focused Product Ecosystem
 
@@ -56,7 +56,7 @@ I’ve experimented with extending this approach to my (incomplete) collection o
 
 ![](/public/images/thoughts_snapshot.png)
 
-Scoping out, there _might_ be a deeper concept at play here. The revisiting of older tweets—through threads—almost mirrors what we do in our heads through a process known as [memory reconsolidation](https://en.wikipedia.org/wiki/Memory_consolidation#Reconsolidation). “Research has shown that every time we recall a memory, it undergoes reconsolidation, meaning we are able to add new information or a different interpretation to our remembrance, even turning fearful memories into fearless ones<sup>5</sup>.” It’s almost as if these threads are a _digital manifestation_ of reconsolidation. Through it, we can let go of previously strongly-held opinions, find holes in old arguments, and incorporate new learnings.
+Scoping out, there _might_ be a deeper concept at play here. The revisiting of older tweets—through threads—almost mirrors what we do in our heads through a process known as [memory reconsolidation](https://en.wikipedia.org/wiki/Memory_consolidation#Reconsolidation). “Research has shown that every time we recall a memory, it undergoes reconsolidation, meaning we are able to add new information or a different interpretation to our remembrance, even turning fearful memories into fearless ones[^5].” It’s almost as if these threads are a _digital manifestation_ of reconsolidation. Through it, we can let go of previously strongly-held opinions, find holes in old arguments, and incorporate new learnings.
 
 So, while we may collectively [groan at the inability to edit tweets](https://twitter.com/AnthonyQuintano/status/814538412686311424), I’m thankful. The lack of editing forces us to think out loud with clear revisions over time. It’s as if we have __backstage access__ to “some great [collective] super-genius for the ages.”
 
@@ -64,18 +64,18 @@ So, while we may collectively [groan at the inability to edit tweets](https://tw
 
 ---
 
-## Footnotes
-<sup>1</sup>: Aside from the typical one-time threads that aren’t revisited later.
+## Related Thoughts and Footnotes:
 
-<sup>2</sup>: I usually bookmark threads via [Instapaper](http://instapaper.com) and [Pinboard](https://pinboard.in/), falling back to Twitter’s [Advanced Search](https://twitter.com/search-advanced) if I have trouble finding a particular tweet.
+⇒ [Mental noting](https://www.headspace.com/blog/2015/11/04/noting-technique-video/) in meditation serves as a good first step in the ability to reconsolidate more effectively.
 
-<sup>3</sup>: Much like Facebook’s approach to this
+⇒ I wonder if there would be value in authors including drafts of their work, when purchasing a book. Much like open source repositories with a full revision history, drafts could give us insight into their process. Here are [some thoughts on this](https://twitter.com/jasdev/status/809416165940490240) in the replies to a (deleted) tweet of mine.
 
-<sup>4</sup>: Embedded from the root tweet downwards. The threads are truncated for brevity.
+[^1]: Aside from the typical one-time threads that aren’t revisited later.
 
-<sup>5</sup>: [The Strange Brain of the World’s Greatest Solo Climber](http://nautil.us/issue/39/sport/the-strange-brain-of-the-worlds-greatest-solo-climber)
+[^2]: I usually bookmark threads via [Instapaper](http://instapaper.com) and [Pinboard](https://pinboard.in/), falling back to Twitter’s [Advanced Search](https://twitter.com/search-advanced) if I have trouble finding a particular tweet.
 
+[^3]: Much like Facebook’s approach to this
 
-## Tangential Thoughts
-- [Mental noting](https://www.headspace.com/blog/2015/11/04/noting-technique-video/) in meditation serves as a good first step in the ability to reconsolidate more effectively.
-- I wonder if there would be value in authors including drafts of their work, when purchasing a book. Much like open source repositories with a full revision history, drafts could give us insight into their process. Here are [some thoughts on this](https://twitter.com/jasdev/status/809416165940490240) in the replies to a (deleted) tweet of mine.
+[^4]: Embedded from the root tweet downwards. The threads are truncated for brevity.
+
+[^5]: [The Strange Brain of the World’s Greatest Solo Climber](http://nautil.us/issue/39/sport/the-strange-brain-of-the-worlds-greatest-solo-climber)

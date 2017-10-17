@@ -4,7 +4,7 @@ title: Monthly Check-Ins
 permalink: monthly-checkins
 ---
 
-Two days I look forward to each month are the 28th and the 30th<sup>1</sup>. A couple of my closest friends, [Ashoka](https://twitter.com/a_raj11) and [Shiva](https://twitter.com/ShivaKilaru), and I have established a ritual of checking in with one another on these days. The setup is simple. An hour-long, monthly calendar event where we work through problems we’re facing, wins for the past month, common themes in our [journals](/small-moments), and big questions we'd like to bounce off one another.
+Two days I look forward to each month are the 28th and the 30th[^1]. A couple of my closest friends, [Ashoka](https://twitter.com/a_raj11) and [Shiva](https://twitter.com/ShivaKilaru), and I have established a ritual of checking in with one another on these days. The setup is simple. An hour-long, monthly calendar event where we work through problems we’re facing, wins for the past month, common themes in our [journals](/small-moments), and big questions we'd like to bounce off one another.
 
 ![](http://i.imgur.com/sG6ImFA.png)
 
@@ -18,10 +18,12 @@ In a recent checkin, Shiva and I traded ideas on how to prioritize deep work, wh
 
 ![](http://i.imgur.com/FZa6L4h.png)
 
-This is one of the [habits](https://twitter.com/jasdev/status/748332315433144320) that has kept me happy. Shiva and Ashoka, here's to the next 1000 checkins! 
+This is one of the [habits](https://twitter.com/jasdev/status/748332315433144320) that has kept me happy. Shiva and Ashoka, here's to the next 1000 checkins!
 
 If you're reading this post and want to try monthly check-ins, let’s make it happen! 🚀
 
 ---
 
-<sup>1</sup>: Adjusting on Februarys of course
+## Footnotes:
+
+[^1]: Adjusting on Februarys of course

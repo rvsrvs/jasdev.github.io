@@ -4,7 +4,7 @@ title: The Interplay Between High-Cadence and Well-Formed Thoughts
 permalink: high-cadence-versus-well-formed
 ---
 
-Back in January, I started a public, high-cadence log of [what’s on my mind](/thoughts)<sup>1</sup>. Along the spectrum between my [Twitter account](http://twitter.com/jasdev) and this blog, the journal sits in-between. _Unpolished_ thoughts, developed over time. Six months and 46 entries later, I wanted to take a moment to reflect on my experience so far.
+Back in January, I started a public, high-cadence log of [what’s on my mind](/thoughts)[^1]. Along the spectrum between my [Twitter account](http://twitter.com/jasdev) and this blog, the journal sits in-between. _Unpolished_ thoughts, developed over time. Six months and 46 entries later, I wanted to take a moment to reflect on my experience so far.
 
 ## Why Keep One?
 
@@ -12,7 +12,7 @@ Two reasons. First, to create a distillery for my thoughts. By regularly thinkin
 
 ## What Went Well?
 
-One of the subtle—yet subconscious—lenses I _accidentally_ use when thinking about my favorite creators (writers, artists, engineers, etc.) is through their volumes of work<sup>2</sup>. “She is the creator of A and B and wrote a wonderful post on C.” It’s [too easy to forget](/value-of-conferences#humanizing-heroes) that __we’re not our work__.
+One of the subtle—yet subconscious—lenses I _accidentally_ use when thinking about my favorite creators (writers, artists, engineers, etc.) is through their volumes of work[^2]. “She is the creator of A and B and wrote a wonderful post on C.” It’s [too easy to forget](/value-of-conferences#humanizing-heroes) that __we’re not our work__.
 
 This journal helped reveal my inner gears. More specifically, it allowed others to see beyond the blog posts, [side projects](https://twitter.com/parrots/status/779014268905816064), and [(bad) puns](https://twitter.com/jasdev/status/791701214664790016).
 
@@ -22,9 +22,9 @@ This journal helped reveal my inner gears. More specifically, it allowed others 
 
 ## What Didn’t Go So Well?
 
-Counterintuitively, the journal almost acted like an _escape valve_ for my ambition to write longer-form posts. Instead of taking the extra time to crystallize a cohesive thesis, I’d sometimes fire off an entry and call it a day<sup>3</sup>. Doing so caused me to miss out on arguably the most important part of writing: the final 20% involved in publishing. Editing, _n_-ary drafts, and trimming the cruft are the metaphorical [sticking points](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4887540/) where most of my cognitive growth happens.
+Counterintuitively, the journal almost acted like an _escape valve_ for my ambition to write longer-form posts. Instead of taking the extra time to crystallize a cohesive thesis, I’d sometimes fire off an entry and call it a day[^3]. Doing so caused me to miss out on arguably the most important part of writing: the final 20% involved in publishing. Editing, _n_-ary drafts, and trimming the cruft are the metaphorical [sticking points](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4887540/) where most of my cognitive growth happens.
 
-A second, more concrete aspect that could have been improved was tooling. Below are the steps<sup>4</sup>—read friction—around updating the thought journal:
+A second, more concrete aspect that could have been improved was tooling. Below are the steps[^4]—read friction—around updating the thought journal:
 
 - Open [Tower](https://www.git-tower.com) and pull the latest changes
 - Open `thoughts.md` in [iA Writer](https://twitter.com/jasdev/status/882070849389555714)
@@ -43,7 +43,7 @@ The original version of the journal was simply one gigantic Markdown file. I’v
 
 #### Feed
 
-While I thought the _lack_ of notifications would be an asset<sup>5</sup>, it ended up adding friction for [those who would otherwise love to read the journal](https://twitter.com/wahoo/status/854365871443107840). As an initial option, I’ve opened up an [RSS feed](/thoughts.xml) for my thoughts—which I might pipe to a separate Twitter account in the future.
+While I thought the _lack_ of notifications would be an asset[^5], it ended up adding friction for [those who would otherwise love to read the journal](https://twitter.com/wahoo/status/854365871443107840). As an initial option, I’ve opened up an [RSS feed](/thoughts.xml) for my thoughts—which I might pipe to a separate Twitter account in the future.
 
 #### Routine
 
@@ -63,13 +63,14 @@ This is all an experiment. So, I’ll check back in six month’s time. Until th
 
 Special thanks to [Claire](https://twitter.com/_eeclaire), [John](https://twitter.com/jxxf), [Justin](https://twitter.com/justinmduke), and [Felix](https://twitter.com/krausefx) for reading early drafts of this post.
 
-## Footnotes
-<sup>1</sup>: This experiment was inspired by Ryan’s attempt at this: [High-Cadence Thoughts](http://quip.com/jgBUALiGBjwp).
+## Footnotes:
 
-<sup>2</sup>: On the note of “volumes of work,” an example that still blows me away is [Above & Beyond](https://twitter.com/aboveandbeyond)’s radio show: [Group Therapy](https://itunes.apple.com/us/podcast/above-beyond-group-therapy/id286889904?mt=2) (formerly [Trance Around the World](https://itunes.apple.com/us/podcast/above-beyond-trance-around-the-world/id993499023?mt=2)). The group has run the podcast every week for 688 weeks (13+ years) so far!
+[^1]: This experiment was inspired by Ryan’s attempt at this: [High-Cadence Thoughts](http://quip.com/jgBUALiGBjwp).
 
-<sup>3</sup>: I have noticed [this dynamic](https://twitter.com/ryandawidjan/status/739490348553150464) with tweets too.
+[^2]: On the note of “volumes of work,” an example that still blows me away is [Above & Beyond](https://twitter.com/aboveandbeyond)’s radio show: [Group Therapy](https://itunes.apple.com/us/podcast/above-beyond-group-therapy/id286889904?mt=2) (formerly [Trance Around the World](https://itunes.apple.com/us/podcast/above-beyond-trance-around-the-world/id993499023?mt=2)). The group has run the podcast every week for 688 weeks (13+ years) so far!
 
-<sup>4</sup>: I’d repeat the same process on iOS with [Git2Go](https://git2go.com) replacing Tower.
+[^3]: I have noticed [this dynamic](https://twitter.com/ryandawidjan/status/739490348553150464) with tweets too.
 
-<sup>5</sup>: i.e. I _thought_ the journal would be more effective when visits stemmed from curiosity, instead of pushes.
+[^4]: I’d repeat the same process on iOS with [Git2Go](https://git2go.com) replacing Tower.
+
+[^5]: i.e. I _thought_ the journal would be more effective when visits stemmed from curiosity, instead of pushes.

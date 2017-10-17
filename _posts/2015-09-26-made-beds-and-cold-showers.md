@@ -4,11 +4,11 @@ title: Made Beds and Cold Showers
 permalink: made-beds-and-cold-showers
 ---
 
-A solid morning<sup>1</sup> routine is the secret weapon to making each day the best one yet. It can help set the tone for the rest of the day and allow you to hit the ground running. I wanted to talk about two parts of my morning routine that have made all the difference and an area I'm hoping to improve on.
+A solid morning[^1] routine is the secret weapon to making each day the best one yet. It can help set the tone for the rest of the day and allow you to hit the ground running. I wanted to talk about two parts of my morning routine that have made all the difference and an area I'm hoping to improve on.
 
 ## Making My Bed
 
-Growing up, I never used to make my bed. My mom always nagged me about this, but I let this seemingly mundane task slide. That all changed when I watched Admiral William McRaven's [commencement speech](https://youtu.be/pxBQLFLei70?t=4m43s) at the University of Texas at Austin in 2014. He made two incredible points about taking this act seriously. First, it allows you to start your day with a small win. This momentum<sup>2</sup> has helped me go on to tackle subsequent tasks. Secondly, no matter how 'badly' your day goes, coming home to a bed that is made—that you made—gives you encouragement for tomorrow.
+Growing up, I never used to make my bed. My mom always nagged me about this, but I let this seemingly mundane task slide. That all changed when I watched Admiral William McRaven's [commencement speech](https://youtu.be/pxBQLFLei70?t=4m43s) at the University of Texas at Austin in 2014. He made two incredible points about taking this act seriously. First, it allows you to start your day with a small win. This momentum[^2] has helped me go on to tackle subsequent tasks. Secondly, no matter how 'badly' your day goes, coming home to a bed that is made—that you made—gives you encouragement for tomorrow.
 
 ## Cold Showers
 
@@ -20,13 +20,16 @@ While making my bed and cold showers have helped bolster my morning routine, the
 
 ![](/public/images/dnd.png)
 
-The above habits are just a few<sup>3</sup> that I have been doing and hope to improve on. Fine-tuning my morning routine has been worth its weight in gold. After all, the first step in building a better self is adjusting how you start each day.
+The above habits are just a few[^3] that I have been doing and hope to improve on. Fine-tuning my morning routine has been worth its weight in gold. After all, the first step in building a better self is adjusting how you start each day.
 
 Have aspects of your morning routine that you cannot live without? I'd love to [know about them](https://twitter.com/jasdev)!
 
 ---
-<sup>1</sup>: While 'morning' generally means the first part of the day, I am using it to refer to the period when one wakes up. Everyone has their own sleep schedule that fits their needs.
 
-<sup>2</sup>: Momentum is a hell of a drug.
+## Footnotes:
 
-<sup>3</sup>: My other morning habits include exercise, meditation, reading a [daily list](/daily-list), and reflecting on previous [journal entries](/small-moments).
+[^1]: While 'morning' generally means the first part of the day, I am using it to refer to the period when one wakes up. Everyone has their own sleep schedule that fits their needs.
+
+[^2]: Momentum is a hell of a drug.
+
+[^3]: My other morning habits include exercise, meditation, reading a [daily list](/daily-list), and reflecting on previous [journal entries](/small-moments).

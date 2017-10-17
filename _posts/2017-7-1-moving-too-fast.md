@@ -12,11 +12,12 @@ I’ll never forget this question. In my three years in the industry so far (san
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Forty hour workweeks are a relic of the Industrial Age. Knowledge workers function like athletes - train and sprint, then rest and reassess.</p>&mdash; Naval Ravikant (@naval) <a href="https://twitter.com/naval/status/873624849230385152">June 10, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I hope the next wave of development paradigms borrow from what we’ve learned in training world-class athletes<sup>1</sup>. To list a few: [sound bodies make for sound minds](/one-month-at-recurse-center#energy-management), [sleep deprivation is a false badge of honor](https://twitter.com/dhh/status/796846867971645440)<sup>2</sup>, [information diets are akin to nutritional diets](https://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html), [managers should also aim to be coaches (teachers)](http://www.npr.org/sections/ed/2016/06/01/479335421/practice-makes-possible-what-we-learn-by-studying-amazing-kids), and [being comfortable with being uncomfortable is a skill we can cultivate](http://nymag.com/scienceofus/2016/06/how-exercise-shapes-you-far-beyond-the-gym.html).
- 
----
- 
-## Footnotes
-<sup>1</sup>: And performers, in general
+I hope the next wave of development paradigms borrow from what we’ve learned in training world-class athletes[^1]. To list a few: [sound bodies make for sound minds](/one-month-at-recurse-center#energy-management), [sleep deprivation is a false badge of honor](https://twitter.com/dhh/status/796846867971645440)[^2], [information diets are akin to nutritional diets](https://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html), [managers should also aim to be coaches (teachers)](http://www.npr.org/sections/ed/2016/06/01/479335421/practice-makes-possible-what-we-learn-by-studying-amazing-kids), and [being comfortable with being uncomfortable is a skill we can cultivate](http://nymag.com/scienceofus/2016/06/how-exercise-shapes-you-far-beyond-the-gym.html).
 
-<sup>2</sup>: [Basecamp](https://basecamp.com)’s cofounder, [Jason Fried](https://twitter.com/jasonfried), even posited the idea of [paying employees to sleep more](https://overcast.fm/+GJ7jL2GIs/28:25) (timestamped link).
+---
+
+## Footnotes:
+
+[^1]: And performers, in general
+
+[^2]: [Basecamp](https://basecamp.com)’s cofounder, [Jason Fried](https://twitter.com/jasonfried), even posited the idea of [paying employees to sleep more](https://overcast.fm/+GJ7jL2GIs/28:25) (timestamped link).

@@ -4,7 +4,7 @@ title: Utility Apps
 permalink: utility-apps
 ---
 
-A couple of days ago, I made a series of tweets that highlighted _smaller utility_<sup>1</sup> applications that I've found recently.
+A couple of days ago, I made a series of tweets that highlighted _smaller utility_[^1] applications that I've found recently.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love utility apps that solve a small need in an elegant way. Wanted to share three I’ve found recently (would love other recommendations)!</p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/814666130371604485">December 30, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -14,7 +14,7 @@ A couple of days ago, I made a series of tweets that highlighted _smaller utilit
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">3/ Spectator by <a href="https://twitter.com/timonus">@timonus</a>: View Spectacles videos outside of Snapchat with the same rotation gesture<a href="https://t.co/FnMjcMVzNR">https://t.co/FnMjcMVzNR</a></p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/814666167038177280">December 30, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The thread hit home with others and served as a shout out to the developers behind these tools that impact my life. I wanted to aggregate the list here (along with replies to the thread), broken down by platform<sup>2</sup>. If you have any other suggestions, [please let me know](https://twitter.com/jasdev)!
+The thread hit home with others and served as a shout out to the developers behind these tools that impact my life. I wanted to aggregate the list here (along with replies to the thread), broken down by platform[^2]. If you have any other suggestions, [please let me know](https://twitter.com/jasdev)!
 
 ## iOS:
 
@@ -61,6 +61,8 @@ While the following are _larger_ apps, their watchOS apps make the device that m
 
 ---
 
-<sup>1</sup>: I tried to highlight lesser-known utilities.
+## Footnotes:
 
-<sup>2</sup>: Some of these are cross-platform
+[^1]: I tried to highlight lesser-known utilities.
+
+[^2]: Some of these are cross-platform
