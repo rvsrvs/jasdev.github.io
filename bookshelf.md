@@ -104,3 +104,7 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Optimizing Collections (Károly Lőrentey)](https://www.objc.io/books/optimizing-collections/)
 - [The Paper Menagerie (Ken Liu)](https://www.amazon.com/gp/product/148142436X)
 - [The Elephant in the Brain (Kevin Simler and Robin Hanson)](https://www.amazon.com/gp/product/0190495995)
+- [Option B (Sheryl Sandberg and Adam Grant)](https://www.amazon.com/gp/product/0525590080)
+- [The Upside of Stress (Kelly McGonigal)](https://www.amazon.com/gp/product/1101982934)
+- [Discipline Equals Freedom (Jocko Willink)](https://www.amazon.com/gp/product/1250156947) 📖 ⭐️
+- [So Sad Today (Melissa Broder)](https://www.amazon.com/gp/product/1455562726)
