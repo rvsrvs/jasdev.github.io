@@ -24,8 +24,8 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 
 ### Reading List (Last Updated: 10/7/2017)
 
-- [RxSwift: Reactive Programming with Swift (RW Team)](https://www.amazon.com/RxSwift-Reactive-Programming-raywenderlich-com-Team/dp/1942878346) ✏️
-- [Psyched Up (Daniel McGinn)](https://www.amazon.com/Psyched-Up-Science-Preparation-Succeed/dp/159184830X/) ✏️
+- [RxSwift: Reactive Programming with Swift (RW Team)](https://www.amazon.com/RxSwift-Reactive-Programming-raywenderlich-com-Team/dp/1942878346)
+- [Psyched Up (Daniel McGinn)](https://www.amazon.com/Psyched-Up-Science-Preparation-Succeed/dp/159184830X/)
 - [Behave: The Biology of Humans at Our Best and Worst (Robert Sapolsky)](https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078)
 - [Modern Romance (Aziz Ansari)](https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251) 📖
 - [The Manager’s Path (Camille Fournier)](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 📖 ⭐️
@@ -91,9 +91,9 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Haskell Programming from First Principles (Julie Moronuki and Christopher Allen)](http://haskellbook.com)
 - [Foolproof, and Other Mathematical Meditations (Brian Hayes)](https://www.amazon.com/gp/product/026203686X)
 - [Reset (Ellen Pao)](https://www.amazon.com/gp/product/039959101X)
-- [Bright Dead Things (Ada Limón)](https://www.amazon.com/gp/product/1571314717)
+- [Bright Dead Things (Ada Limón)](https://www.amazon.com/gp/product/1571314717) ✏️
 - [The Time-Crunched Cyclist (Chris Carmichael and Jim Rutberg)](https://www.amazon.com/gp/product/1937715507)
-- [Tribe (Sebastian Junger)](https://www.amazon.com/gp/product/1455566381)
+- [Tribe (Sebastian Junger)](https://www.amazon.com/gp/product/1455566381) 📖 ⭐️
 - [Nicely Said (Nicole Fenton and Kate Kiefer Lee)](https://www.amazon.com/gp/product/0321988191)
 - [The Rise of Superman (Steven Kotler)](https://www.amazon.com/gp/product/1477800832)
 - [Design Your Work (Tiago Forte)](https://www.amazon.com/dp/B075VXH7ZL)
@@ -107,4 +107,4 @@ Below is a (fairly) updated list of all of the (physical&#124;digital) books I o
 - [Option B (Sheryl Sandberg and Adam Grant)](https://www.amazon.com/gp/product/0525590080)
 - [The Upside of Stress (Kelly McGonigal)](https://www.amazon.com/gp/product/1101982934)
 - [Discipline Equals Freedom (Jocko Willink)](https://www.amazon.com/gp/product/1250156947) 📖 ⭐️
-- [So Sad Today (Melissa Broder)](https://www.amazon.com/gp/product/1455562726)
+- [So Sad Today (Melissa Broder)](https://www.amazon.com/gp/product/1455562726) ✏️

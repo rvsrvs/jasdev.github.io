@@ -34,7 +34,7 @@ A couple of things:
 ## What I Would Like To Be Known For
 
 - Making the world better through people.
-- A friend who [loves infinitely](https://github.com/Jasdev/thoughts/blame/181dbeacaf083497ad10f080247a2e5b9b4af401/core-values.md#L7), but also [challenges peers grow](https://twitter.com/jasdev/status/869938469153492999).
+- A friend who [loves infinitely](https://github.com/Jasdev/thoughts/blame/181dbeacaf083497ad10f080247a2e5b9b4af401/core-values.md#L7), but also [challenges peers to grow](https://twitter.com/jasdev/status/869938469153492999).
 - Someone who [thinks aloud](/thoughts) as a reminder that we usually [experience similar invisible wounds](https://twitter.com/jasdev/status/784511992618971136).
 
 ## Things I Spend/Spent Way Too Much Time On
