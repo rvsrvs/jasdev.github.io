@@ -2,6 +2,7 @@
 layout: post
 title: Small Moments
 permalink: small-moments
+highlighted: true
 ---
 
   > Originally posted on [Medium](https://medium.com/@jasdev/small-moments-159df5db89a5). Notes inserted as quotes.

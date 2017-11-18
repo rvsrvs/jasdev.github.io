@@ -2,6 +2,7 @@
 layout: post
 title: Pouring My Whole Self Into Work
 permalink: whole-self
+highlighted: true
 ---
 
 Lately, I’ve had little desire to tackle side projects. This realization caught me off guard,  especially as someone who participated in [countless hackathons](https://www.instagram.com/p/PnOAuvNa-Q), [helped start one at their school](http://www.nbc29.com/story/25232742/uva-students-participate-in-36-hour-hack-a-thon), and whose [side project landed him and his friends a trip to visit Snapchat’s HQ](https://medium.com/@binroot/the-best-jokes-have-no-punchline-5f4713a963d6#.dbny4gut0). Our industry tends to espouse the idea that you must always have a side project—often citing them as a factor in hiring decisions. Thinking more deeply about this change, I reflected on my [decision to join Peloton](http://spoonbill.io/datum/81425/), our industry’s assumption of the privilege to work on side projects, and how I’d like to incorporate my experience with side projects into my future management style.

@@ -26,10 +26,15 @@ Writing is a way for me to distill thoughts. The intent of these essays <i>isnâ€
 <br/>
 <br/>
 
+First time here? Post titles suffixed with &lsquo;âŠ—&rsquo; are some of my favorites.
+
+<br/>
+<br/>
+
 <div class="posts">
   {% for post in site.posts %}
     <div class="post-link">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}{% if post.highlighted %} âŠ—{% endif %}</a>
     </div>
   {% endfor %}
 </div>
@@ -39,7 +44,7 @@ Writing is a way for me to distill thoughts. The intent of these essays <i>isnâ€
 <div class="external-posts">
   <div class="post-link">
       <a href="https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq">
-        Featured Follow Kickoff Post
+        Featured Follow Kickoff Post âŠ—
       </a>
   </div>
 

@@ -2,6 +2,7 @@
 layout: post
 title: Crafting Space to Be Ourselves
 permalink: crafting-space
+highlighted: true
 ---
 
 My all-time favorite quote from [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) is

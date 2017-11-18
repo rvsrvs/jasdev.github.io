@@ -2,6 +2,7 @@
 layout: post
 title: 257 Hours on the F Line
 permalink: commuting
+highlighted: true
 ---
 
 Since moving to New York City, I’ve spent ~257 hours commuting to and from work via [the F line](https://en.wikipedia.org/wiki/F_(New_York_City_Subway_service))[^1]. While I used to dread my commute, I’ve recently spent a lot of time thinking about how to make it more enjoyable. The goal **wasn’t to optimize every minute of my commute**, but rather to make it something I looked forward to, while aligning with my [core value of always learning](https://github.com/Jasdev/thoughts/blame/97c505fa1cd52e74060fc898d0f20f3206347164/core-values.md#L5).

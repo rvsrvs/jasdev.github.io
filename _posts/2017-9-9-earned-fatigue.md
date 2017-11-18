@@ -2,6 +2,7 @@
 layout: post
 title: Chasing Earned Fatigue
 permalink: earned-fatigue
+highlighted: true
 ---
 
 I usually cringe at the trite question: “what does success mean to you?” But, [Jodie Foster](https://en.wikipedia.org/wiki/Jodie_Foster)’s answer has stuck with me over the years.

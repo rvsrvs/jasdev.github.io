@@ -2,6 +2,7 @@
 layout: post
 title: The Interplay Between High-Cadence and Well-Formed Thoughts
 permalink: high-cadence-versus-well-formed
+highlighted: true
 ---
 
 Back in January, I started a public, high-cadence log of [what’s on my mind](/thoughts)[^1]. Along the spectrum between my [Twitter account](http://twitter.com/jasdev) and this blog, the journal sits in-between. _Unpolished_ thoughts, developed over time. Six months and 46 entries later, I wanted to take a moment to reflect on my experience so far.

@@ -2,6 +2,7 @@
 layout: post
 title: Peeling Off Labels
 permalink: peeling-labels
+highlighted: true
 ---
 
 With my first anniversary at [Peloton](http://onepeloton.com) approaching, I’ve been thinking about how labels and titles shape internal narratives. Reflecting on my career and the various jobs I’ve held, I realized that the way the industry talks about jobs, and to some extent ourselves, needs to shift. For example, my online bios _used_ to follow the cookie-cutter [“X at Y. Previously A, B, and C.”](/x-at-y-previously-a-b-c) template, where `X` is some title, and `{Y, A, B, C}` are companies. This template has since been consciously refactored to [“__building__ Y…“](http://spoonbill.io/datum/149497/). I have way more to offer than the ceiling under which “iOS Engineer” places me. The intent here isn’t external validation, but rather to be intellectually honest about whether the labels I hold—voluntarily or involuntarily—are the _right ones_ and peeling off the ones that _don’t fit_ anymore. Let’s explore this nuance a bit.
