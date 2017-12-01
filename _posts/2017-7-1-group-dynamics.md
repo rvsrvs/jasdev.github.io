@@ -10,7 +10,7 @@ In the moments after a small win, a handful of people come to mind for me in sha
 
 While I believe this dichotomy is true on extreme ends of the spectrum (i.e. it’s difficult to have meaningful dialogues with hundreds of people), it’s fascinating to me how services like Snapchat affect intimacy through the features they do and do not offer. Moreover, this reminded me of a tangential topic: how groups partition over time.
 
-### Snapchat Threads
+### <a name="snap-threads">Snapchat Threads</a>
 
 I imagine that Snapchat’s delay in releasing groups was somewhat intentional. The app cultivates closeness in both regular snaps (one user to many, in a _directed_ fashion) or Stories (one user to many, _undirected_).
 
