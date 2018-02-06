@@ -2,7 +2,7 @@
 layout: page
 ---
 
-(Last Updated: 10/7/2017)
+(Last Updated: 2/5/2018)
 
 ## [Thoughts](/thoughts) ([RSS](/thoughts.xml))
 
@@ -14,22 +14,20 @@ I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikip
 
 ## What Am I Struggling With Right Now?
 
-A couple of things:
-
-- Growing out of the “iOS Engineer” label. I recently [wrote about the power of the labels](/peeling-labels) we hold—both voluntarily and involuntarily. Simply calling myself an “engineer” might _inadvertently_ lower my ceiling, since I love exploring the folds of product, technology, and thoughtful design.
 - [Finding an editor](https://twitter.com/jasdev/status/916265441584140288). A long-term goal I’m working towards at the moment is writing professionally. Hiring an editor is likely a point along that trajectory. If you have any recommendations, it’d mean a ton if you [sent them my way](mailto:{{ site.email }}).
 
 ## What I’d Love to Help You With
 
 - Editing. I wholeheartedly believe that [editors help craft better writers](https://twitter.com/jasdev/status/790202105839640580). If you need a pair of eyes on a post, please [reach out](https://twitter.com/jasdev) (DMs open).
 - [Holding space](https://twitter.com/jasdev/status/831682922704945152). I learn the most when listening to [folks from walks of life unlike mine](https://twitter.com/jasdev/status/906596468873728000). I’d love to help work through an issue (of any variety) by holding space for you to talk about it.
-- Feedback on prototypes and project ideas (I mostly focus on iOS apps and APIs these days).
 
 ## Questions I’m Thinking About
 
 - Ways to [slow down one’s perception of time](https://twitter.com/naval/status/769745071675539456)
 - How can we foster [effortful learning](http://journals.sagepub.com/doi/abs/10.1177/0963721414540167) (espoused in [_Make it Stick_](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)) in an age of fleeting content (tweets, snaps, and faster-paced blogs)?
-- There are tons of clear thinkers out there that don’t write. How do we surface their thoughts without the friction associated with blogs and Medium posts, yet provide more room for nuance than Twitter?
+- Does vertical scrolling as a design pattern have any (unintended) subconscious consequences?
+- Whether “being present” is subtractive or additive?
+- What would a “slow“ (social or information) network look like? One where consumption might be limited to specific cadences or hours of the day.
 
 ## What I Would Like To Be Known For
 
