@@ -5,7 +5,7 @@ permalink: ambient-intimacy
 highlighted: true
 ---
 
-“How’d you two become friends?” “…we met on Twitter!” Some of my dearest friendships have stemmed from this origin story, since making an account in 2011. What about ~~140~~ 280 characters fosters such strong connections? After letting the question distill for a year, a potential answer is starting to take shape.
+“How’d you two become friends?” “…we met on Twitter!” This origin story has sparked a few of my dearest friendships, since making an account in 2011. What about ~~140~~ 280 characters fosters such strong connections? After letting the question distill for a year, a potential answer is starting to take shape.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">(Continuing on this tweet) Twitter has a way of fostering ambient intimacy, that I’ve only seen matched by podcasts<a href="https://t.co/7zPbTTf1hH">https://t.co/7zPbTTf1hH</a></p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/803793770370232320?ref_src=twsrc%5Etfw">November 30, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
