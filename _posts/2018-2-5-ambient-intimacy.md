@@ -57,7 +57,7 @@ Both nomenclature and context tie back into ambient intimacy. By carefully [choo
 
 ## Other Mediums
 
-Twitter seems to foster ambient intimacy, but where else does it crop up? I’ve noticed it in four other places:
+Twitter seems to foster ambient intimacy, but where else does it crop up? I’ve noticed it in three other places:
 
 ### Podcasts
 
