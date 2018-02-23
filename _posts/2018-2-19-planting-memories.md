@@ -20,7 +20,7 @@ Live Photos are three-second clips _passively_ recorded around every photo taken
 
 Music is another powerful anchor. It almost losslessly compresses entire seasons of our lives.
 
-“[Your Heart](https://soundcloud.com/quylong/dirty-south-joe-gil-your-heart)” fixed itself to my last undergraduate final. “[Redux Starting Again](https://soundcloud.com/jasdev-singh/dubvision-vs-east-young-redux)” was on repeat as wrote a friend’s 21st birthday card. “[Chords of Life](https://soundcloud.com/zerothree-music/tim-mason-chords-of-life-realprog-v3-out-friday)” backdropped a commute one evening when New York started to [feel like home](https://twitter.com/jasdev/status/788543352736186368).
+“[Your Heart](https://soundcloud.com/quylong/dirty-south-joe-gil-your-heart)” fixed itself to my last undergraduate final. “[Redux Starting Again](https://soundcloud.com/jasdev-singh/dubvision-vs-east-young-redux)” was on repeat as I wrote a friend’s 21st birthday card. “[Chords of Life](https://soundcloud.com/zerothree-music/tim-mason-chords-of-life-realprog-v3-out-friday)” backdropped a commute one evening when New York started to [feel like home](https://twitter.com/jasdev/status/788543352736186368).
 
 Batching these tracks [into playlists](https://soundcloud.com/jasdev-singh/sets) creates an audiobook of my inner life. Maybe there was something to the old make-your-crush-a-mixtape sign of affection.
 
