@@ -2,7 +2,6 @@
 layout: post
 title: Time Under Tension
 permalink: time-under-tension
-highlighted: true
 date: 2018-02-12 20:00:00
 ---
 
@@ -32,7 +31,7 @@ The tension that comes with challenging tasks is often avoided. But, that’s wh
 
 ---
 
-Special thanks to [Sravanti](https://twitter.com/sravanti__) and [Ravi](https://twitter.com/rneppalli) for feedback on early drafts of this essay.
+Special thanks to [Sravanti](https://twitter.com/sravanti__) and [Ravi](https://twitter.com/rneppalli) for feedback on early drafts of this post.
 
 ## Footnotes:
 

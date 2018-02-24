@@ -83,7 +83,7 @@ Ambient intimacy is an invisible foundation. Some of my favorite services, proto
 
 ---
 
-Special thanks to [Jason Brennan](https://twitter.com/jasonbrennan), [Chris Gallello](https://twitter.com/cgallello), and [Shiva Kilaru](https://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
+Special thanks to [Jason](https://twitter.com/jasonbrennan), [Chris](https://twitter.com/cgallello), and [Shiva](https://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
 
 ## Footnotes:
 

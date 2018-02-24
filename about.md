@@ -2,7 +2,7 @@
 layout: page
 ---
 
-(Last Updated: 2/5/2018)
+(Last Updated: 2/23/2018)
 
 ## [Thoughts](/thoughts) ([RSS](/thoughts.xml))
 
@@ -39,8 +39,7 @@ I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikip
 
 - [Dance music](https://soundcloud.com/jasdev-singh) (wrote my [thesis on it](https://www.youtube.com/watch?v=irAFO2rGvTg)).
 - [Journaling](/small-moments). Starting in July 2013, I’ve kept a daily journal of my inner life.
-- [Thinking about group fitness](https://twitter.com/jasdev/status/852130577461465089) and how to build products that help us build better versions of ourselves.
-- Following [corgi accounts](https://www.instagram.com/zoeydacorgi/) on Instagram.
+- [Thinking about the future of group fitness](https://twitter.com/jasdev/status/852130577461465089).
 - Tetris. I used to be globally ranked in [Cascade Tetris](https://en.wikipedia.org/wiki/Tetris_Worlds#Arcade_mode) when I was a teenager.
 
 ![](/public/images/about-pic.png)
