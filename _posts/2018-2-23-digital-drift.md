@@ -22,18 +22,21 @@ Reviews are then prompted at the chosen interval, allowing users to groom tasks 
 
 > “It may sound heartless, to unfriend people on their birthday, but I like to think that they won’t notice I’ve done it on a day that other people—presumably, people they’re still in touch with—are showering their timeline with love, affection, and, of course, GIFs. While I know that I could simply unfollow rather than unfriend on Facebook…, I don’t understand the need to keep up digital pretenses…I prefer to leave people’s Internet lives the same way I leave parties: quietly, with no goodbyes, and perhaps with a few snacks in my pocket.”
 
-OmniFocus Reviews and Rosemary’s approach gently counteract digital drift. Still, these forms of reconciliation feel like half-steps and require nontrivial effort, which brings us to a way around that: malleability.
+OmniFocus Reviews and Rosemary’s approach counteract digital drift. Still, these forms of reconciliation feel like half-steps and require nontrivial effort, which brings us to a way around that: malleability.
 
-## Malleability
+What if the networks (and apps, systems, etc.) we use were _malleable_? Social graphs would frictionlessly evolve as friends come in and out of our lives. Messaging platforms seem to poke at this by sorting threads by recency. Those we’re in touch with float to the top and everyone else gently lands a few scrolls away. This has the side-effect of shuffling the  social graph of the platform over time along a single axis: time. Of course, there’s an inherent bias here, as it prioritizes recency over longer-term friends, loved ones, and relatives we may talk to more infrequent timescales.
 
-- Messaging platforms seem to approximate this by sorting threads by recency. Of course, there’s an inherit bias here, as it prioritizes recency over longer-term friends, loved ones, and relatives we may talk to longer, more infrequent timescales.
-- Finite Edges, e.g. following an account for _X_ months (say, they’re covering a conference)
-- Acknowledge there is an ounce of social awkwardness here, but it’s more honest.
-- Mention about algorithmic feeds and how this feels a bit like a Band-Aid (lifts the inner circle as a sort of iceberg, I’d rather just have a smaller graph in the first place)
-- Mention of Shipper’s Latent Serendipity of keeping older edges around
-    - http://danshipper.com/latent-serendipity
+(Illustration of graph shuffling by recency)
 
-The best services mirror reality and digital drift is a trailing indicator of that mirror being broken.
+Another attempt at making graphs malleable are algorithmic feeds. Unlike sorting, algorithmic feeds use multiple dimensions to reshape the graph. For example, engagement™ and pauses in scrolling on another user’s posts might cause them to show up more frequently in the feed. We can think of this as the network updating the edges in your social graph in real time.
+
+(Illustration of algorithmic feeds reshaping social graphs)
+
+Sorting and algorithmic feeds have a major shortcoming: they can only _rearrange_ our graphs, not prune them. Don’t get me wrong, I’m not advocating for cutting everyone outside of one’s inner circle from their life—those “older” edges in the graph might actually be ripe with [latent serendipity](http://danshipper.com/latent-serendipity). But, there is a cognitive overhead involved with keeping others in our lives, even  digitally. We’ve observed this in the “real world” through [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number), which suggests that the “cognitive limit to the number of people with whom one can maintain stable social relationships” hovers around 150 people. I wonder if there’s a unique analog to Dunbar’s number for each of the services we use that is dependent on many factors (atomic units[^1] of the network, emotional weight attached to edges, etc.).
+
+A lightweight way to reign in digital drift could be _temporal_ edges between nodes. As an example, what if we had the ability to follow an account for _X_ months. When _X_ months comes around, we could be presented with the option to continue following or silently drop the edge—letting our graph reconcile with reality. Functionality like this could be especially useful on Twitter. I’ll often follow someone when they’re covering an event or aligned with a temporary interest of mine. Despite the the social awkwardness of “following someone for a finite amount of time,” it’s more honest to realize that not everyone you follow should continue to be in your graph _forever_ (the default assumption of most services).
+
+The gap between our lives and their snapshots embedded in systems affect our usage, trust, and relationship with them. The model of my social reality approximated by Myspace is ancient at this point. My Facebook graph is becoming more irrelevant by the day. Maybe the best services mirror reality and digital drift is a trailing indicator of that mirror being broken.
 
 ---
 
@@ -41,4 +44,4 @@ Special thanks to () for feedback on early drafts of this essay.
 
 ## Footnotes:
 
-[^1]:
+[^1]: Twitter : tweets, Facebook : posts, Snapchat : snaps, … (if we’re considering the primary actions taken on each platform).
