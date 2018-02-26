@@ -31,9 +31,9 @@ An implicit assumption we make with feeds is that we have to both read __and__ w
 
 > [I]magine if services like Twitter allowed tweets to be posted at any time, and only surfaced the feed during specific, limited hours of the day. That could do wonders in eradicating [continuous partial attention](https://en.wikipedia.org/wiki/Continuous_partial_attention).
 
-## Filtering and Reading Later
+## <a name="inbound">Filtering and Reading Later</a>
 - Reduce Inbound Information
-	- Whether it’s your following or subscription count, the most reliable way to shrink your feed is to reduce the number of inbound sources. Like [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) for social relationships, I think there is an equivalent for each service, based on its atomic unit for content. The tricky part is finding that number. For my usage of Twitter, this limit hovers around 500 accounts[^5]. Beyond that, my timeline escalates from a stream to a firehose. The following technique can help facilitate this filtration process.
+	- Whether it’s your following or subscription count, the most reliable way to shrink your feed is to reduce the number of inbound sources. Like [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) for social relationships, I think there is an equivalent for each service, based on its atomic unit for content. The tricky part is finding that number. For my usage of Twitter, this limit hovers around 300 accounts[^5]. Beyond that, my timeline escalates from a stream to a firehose. The following technique can help facilitate this filtration process.
 - Saving for Later (at Specific Times)
 	- When scrolling through a feed, people commonly defer content to apps like [Instapaper](http://instapaper.com/), [Pocket](https://getpocket.com), or [Pinboard](https://pinboard.in) for later consumption. The resulting ‘queue,’ [when properly managed](/managing-my-pocket-queue), can give you a better perspective in assessing the value of specific content. For instance, a common trait amongst posts I archive is time-dependency, causing them to go ‘stale.’ Moreover, to avoid repeating the same mistake of constantly checking this queue, I’ll reserve specific hours in the day to go through it.
 
