@@ -6,7 +6,7 @@ permalink: digital-drift
 
 Why do some networks—like Facebook’s graph—seem to _drift_ into irrelevance over time? Putting the product’s (ever-crowded) feature set aside, I think there’s a fundamental assumption baked into services today causing this: edges (friendships, follows, subscriptions, etc.) between nodes existing _indefinitely_. Sure, you can always unfriend, unfollow, or unsubscribe from accounts that are no longer of interest. But these actions aren’t _encouraged_. This is  counterintuitive. By dissuading users from pruning their graphs, services boost short-term “metrics,” at the risk of causing the network and reality to diverge—eventually leading to churn altogether. Concretely, the combination of my FB feed containing posts from folks I’ve been out of touch with and the [weight of the verb](/ambient-intimacy#network-nomenclature) “unfriending” causes the network’s snapshot of my social reality to become increasingly inaccurate. It’s healthy for my inner circle to _change_ over time; Facebook makes it feel unhealthy through the connotation of “unfriending.” Let’s call the gap between a system’s model of reality and reality itself “digital drift.”
 
-(Illustration of network drift)
+![Diagram of social reality and its graph modeled by a system diverging](/public/images/digital_drift.png)
 
 After giving the concept a name, I’ve noticed it crop up everywhere. To-do apps are another instance. At their core, they attempt to model the state of the tasks we need to accomplish. However, without regular upkeep, they go stale in being able to answer the question “what should I be working on right now?“—causing a loss of trust in the system.
 
@@ -26,11 +26,11 @@ OmniFocus Reviews and Rosemary’s approach counteract digital drift. Still, the
 
 What if the networks (and apps, systems, etc.) we use were _malleable_? Social graphs would frictionlessly evolve as friends come in and out of our lives. Messaging platforms seem to poke at this by sorting threads by recency. Those we’re in touch with float to the top and everyone else gently lands a few scrolls away—adjusting our lens on the social graph of the platform along a single axis: time. Of course, there’s an inherent bias here, as it prioritizes recency over longer-term friends, loved ones, and relatives we may talk to on infrequent timescales.
 
-(Illustration of graph shuffling by recency)
+![Illustration of messaging platforms shuffling the social graph by recency](/public/images/messaging_graph_lens.png)
 
 Algorithmic feeds are another attempt at malleability. Unlike sorting, algorithmic feeds use multiple dimensions to shape our view of the graph. For example, engagement™ and pauses in scrolling on another user’s posts might cause them to show up more frequently in the feed. We can view this as the network updating the edges of your social graph in real time.
 
-(Illustration of algorithmic feeds reshaping a social graph)
+![Illustration of feeds creating a lens on a social graph](/public/images/feed_lens.png)
 
 Sorting and algorithmic feeds have a major shortcoming: they can’t prune our graphs. Don’t get me wrong, I’m not advocating for cutting everyone outside of one’s inner circle from their life—those “older” edges in the graph might actually be ripe with [latent serendipity](http://danshipper.com/latent-serendipity). But, there is a cognitive overhead involved with keeping others in our lives, even  digitally. We’ve observed this in the “real world” through [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number), which suggests that the “cognitive limit to the number of people with whom one can maintain stable social relationships” hovers around 150 people. I wonder if there’s a unique analog to Dunbar’s number for each of the services we use (dependent on the atomic units[^1] of the network, emotional weight attached to edges, etc.).
 
