@@ -21,7 +21,7 @@ I firmly believe that a [busy mind accelerates the passage of time](https://twit
 
 Boredom hit hard during my first, week-long, silent retreat. I hesitate to include this anecdote, since describing the experience might alter my relationship with it or be interpreted as a latent [form of signaling](https://twitter.com/ryandawidjan/status/972274896486223872). But, I want to honestly distill it here, in hope that it helps folks, like me, whose insatiable information diet has made boredom a privilege.
 
-Seven days without reading, writing, speaking, or direct eye contact (one of the retreat rules) made me realize just how rarely I get bored during everyday New York Life. It got to the point where I would take longer showers just to read the labels on my shampoo and conditioner bottles—yikes. Around the third day, I began shifting my appetite for mental stimulation towards paying attention to what was around me. I vividly remember spending 45 minutes staring at a tree on Wednesday evening. The remainder of the retreat was the longest few days of my life, in the most fulfilling sense. I was reminded that time actually moves incredibly slowly when we’re present to soak in the world around us.
+Seven days without reading, writing, speaking, or direct eye contact (one of the retreat rules) made me realize just how rarely I get bored during everyday New York Life. It got to the point where I would take longer showers just to read the labels on my shampoo and conditioner bottles—yikes. Around the third day, I began shifting my appetite for mental stimulation towards paying attention to what was around me. I vividly remember spending 45 minutes staring at a tree on Wednesday evening. The remainder of the retreat contained the longest days of my life, in the most fulfilling sense. I was reminded that time actually moves incredibly slowly when we’re present to soak in the world around us.
 
 This isn’t to say we should strive to be present at all times. Going on autopilot during commutes or chores might better allow us to deploy our attention towards experiences we want to magnify. Another instance where speeding up time is desirable is flow. It usually occurs when [thinking and being present](//thinking-about-thinking) are in harmony. When you’re so in tune with the task at hand, that your sense of space and time is lost.
 
@@ -37,12 +37,24 @@ Music backgrounds the entirety of my days. Between wearing headphones at work to
 
 > “To test this, fast or slow music was played in [a] gymnasium [for] two consecutive days, and as [the participants] left, [they] were informed of their time of entry and asked to estimate the present time. The results showed that musical tempo _did not influence_ time duration estimates in any one particular direction, but that slow music led to a greater degree of inaccuracy in estimations than did fast music.”
 
-Even though an influence between tempo and time duration estimates wasn’t present, it’s interesting to note that slower music increased variability in those estimates, in either direction.
+Even though there wasn’t an influence between tempo and time duration estimates, it’s interesting that slower music increased variability in those estimates, in either direction.
 
 ### Clocks
 
-- http://www.raptitude.com/2017/09/the-case-for-not-knowing-what-time-it-is/
+Tempo also embeds itself in the way we measure time itself, with clocks. I’ve noticed a few (alternative) approaches to clocks, which seem to side effects on time perception.
+
+#### Chromachron
+
 - https://www.hodinkee.com/articles/chromachron-a-radically-new-approach-to-time
+
+#### 24-Hour Time
+
+- /24-hour-time
+    - The 24-hour time format allows me to better grasp the length a calendar day, instead of splitting it up modulo 12.
+
+#### “The Case For Not Knowing What Time It Is”
+
+- http://www.raptitude.com/2017/09/the-case-for-not-knowing-what-time-it-is/
 
 ### Circadian Rhythms
 
