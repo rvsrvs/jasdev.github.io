@@ -29,7 +29,7 @@ A lot of the discussion around “being present“ is framed as a deliberate, _a
 
 ## Tempo
 
-Let’s explore tempo, and its (non)relation to time, in handful of domains. Namely, music, clocks, and mental/physical circadian rhythms.
+Let’s explore tempo, and its (non)relation to time in a couple of domains: music and clocks
 
 ### Music
 
@@ -57,26 +57,30 @@ The black center provides an hour-wide window into the current time, slowing the
 
 #### 24-Hour Time
 
-- /24-hour-time
-    - The 24-hour time format allows me to better grasp the length a calendar day, instead of splitting it up modulo 12.
+While the Chromachron has 12 colors, it still folds a calendar day into “a.m.” and “p.m.” I’ve [experimented with military time](/24-hour-time) and it allowed me to better grasp the length of a day, instead of splitting it up modulo 12. This division provides a two-beat tempo for the hours in a day—which could shorten our time perception. There’s a palpable passage of time that using “13” over “1 p.m.” conveys. The rest of the world probably made the right call on this format.
 
-#### “The Case For Not Knowing What Time It Is”
+#### Without Time
 
-- http://www.raptitude.com/2017/09/the-case-for-not-knowing-what-time-it-is/
+What if we threw out a.m./p.m. and hour markers altogether? Doing so would certainly be utopian and make coordination nearly impossible. Still, I believe there’s a case for regimenting stretches of time to simply _not know_ what time it is. David Cain meditated on this in his thought-provoking “[Case For Not Knowing What Time It Is](http://www.raptitude.com/2017/09/the-case-for-not-knowing-what-time-it-is/)”
 
-### Circadian Rhythms
+> “As I’ve hidden and disabled the clocks around me, the days seem to flow better. Without question, I’m more efficient with my time, even though I’m unsure of exactly how much of it goes where. It simply feels healthier to operate with the vague sense that it’s mid-morning than to know it’s 10:24.”
 
-- Metabolic rates
-- https://twitter.com/mmay3r/status/934671385485381632
-- Rate of consumption of media dictates our mental circadian rhythm
-    - http://alistapart.com/article/orbital-content
-    - Note against Stories (fixed tempo)
+> “…Checking the clock does more than just supply information. It connects, in our mind’s eye, what we’re doing now to everything else that must be done later. Seeing the numerical time draws our attention away from the task at hand and into the abstract realm of planning, scheduling and evaluation.”
+
+Cain concludes with a hypothetical parallel to blood pressure measurements being prominently displayed throughout the day, as we do with clocks:
+
+> “Imagine if you couldn’t easily avoid knowing your current blood pressure numbers. Wherever you go, there are readouts everywhere: on towers, buildings, entertainment devices and appliances. You see it within seconds of waking, and last thing before bed.
+
+> Obviously it can be useful to have access to your blood pressure numbers. But if you received 80 blood pressure updates a day, it would be considerably harder to enjoy your life. You’d spend so much time in health-evaluation mode that you’d be unable to enjoy so much as a restaurant meal without wondering what your actions mean for the big picture.
+
+> There’s an analogous psychological cost to constantly learning what time it is. Whenever we see the time, we often can’t help but remember our whole basket of obligations and goals, and wonder how we’re ever going to fit them all together. And how often do we feel completely confident in our ability to do that?”
+
+There likely isn’t a perfect, _universal_ harmony between tempo—or lack thereof—and our perception of time. Yet, we can still be deliberate in picking the right intervals to maintain a healthy relationship with the abstract grid that overlays our existence. After all, [tempo is so important for humans that we invented weekdays](https://twitter.com/mmay3r/status/934671385485381632).
 
 ---
 
 - https://twitter.com/naval/status/789335754514194432
 - The moving walkway of time is slow, it’s us who’s sprinting
-- Time as a grid overlay on our lives
 - Days so dense that they have seasons
     - Fractal and self similarity nature of time
     - Using previous “chapters” as mile markers (“life as a series of colleges”)
@@ -85,7 +89,7 @@ The black center provides an hour-wide window into the current time, slowing the
 
 Special thanks to [Samantha]() for feedback on early drafts of this essay.
 
-## Footnotes and Related Reading:
+## Related Reading:
 
 ⇒ “[Walk on the Other Side of the Street](https://ktzine.com/walk-on-the-other-side-of-the-street-be803c8f55cb)”
 
@@ -94,5 +98,3 @@ Special thanks to [Samantha]() for feedback on early drafts of this essay.
 ⇒ “[Don’t Kill Time 2](http://nearthespeedoflight.com/article/2017_01_25_don___t_kill_time_2)”
 
 ⇒ “[What Boredom Does to You](http://nautil.us/issue/53/monsters/what-boredom-does-to-you)”
-
-[^1]:
