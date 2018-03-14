@@ -5,7 +5,7 @@ permalink: slowing-down-time
 highlighted: true
 ---
 
-There’s no dancing around it—we all have a finite number of heartbeats, breaths, and seconds on this planet (and potentially Mars). However, the curious thing about time is its elastic nature. Seemingly infinite high school summers. One-on-one’s that stall when you ask for a raise and then domino back towards a regular cadence. Assuming we’re not moving near the speed of light, time marches forwards at a constant rate. But, our _perceptions_ of it change. I’ve become fascinated with ways to slow down this perception.
+There’s no dancing around it—we all have a finite number of heartbeats, breaths, and seconds on this planet (and potentially Mars). However, the curious thing about time is its elastic nature. Infinite high school summers with distinct seasons. One-on-one’s that stall when you ask for a raise and then domino back towards a regular cadence. Assuming we’re not moving near the speed of light, time marches forwards at a constant rate. But, our _perceptions_ of it change. I’ve become fascinated with ways to slow down this perception.
 
 We’ll cover three aspects that appear to be at play: new experiences, busy (or idle) minds, and tempo.
 
@@ -75,15 +75,11 @@ Cain concludes with a hypothetical parallel to blood pressure measurements being
 
 > There’s an analogous psychological cost to constantly learning what time it is. Whenever we see the time, we often can’t help but remember our whole basket of obligations and goals, and wonder how we’re ever going to fit them all together. And how often do we feel completely confident in our ability to do that?”
 
-There likely isn’t a perfect, _universal_ harmony between tempo—or lack thereof—and our perception of time. Yet, we can still be deliberate in picking the right intervals to maintain a healthy relationship with the abstract grid that overlays our existence. After all, [tempo is so important for humans that we invented weekdays](https://twitter.com/mmay3r/status/934671385485381632).
+There likely isn’t a perfect, _universal_ harmony between tempo—or lack thereof—and our perception of time. Yet, we can still be deliberate in picking intervals to maintain a healthy relationship with the abstract grid that overlays our existence. After all, tempo is so important for humans that we [ritualized weekdays](https://twitter.com/mmay3r/status/934671385485381632).
 
 ---
 
-- https://twitter.com/naval/status/789335754514194432
-- The moving walkway of time is slow, it’s us who’s sprinting
-- Days so dense that they have seasons
-    - Fractal and self similarity nature of time
-    - Using previous “chapters” as mile markers (“life as a series of colleges”)
+Our tour of new experiences, busy minds, and tempo has shown that the escalator of time actually moves slowly—we’re the ones sprinting up it. Perhaps, slowing down time means finding a tempo that provides just enough routine, while allowing us to notice the warm, green glow between the gaps of that escalator. In the end, our perception is the sum of these gaps.
 
 ---
 
@@ -91,10 +87,10 @@ Special thanks to [Samantha]() for feedback on early drafts of this essay.
 
 ## Related Reading:
 
-⇒ “[Walk on the Other Side of the Street](https://ktzine.com/walk-on-the-other-side-of-the-street-be803c8f55cb)”
-
-⇒ “[Brain Time](https://www.edge.org/conversation/brain-time)”
-
 ⇒ “[Don’t Kill Time 2](http://nearthespeedoflight.com/article/2017_01_25_don___t_kill_time_2)”
 
+⇒ “[Walk on the Other Side of the Street](https://ktzine.com/walk-on-the-other-side-of-the-street-be803c8f55cb)”
+
 ⇒ “[What Boredom Does to You](http://nautil.us/issue/53/monsters/what-boredom-does-to-you)”
+
+⇒ “[Brain Time](https://www.edge.org/conversation/brain-time)”
