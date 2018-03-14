@@ -41,11 +41,19 @@ Even though there wasn’t an influence between tempo and time duration estimate
 
 ### Clocks
 
-Tempo also embeds itself in the way we measure time itself, with clocks. I’ve noticed a few (alternative) approaches to clocks, which seem to side effects on time perception.
+Tempo also embeds itself in the measurement of time itself. I’ve noticed a few (alternative) approaches to clocks, which seem to have side effects on time perception.
 
 #### Chromachron
 
-- https://www.hodinkee.com/articles/chromachron-a-radically-new-approach-to-time
+The Chromachron is a physical manifestation of synesthesia. The “anti-stress watch is [praised for its inability to display the exact time](https://www.hodinkee.com/articles/chromachron-a-radically-new-approach-to-time),” opting for “Color Time” instead—the literal translation of Chromachron.
+
+![“Two Chromachron watches over the 1976 booklet ‘The Story of Color Time.’” Image credit to HODINKEE.](/public/images/chromachron.jpg)
+
+> “Two Chromachron watches over the 1976 booklet ‘The Story of Color Time.’” Image credit to [HODINKEE](https://www.hodinkee.com).
+
+The watch face is split into 12 colors, with “each [matching] the hour for which it stands, both in terms of illumination and energy. This explains the shining yellow for noon, while the afternoon gets increasingly darker colors as the sun fades away. It also applies to the morning, with brighter colors as the sun rises. This system takes some time to get used to, but it definitely brings a more zen feeling to the reading of time. As minutes fade away, it teaches you to envision your schedule in a more relaxed way.”
+
+The black center provides an hour-wide window into the current time, slowing the “tempo” of our perception. Instead of seeing the seconds or minutes pass by, we can only notice subtler shifts in color—making me curious if these widened intervals trigger the tendency towards inaccurate (and more relaxed) time perceptions shown in the gymnasium study.
 
 #### 24-Hour Time
 
@@ -83,8 +91,8 @@ Special thanks to [Samantha]() for feedback on early drafts of this essay.
 
 ⇒ “[Brain Time](https://www.edge.org/conversation/brain-time)”
 
-⇒ [“Don’t Kill Time 2”](http://nearthespeedoflight.com/article/2017_01_25_don___t_kill_time_2)
+⇒ “[Don’t Kill Time 2](http://nearthespeedoflight.com/article/2017_01_25_don___t_kill_time_2)”
 
-⇒ [“What Boredom Does to You”](http://nautil.us/issue/53/monsters/what-boredom-does-to-you)
+⇒ “[What Boredom Does to You](http://nautil.us/issue/53/monsters/what-boredom-does-to-you)”
 
 [^1]:
