@@ -27,14 +27,17 @@ This isn’t to say we should strive to be present at all times. Going on autopi
 
 A lot of the discussion around “being present“ is framed as a deliberate, _additive_ behavior. I’m starting to question whether this is accurate. What if we’re innately present and the trick is giving ourselves enough space and time to realize this and rest in that awareness?
 
-## Tempo
+## Tempo
 
-Let’s explore tempo, and its relation to time, in handful of domains. Namely, music, clocks, and mental/physical circadian rhythms.
+Let’s explore tempo, and its (non)relation to time, in handful of domains. Namely, music, clocks, and mental/physical circadian rhythms.
 
 ### Music
 
-- https://twitter.com/jasdev/status/786961355962257409
-    - http://journals.sagepub.com/doi/abs/10.1177/0305735698261007
+Music backgrounds the entirety of my days. Between wearing headphones at work to turning on speakers at the apartment, I’m constantly listening to house and trance. These genres are marked by differences in beats per minute (bpm) ranges with house usually clocking in at 120–130 bpm and trance at 110–150. This got me wondering if bpm ranges impacted time perception. After [asking on Twitter](https://twitter.com/jasdev/status/786961355962257409), I was pointed to [a study from 1998](http://journals.sagepub.com/doi/abs/10.1177/0305735698261007) on tempo and time perception in a gymnasium.
+
+> “To test this, fast or slow music was played in [a] gymnasium [for] two consecutive days, and as [the participants] left, [they] were informed of their time of entry and asked to estimate the present time. The results showed that musical tempo _did not influence_ time duration estimates in any one particular direction, but that slow music led to a greater degree of inaccuracy in estimations than did fast music.”
+
+Even though an influence between tempo and time duration estimates wasn’t present, it’s interesting to note that slower music increased variability in those estimates, in either direction.
 
 ### Clocks
 
