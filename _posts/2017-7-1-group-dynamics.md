@@ -2,7 +2,7 @@
 layout: post
 title: A Couple of Thoughts on Groups
 permalink: group-dynamics
-highlighted: true
+type: essay
 ---
 
 In the moments after a small win, a handful of people come to mind for me in sharing it. My [Mom](https://www.instagram.com/p/ST0WB3Na4y), the “[Awesomest Turntable DJs](/always-on-conversations),” [Ryan, Kunal](https://twitter.com/jasdev/status/869938469153492999), [Shiva](/monthly-checkins), and my roommates to name a few. Thinking about this list of people, I wonder if it’s possible to _gracefully_ scale this intimacy from a handful to a dozen. We tend to view scale and intimacy as an undisputed dichotomy.

@@ -1,37 +1,30 @@
-# Dependencies
 highlighter:      rouge
 markdown:         kramdown
 
-# Permalinks
 permalink:        pretty
 
-# Incude
 include: [".well-known"]
 
-# Plugins
 plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-seo-tag
 
-# Setup
-title:            'Jasdev Singh'
-description:      'Hey, I’m Jasdev. I write software and prose in New York.'
-url:              http://jasdev.me
+title:            'Distillations'
+description:      'A collection of posts on human behavior, technology, and engineering.'
+url:              https://jasdev.me
 baseurl:          /
 
 author:
   name:           'Jasdev Singh'
-  url:            https://twitter.com/jasdev
+  url:            https://jasdev.me
   email:          jasdevs@gmail.com
   twitter:        jasdev
 
 twitter:
   username:       jasdev
   url:            https://twitter.com/jasdev
-
-paginate:         5
 
 collections:
   thoughts:
@@ -41,7 +34,7 @@ collections:
       values:
         layout: post
 
-# Links
+
 github:               https://github.com/jasdev
 search:               https://www.google.com/search?q=site%3Ajasdev.me
 gyroscope:            https://gyrosco.pe/jasdev/helix/

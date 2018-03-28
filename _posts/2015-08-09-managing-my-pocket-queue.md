@@ -2,6 +2,7 @@
 layout: post
 title: Managing My Pocket Queue
 permalink: managing-my-pocket-queue
+type: interlude
 ---
 
 Starting in 2015, I made a [goal](https://www.coach.me/plans/904-read) to actively read more. I approached this in two directions: traditional books<sup>1</sup> and trekking through my [Pocket](https://getpocket.com) queue. For those who aren’t familiar with Pocket, it’s an app that allows you to save online articles and videos for later consumption (even offline). Moreover, it has an amazing interface which makes reading web content feel comparable to an eBook.

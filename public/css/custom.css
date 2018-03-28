@@ -5,3 +5,15 @@
 .index-heading {
 	color: #505050;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.header
+{
+    width: 20%;
+    height: auto;
+}

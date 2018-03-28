@@ -2,6 +2,7 @@
 layout: post
 title: Let’s Get Meta&#58; Swift Metatypes and Cell Reuse
 permalink: lets-get-meta
+type: interlude
 ---
 
 For the past few weeks, I’ve been running a small project called [Public Extension](https://twitter.com/publicextension). Each weekday[^1], I come up with a handy Swift extension (to the [Standard Library](http://swiftdoc.org), UIKit, etc.) and tweet it out for everyone to follow along!

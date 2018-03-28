@@ -2,6 +2,7 @@
 layout: post
 title: Why I’m Glad Twitter Doesn’t Allow Editing
 permalink: memory-reconsolidation
+type: interlude
 ---
 
 Hear me out. While typos and grammar issues are inevitable in the absence of editing, there is a subtle way to use this as a lens into your thinking. I view tweets as _atomic units_. __Immutable__ snapshots about your life that you can thread together with others over time.

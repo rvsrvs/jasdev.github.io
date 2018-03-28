@@ -3,6 +3,7 @@ layout: post
 title: Crafting Space to Be Ourselves
 permalink: crafting-space
 highlighted: true
+type: essay
 ---
 
 My all-time favorite quote from [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) is
@@ -15,7 +16,7 @@ In a similar vein, I’ve been supporting two junior engineers on [my team](http
 
 ## Not Being Afraid to Say “I Don’t Know“
 
-While interning, a reassuring statement to hear from my mentor was “I don’t know.” It reminded me that we’re all human and a competitive advantage for knowledge workers isn’t what you know _internally_, but rather the ability to sift through the noise in finding an answer. I’ve tried to do the same for my mentees[^2]. A good suffix to this phrase is “let’s research this __together__.” 
+While interning, a reassuring statement to hear from my mentor was “I don’t know.” It reminded me that we’re all human and a competitive advantage for knowledge workers isn’t what you know _internally_, but rather the ability to sift through the noise in finding an answer. I’ve tried to do the same for my mentees[^2]. A good suffix to this phrase is “let’s research this __together__.”
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As a senior engineer or a technical team lead, it&#39;s perfectly okay to say &quot;I don&#39;t know, let&#39;s research this together.&quot;</p>&mdash; Celestine Omin (@cyberomin) <a href="https://twitter.com/cyberomin/status/915222080647548928?ref_src=twsrc%5Etfw">October 3, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

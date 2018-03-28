@@ -2,6 +2,7 @@
 layout: post
 title: Tracking as a Catalyst for Change
 permalink: tracking-as-a-catalyst-for-change
+type: interlude
 ---
 
 When building a new habit, maintaining momentum is often the hardest part. Starting small helps, but I often need a larger impetus. To tackle this, I began tracking factors associated with each habit. For example, last year, I decided to spend less time on social media (primarily Twitter and Facebook). I did not take this habit seriously until I installed [RescueTime](https://www.rescuetime.com) and saw how much time I was wasting. RescueTime is a small app that runs on your computer (and Android device), and tracks how much time you spend on specific applications and websites. Turns out, I was spending ~28 hours per month on social media alone! I was appalled by this realization. If this trend had continued, I would be wasting more than a day each month on social networks. I was driven to change.

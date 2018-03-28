@@ -1,45 +1,31 @@
 ---
 layout: page
+title: About
+render_title: false
 ---
 
-(Last Updated: 2/23/2018)
+My name is Jasdev Singh. Distillations is a container for my thoughts on human be­hav­ior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule. But, you can expect monthly updates. While first drafts are a solo endeavor, it takes a village to publish. The work on this site wouldn’t have been possible without the incredible feedback and illustrations from [peers around me](/village).
 
-## [Thoughts](/thoughts) ([RSS](/thoughts.xml))
+### About Me
 
-An attempt to create a public, high-cadence log of what’s on my mind. Along the spectrum between [my Twitter account](https://twitter.com/jasdev) and my blog, [this journal](/thoughts) sits in-between. Unpolished thoughts, developed over time.
+I’m an engineer and writer in New York. Outside of Distillations, I spend my time cycling, listening to [dance music](https://soundcloud.com/jasdev-singh) (wrote my [thesis](https://www.youtube.com/watch?v=irAFO2rGvTg) on the genre), and building products that help us build better versions of ourselves.
 
-## How’d I End Up in NYC?
+Currently, I spend my days on [Peloton](https://www.onepeloton.com/)’s engineering team. Previously, I built APIs and apps at [Tumblr](https://www.tumblr.com/), [Imgur](https://imgur.com/), and the [Recurse Center](https://www.recurse.com/scout/click?t=bb4cdf5d8bb2835f896d762d5b51cecb) (F1 ’15). Before that, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), [Fitocracy](https://twitter.com/jasdev/status/641428685275447296), and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14).
 
-I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation in 2014, I headed out to [San Francisco](http://en.wikipedia.org/wiki/San_Francisco) for about a year. But, I eventually found myself back on the East-Coast. The _only_ part of the “Where do you see yourself in five years?” question I feel remotely confident answering is that I’ll still be in New York.
+I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation in 2014, I headed out to San Francisco for a year. But, I eventually found myself back on the East Coast. The only part of the “where do you see yourself in five years?” I feel remotely confident answering is that I’ll still be in New York.
 
-## What Am I Struggling With Right Now?
-
-- [Finding an editor](https://twitter.com/jasdev/status/916265441584140288). A long-term goal I’m working towards at the moment is writing professionally. Hiring an editor is likely a point along that trajectory. If you have any recommendations, it’d mean a ton if you [sent them my way](mailto:{{ site.email }}).
-
-## What I’d Love to Help You With
-
-- Editing. I wholeheartedly believe that [editors help craft better writers](https://twitter.com/jasdev/status/790202105839640580). If you need a pair of eyes on a post, please [reach out](https://twitter.com/jasdev) (DMs open).
-- [Holding space](https://twitter.com/jasdev/status/831682922704945152). I learn the most when listening to [folks from walks of life unlike mine](https://twitter.com/jasdev/status/906596468873728000). I’d love to help work through an issue (of any variety) by holding space for you to talk about it.
-
-## Questions I’m Thinking About
-
-- Ways to [slow down one’s perception of time](https://twitter.com/naval/status/769745071675539456)
-- How can we foster [effortful learning](http://journals.sagepub.com/doi/abs/10.1177/0963721414540167) (espoused in [_Make it Stick_](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)) in an age of fleeting content (tweets, snaps, and faster-paced blogs)?
-- Does vertical scrolling as a design pattern have any (unintended) subconscious consequences?
-- Whether “being present” is subtractive or additive?
-- What would a “slow“ (social or information) network look like? One where consumption might be limited to specific cadences or hours of the day.
-
-## What I Would Like To Be Known For
+One of the most impactful questions I’ve come across is “[what would you like to be known for](https://overcast.fm/+Fg9IeSC2o/0:37)?” I’ve added my answer below to point out my north stars and keep me accountable.
 
 - Making the world better through people.
 - A friend who [loves infinitely](https://github.com/Jasdev/thoughts/blame/181dbeacaf083497ad10f080247a2e5b9b4af401/core-values.md#L7), but also [challenges peers to grow](https://twitter.com/jasdev/status/869938469153492999).
 - Someone who [thinks aloud](/thoughts) as a reminder that we usually [experience similar invisible wounds](https://twitter.com/jasdev/status/784511992618971136).
 
-## Things I Spend/Spent Way Too Much Time On
+### Elsewhere
 
-- [Dance music](https://soundcloud.com/jasdev-singh) (wrote my [thesis on it](https://www.youtube.com/watch?v=irAFO2rGvTg)).
-- [Journaling](/small-moments). Starting in July 2013, I’ve kept a daily journal of my inner life.
-- [Thinking about the future of group fitness](https://twitter.com/jasdev/status/852130577461465089).
-- Tetris. I used to be globally ranked in [Cascade Tetris](https://en.wikipedia.org/wiki/Tetris_Worlds#Arcade_mode) when I was a teenager.
+- [Twitter](https://twitter.com/jasdev)
+- [Instagram](https://www.instagram.com/jasdev/)
+- [SoundCloud](https://soundcloud.com/jasdev-singh)
+- [GitHub](https://github.com/jasdev)
+- [Gyroscope](https://gyrosco.pe/jasdev/helix/)
 
-![](/public/images/about-pic.png)
+![](/public/images/about-pic.png){: .center-image }

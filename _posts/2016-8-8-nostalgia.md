@@ -3,6 +3,7 @@ layout: post
 title: Nostalgia and Upper Bounds
 permalink: nostalgia
 highlighted: true
+type: essay
 ---
 
 Nostalgia products have made a comeback. Whether it’s [Timehop](https://timehop.com)’s daily peek down memory lane, Facebook [inserting memories](https://www.facebook.com/help/1422085768088554)[^1] into your feed, or Apple tucking away old photos into iOS [Quick Actions](https://developer.apple.com/ios/human-interface-guidelines/extensions/home-screen-actions/), companies are trying to find meaningful ways to resurface the past.

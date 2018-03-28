@@ -2,6 +2,7 @@
 layout: post
 title: Alone in Parallel
 permalink: alone-in-parallel
+type: essay
 ---
 
 An often-forgotten aspect of “being alone” or “me time” is the backdrop in which it takes place. On one end of the spectrum, we have isolation—[Walden](https://en.wikipedia.org/wiki/Walden)-esque retreats or withdrawing to our apartments after a full day; on the other end, there’s the intriguing dynamic of being alone _amongst_ company.
@@ -18,7 +19,7 @@ Last spring, [Ryan](https://twitter.com/ryandawidjan) and I tried outdoor runs w
 
 A cherished habit amongst my friends is to make otherwise lonely evenings less so by remotely coworking together. We’ll hop on Skype, Hangouts, or FaceTime and tackle whatever we need to get done, occasionally distracting one another with memes or pointless digressions.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Round 2 w/ <a href="https://twitter.com/vvdandekar?ref_src=twsrc%5Etfw">@vvdandekar</a>, <a href="https://twitter.com/binroot?ref_src=twsrc%5Etfw">@binroot</a>, and <a href="https://twitter.com/aksimhal?ref_src=twsrc%5Etfw">@aksimhal</a> <a href="https://t.co/wNxdXRP1jR">pic.twitter.com/wNxdXRP1jR</a></p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/800469476600909824?ref_src=twsrc%5Etfw">November 20, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Round 2 w/ <a href="https://twitter.com/vvdandekar?ref_src=twsrc%5Etfw">@vvdandekar</a>, <a href="https://twitter.com/binroot?ref_src=twsrc%5Etfw">@binroot</a>, and <a href="https://twitter.com/aksimhal?ref_src=twsrc%5Etfw">@aksimhal</a> <a href="https://t.co/wNxdXRP1jR">pic.twitter.com/wNxdXRP1jR</a></p>&mdash; Jasdev Singh (@jasdev) <a href="https://twitter.com/jasdev/status/800469476600909824?ref_src=twsrc%5Etfw">November 20, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Given a large enough subgroup, it’s been possible to keep a room running for entire weekends at a time (which might point towards our level of sheltered nerdiness). Remote coworking feels like an approximation of a digital “[third place](https://www.wsj.com/articles/SB115885721556770219)”—a designated retreat from the office and our homes.
 
@@ -32,7 +33,7 @@ Between synchronized workouts, remote coworking, and the book club, I used to wo
 
 ---
 
-Special thanks to [Shiva](https://twitter.com/ShivaKilaru) for editing early drafts of this post.
+Special thanks to [Shiva](https://twitter.com/ShivaKilaru) for editing early drafts of this essay.
 
 ## Footnotes
 

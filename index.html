@@ -1,92 +1,35 @@
 ---
 layout: default
-title: Posts
+title: Home
 ---
 
-<h2 class="index-heading">About</h2>
-
-I’m an engineer and writer in New York who is interested in cycling and creating products that help us build better versions of ourselves.
+<img src="/public/images/logo.png" alt="" class="center-image header">
 
 <br/>
 <br/>
 
-Currently, I spend my days on <a href="https://www.onepeloton.com">Peloton</a>’s engineering team.
-Previously, I built APIs and iOS apps at <a href="https://www.tumblr.com">Tumblr</a>, <a href="https://imgur.com">Imgur</a>, and the <a href="https://www.recurse.com/scout/click?t=bb4cdf5d8bb2835f896d762d5b51cecb">Recurse Center</a> (F1 ’15).
-Before that, I interned at Twitter (<a href="http://kpcbfellows.com/">KPCB ’13</a>), <a href="https://twitter.com/jasdev/status/641428685275447296">Fitocracy</a>, and Microsoft while studying mathematics at <a href="http://www.virginia.edu">UVA</a> (SEAS ’14).
+Distillations is a collection of essays on human be­hav­ior, our relationship with technology, and engineering. Or, more succinctly, written attempts at distilling my thoughts.
 
 <br/>
 <br/>
 
-If you want to go below the surface, click <a href="/about">here</a>.
-
-<h2 class="index-heading">Posts (<a href="/atom.xml">RSS</a>, <a href="https://buttondown.email/jasdev">email</a>)</h2>
-
-Writing is a way for me to distill thoughts. The intent of these posts <i>isn’t</i> to teach (I’ve learned that <a href="https://twitter.com/sean_a_rose/status/758103984636764160">advice is extremely lossy</a>), but rather to reflect and think aloud. While most of these pieces have been drafted alone, it <a href="/village">takes a village to publish</a>.
-
-<br/>
-<br/>
-
-First time here? Post titles suffixed with &lsquo;⊗&rsquo; are some of my favorites.
+First time here? Posts suffixed with &lsquo;⋉&rsquo; are some of my favorites.
 
 <br/>
 <br/>
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% assign essays = site.posts | where:"type","essay" %}
+  {% for post in essays %}
     <div class="post-link">
-      <a href="{{ post.url }}">{{ post.title }}{% if post.highlighted %} ⊗{% endif %}</a>
+      <a href="{{ post.url }}">{{ post.title }}{% if post.highlighted %} ⋉{% endif %}</a>
     </div>
   {% endfor %}
 </div>
 
-<h2 class="index-heading">External Posts</h2>
+<br/>
 
-<div class="external-posts">
-  <div class="post-link">
-      <a href="https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq">
-        Featured Follow Kickoff Post ⊗
-      </a>
-  </div>
+My older technical and reflective writing can be found in the <a href="/etceteras">Etceteras</a> section.
 
-  <div class="post-link">
-      <a href="https://engineering.tumblr.com/post/144151794436/swift-compilation-reporting-at-tumblr">
-        Swift Compilation Reporting at Tumblr
-      </a>
-  </div>
-
-  <div class="post-link">
-      <a href="https://overcast.fm/+GCc7vT_Uw">
-        Guest on the SwiftCoders Podcast
-      </a>
-  </div>
-
-  <div class="post-link">
-      <a href="https://github.com/codepath/ios_guides/wiki/Multithreading-in-iOS">
-        Multithreading in iOS CodePath Guide
-      </a>
-  </div>
-
-  <div class="post-link">
-      <a href="http://blog.thinkful.com/post/98406708378/why-stripe-is-becoming-the-transaction-layer-of">
-        Why Stripe is Becoming the Transaction Layer of the Internet
-      </a>
-  </div>
-
-  <div class="post-link">
-      <a href="https://blog.imgur.com/2014/09/02/tech-tuesday-speeding-up-client-side-applications-with-etags/">
-        Tech Tuesday: Speeding Up Client-Side Applications with ETags
-      </a>
-  </div>
-
-  <div class="post-link">
-      <a href="http://www.seas.virginia.edu/pubs/unbound/pdfs/spring14.pdf">
-        UVA Engineering Unbound Magazine (Pages 8–9)
-      </a>
-  </div>
-
-  <div class="post-link">
-      <a href="https://twitter.com/UVA/status/379975813581377536">
-        UVA Class of 2014 Feature
-      </a>
-  </div>
-</div>
+<br/>
+<br/>

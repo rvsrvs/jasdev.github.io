@@ -3,6 +3,7 @@ layout: post
 title: Always-On Conversations
 permalink: always-on-conversations
 highlighted: true
+type: essay
 ---
 
 Growing up, I frequently participated in outdoor activities like sports and skateboarding. However, a large portion of my childhood was spent indoors in online communities with always-on conversations. Whether it was designing forum signatures for fellow members in the [Halo](https://en.wikipedia.org/wiki/Halo_(series)) Forums or learning how to install [modchips](https://en.wikipedia.org/wiki/Modchip) from Xbox modding threads, I was always fascinated by these online worlds. Whenever I felt lonely, I tried to turn things around by jumping into these conversations to learn and grow with my Internet friends.

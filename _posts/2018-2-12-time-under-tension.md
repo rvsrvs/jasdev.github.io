@@ -3,6 +3,7 @@ layout: post
 title: Time Under Tension
 permalink: time-under-tension
 date: 2018-02-12 20:00:00
+type: essay
 ---
 
 Strength training is a nonnegotiable part of my routine. It has been an anchor in uneasy times, helped me look in the mirror with a palpable sense of peace, and continues to teach lessons that have cognitive analogs. I want to hone in on a particular lesson that my coach has relayed over the past couple of years: “Time Under Tension.“

@@ -1,5 +1,6 @@
 ---
 layout: page
+render_title: true
 title: Thoughts - Archive
 ---
 

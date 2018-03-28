@@ -2,6 +2,7 @@
 layout: post
 title: X at Y. Previously A, B, and C.
 permalink: x-at-y-previously-a-b-c
+type: interlude
 ---
 
 You’ve seen this type of bio all over the web. “X at Y. Previously A, B, and C.” I’ve been guilty of having this kind of bio since joining Twitter back in December 2011. I would list the company I’m currently at and those I worked at previously, without realizing it covers up who I truly am. I am not my job and my job isn’t me. There is much more beyond my online bios that makes me tick. Moving forward, I want to be more authentic.

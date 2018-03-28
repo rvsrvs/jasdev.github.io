@@ -3,6 +3,7 @@ layout: post
 title: Ambient Intimacy
 permalink: ambient-intimacy
 highlighted: true
+type: essay
 ---
 
 “How’d you two become friends?” “…we met on Twitter!” This origin story has sparked a few of my dearest friendships, since making an account in 2011. What about ~~140~~ 280 characters fosters such strong connections? After letting the question distill for a year, a potential answer is starting to take shape.

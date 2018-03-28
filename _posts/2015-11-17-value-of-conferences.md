@@ -2,6 +2,7 @@
 layout: post
 title: The Value of Conferences
 permalink: value-of-conferences
+type: interlude
 ---
 
 I’m a huge fan of [Sean Rose](https://twitter.com/seanarose). He is a forward-thinking mind in the world of product/platforms and is currently helping [Slack](http://slackhq.com) on their mission to reinvent team messaging. One of his tweets made me think quite a bit about the value of conferences.

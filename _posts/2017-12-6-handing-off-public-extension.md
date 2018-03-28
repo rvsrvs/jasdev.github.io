@@ -2,6 +2,7 @@
 layout: post
 title: Handing Off Public Extension
 permalink: handing-off-public-extension
+type: interlude
 ---
 
 Firing off the first tweet for [@PublicExtension](https://twitter.com/PublicExtension) on October 9th, 2015 was a rush. I was on the tail end of my batch at the [Recurse Center](http://recurse.com), after having spent the [previous quarter transitioning](/one-month-at-recurse-center) from an backend engineer to writing Swift every day. The goal was to regularly post extensions I’ve come up with, stumbled upon, or received from the community. In the span of a year, I collected 89 extensions, had [countless conversations](https://twitter.com/jasdev/status/767781639837609984) with the Core Team, and even [represented the account at XOXO Festival](https://www.instagram.com/p/BKIGsJvjg74).

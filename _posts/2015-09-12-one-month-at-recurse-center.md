@@ -2,6 +2,7 @@
 layout: post
 title: One Month at Recurse Center
 permalink: one-month-at-recurse-center
+type: interlude
 ---
 
 In a previous post on the [lessons I’ve learned after college](/lessons-after-college/), I mentioned time moves faster outside of school. This has held true for my first month at [Recurse Center](https://www.recurse.com) (formerly known as [Hacker School](https://www.recurse.com/blog/77-hacker-school-is-now-the-recurse-center)). For those not familiar with the program, it is a free, three-month, self-directed programming retreat in [New York City](https://foursquare.com/v/recurse-center/4f3933eae4b017ad7cdce1fd). Attendees are programmers looking to hone in on their skills, whether they have been coding for three decades or three months. I wanted to use this post to reflect on what I have learned so far, talk about the experience, and look ahead to my remaining months here.

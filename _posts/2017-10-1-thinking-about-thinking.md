@@ -2,6 +2,7 @@
 layout: post
 title: Thinking About Thinking
 permalink: thinking-about-thinking
+type: interlude
 ---
 
 A common sticking point that meditators face when catching themselves lost in thought is _thinking about thinking_. For example:
