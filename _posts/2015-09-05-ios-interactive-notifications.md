@@ -2,6 +2,7 @@
 layout: post
 title: A Tour of iOS Interactive Notifications
 permalink: ios-interactive-notifications
+type: interlude
 ---
 
 Starting in iOS 8, Apple opened up APIs to allow actions to be embedded in notifications. Moreover, in the upcoming release of iOS 9, these actions can now accept text input as opposed to simply being buttons (this had previously been restricted to system apps, like Messages). In a recent project of mine at [Recurse Center](https://www.recurse.com), I got the chance to use these notification actions and wanted to create a post on how to incorporate them into your existing apps!

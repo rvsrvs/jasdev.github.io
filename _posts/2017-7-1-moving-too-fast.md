@@ -2,6 +2,7 @@
 layout: post
 title: Are We Moving Too Fast?
 permalink: moving-too-fast
+type: interlude
 ---
 
 I remember the sprint planning meeting so clearly. I had [joined Peloton](http://spoonbill.io/datum/81425/) the week prior and the team was heads-down trying to launch a major refactor of the [iOS app](https://www.pelotoncycle.com/ios). After calculating how many story points we were going to tackle in the next sprint, our project manager, [Asma Khan](https://www.facebook.com/PelotonCycle/photos/a.436836049742545.1073741825.276454582447360/1024831050943039/?type=1&theater), asked the group: “are we moving too fast?”

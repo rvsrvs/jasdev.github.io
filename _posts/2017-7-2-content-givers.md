@@ -2,6 +2,7 @@
 layout: post
 title: Content Givers
 permalink: content-givers
+type: interlude
 ---
 
 Our routine is like clockwork. After each [hangout](https://www.instagram.com/p/BUFscWDApi3/), [Ryan](https://twitter.com/ryandawidjan) and I will exchange [photos](https://twitter.com/jasdev/status/862051865529286656) and videos to store in our [digital attics](/digital-attics). This habit sparked from the realization that although it’s [hard to approximate how many photos our generation takes each year](http://ben-evans.com/benedictevans/2015/8/19/how-many-pictures), a quick scroll of our Camera Rolls shows just how _rarely_ we take photos of ourselves and others.

@@ -100,8 +100,9 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
   color: #505050;
 }
 .masthead-title a {
@@ -116,7 +117,8 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 48em) {
   .masthead-title {
-    text-align: center;
+    display: flex;
+    justify-content: center;
   }
   .masthead-title small {
     display: none;
@@ -188,9 +190,6 @@ a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
-}
-.sidebar-nav-item.external {
-  padding: .5rem 1.5rem;
 }
 
 @media (min-width: 48em) {

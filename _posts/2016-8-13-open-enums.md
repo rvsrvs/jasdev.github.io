@@ -2,6 +2,7 @@
 layout: post
 title: Case Closed&#58; A Dive into Open Enumerations
 permalink: open-enums
+type: interlude
 ---
 
 Time for a pop quiz. Given that [`NSFetchedResultsChangeType`](https://developer.apple.com/reference/coredata/nsfetchedresultschangetype) is defined as follows:

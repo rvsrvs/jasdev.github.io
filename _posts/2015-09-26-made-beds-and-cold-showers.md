@@ -2,6 +2,7 @@
 layout: post
 title: Made Beds and Cold Showers
 permalink: made-beds-and-cold-showers
+type: interlude
 ---
 
 A solid morning[^1] routine is the secret weapon to making each day the best one yet. It can help set the tone for the rest of the day and allow you to hit the ground running. I wanted to talk about two parts of my morning routine that have made all the difference and an area I’m hoping to improve on.

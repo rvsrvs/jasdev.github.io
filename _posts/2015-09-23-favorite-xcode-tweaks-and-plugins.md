@@ -2,6 +2,7 @@
 layout: post
 title: My Favorite Xcode Plugins and Tweaks
 permalink: xcode-plugins-and-tweaks
+type: interlude
 ---
 
 _Updated 12/29/2015_

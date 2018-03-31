@@ -2,6 +2,7 @@
 layout: post
 title: Tips for Pair Programming
 permalink: tips-for-pair-programming
+type: interlude
 ---
 
 This past Spring, I transitioned to the iOS team at [Imgur](http://imgur.com), after having worked on their API for the previous year. The motivation for this transition was my attendance of [CodePath](https://codepath.com)’s Winter cohort. CodePath is an eight week program that teaches experienced web engineers either iOS or Android[^1]. After completing the course, I was eager to bridge our [existing Objective-C app](https://itunes.apple.com/us/app/imgur/id639881495?mt=8) to [Swift](https://developer.apple.com/swift/)[^2] and help in any capacity that I could.

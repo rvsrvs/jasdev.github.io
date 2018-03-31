@@ -2,6 +2,7 @@
 layout: post
 title: Intercepting iOS Network Traffic
 permalink: intercepting-ios-traffic
+type: interlude
 ---
 
 Ever wanted to write a small wrapper for an iOS app that has an undocumented API? Itching to reverse engineer how it communicates with its backend[^1]? You’re in luck! 😎 In the past, my friends and I have used this technique to figure out how to programmatically send and receive Snapchats, months after the application’s release. This lead to one of the [greatest stories](https://medium.com/@binroot/the-best-jokes-have-no-punchline-5f4713a963d6) we tell today.

@@ -2,6 +2,7 @@
 layout: post
 title: No Response Needed
 permalink: no-response-needed
+type: essay
 ---
 
 When I got my first iPhone back in 2012, I was a devoutly against [read receipts](https://twitter.com/_Cooper/status/677163779373797376). I wanted the space to reply without the (false) worry that my friend on the other end is silently wondering “omg, Jasdev hasn’t replied in four minutes since seeing my message‽ What a nincompoop.” Over the years (and after reading [Rosemary](https://twitter.com/rosadona)’s [fantastic post on the topic](http://hellogiggles.com/love-sex/friends/read-receipts-help-set-boundaries-relationships/)), [I’ve changed my mind](https://twitter.com/jasdev/status/716810286980808704). I now leave read receipts on by default[^1]. This change of heart got me thinking about how to better respect personal/friends’ energy levels in digital contexts.

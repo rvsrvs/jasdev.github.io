@@ -2,6 +2,7 @@
 layout: post
 title: Hiding Selector Methods
 permalink: private-selector-methods
+type: interlude
 ---
 
 On the [Tumblr](https://www.tumblr.com) iOS team, we have a strict rule that everything with an `internal` or `public` visibility must be documented[^1]. This gets a bit awkward when using the [Target-Action](https://developer.apple.com/library/ios/documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html) pattern that `UIKit` often forces you into. When dealing with multiple action selectors, it makes sense to factor out the target into a separate object. However, we’ll often just need a one-off action selector to handle an event from a `UIControl` subclass. Previously, this would lead to the following scenario and awkward comment:

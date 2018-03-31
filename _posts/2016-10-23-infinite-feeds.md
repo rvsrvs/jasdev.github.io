@@ -2,7 +2,7 @@
 layout: post
 title: "Finite Steps in Infinite Feeds: My Story with Information Overload"
 permalink: infinite-feeds
-highlighted: true
+type: essay
 ---
 
 Hi, I’m Jasdev, and I’m a recovering Twitter ‘completionist.’ I have an unusual relationship with the service. Aside from a handful of mute filters[^1], I read _every single tweet_ in my timeline. By following ~400 accounts and assuming two tweets a day per account, I read about 800 tweets each day. As a result, I tended to fill emptier moments, like [waiting for the subway](/commuting) or passing time when arriving early, with a clockwork routine. Sense boredom, pull out my phone, open [Tweetbot](http://tapbots.com/tweetbot/), pull to refresh, rinse and repeat. While Twitter excels at real-time content, I realized that my consumption of its feed **shouldn’t be**. At times, I would feel like a hamster running on a wheel and this struggle of “keeping up” forced me to reevaluate the role various feeds play in my life. I was trying to reach the ‘end’ of an infinite feed with finite steps.

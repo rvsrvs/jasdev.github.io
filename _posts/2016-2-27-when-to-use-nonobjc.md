@@ -2,6 +2,7 @@
 layout: post
 title: TIL About @nonobjc
 permalink: when-to-use-nonobjc
+type: interlude
 ---
 
 In my free time, I run a Twitter account called [Public Extension](https://twitter.com/PublicExtension), where I share handy Swift extensions I’ve found or come up with. A recent extension involved adding [custom subscripts](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Subscripts.html) to [`NSUserDefaults`](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/).

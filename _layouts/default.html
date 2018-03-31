@@ -7,14 +7,12 @@
 
     {% include sidebar.html %}
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ "/" | relative_url }}" title="Posts">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <a href="{{ "/" | relative_url }}" title="Home">{{ site.title }}</a>
+            <small><a href="/about">About</a> &middot; <a href="/etceteras">Etceteras</a> &middot; <a href="/subscribe">Subscribe</a></small>
           </h3>
         </div>
       </div>

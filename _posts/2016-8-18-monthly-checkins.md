@@ -2,6 +2,8 @@
 layout: post
 title: Monthly Check-Ins
 permalink: monthly-checkins
+highlighted: true
+type: interlude
 ---
 
 Two days I look forward to each month are the 28th and the 30th[^1]. A couple of my closest friends, [Ashoka](https://twitter.com/a_raj11) and [Shiva](https://twitter.com/ShivaKilaru), and I have established a ritual of checking in with one another on these days. The setup is simple. An hour-long, monthly calendar event where we work through problems we’re facing, wins for the past month, common themes in our [journals](/small-moments), and big questions we’d like to bounce off one another.

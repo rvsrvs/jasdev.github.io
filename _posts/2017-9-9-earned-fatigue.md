@@ -3,6 +3,7 @@ layout: post
 title: Chasing Earned Fatigue
 permalink: earned-fatigue
 highlighted: true
+type: essay
 ---
 
 I usually cringe at the trite question: “what does success mean to you?” But, [Jodie Foster](https://en.wikipedia.org/wiki/Jodie_Foster)’s answer has stuck with me over the years.
@@ -69,7 +70,7 @@ Earned fatigue—and the investigation of what induces it, defining “enough,�
 
 ---
 
-Special thanks to [Kate](https://twitter.com/katelikestoread) and [Justin](https://twitter.com/justinmduke) for reading early drafts of this post.
+Special thanks to [Kate](https://twitter.com/katelikestoread) and [Justin](https://twitter.com/justinmduke) for reading early drafts of this essay.
 
 ## Footnotes:
 

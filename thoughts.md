@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thoughts
+render_title: true
 ---
 
 [Unpolished, developed over time](/high-cadence-versus-well-formed).

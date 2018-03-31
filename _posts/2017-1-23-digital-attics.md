@@ -2,6 +2,7 @@
 layout: post
 title: Digital Attics and Service Shutdowns
 permalink: digital-attics
+type: essay
 ---
 
 Electronic Dance Music is a [big part of my life](http://www.seas.virginia.edu/pubs/unbound/spr14/singh.php)[^1]. Unlike other genres, tracks and remixes are released at a breakneck pace. Because of this, artists tend to gravitate towards Twitter-esque services for music like [SoundCloud](https://soundcloud.com/jasdev-singh), where (re)posting multiple songs a day is common. I’ve spent years curating tracks on the service to the point where my _local_ music library is only a handful of albums—around four hours worth—that have [attached themselves to memories](https://twitter.com/jasdev/status/328698506397245440). Recent news that [SoundCloud posted a $53 million loss in 2015](http://mixmag.net/read/soundcloud-may-run-out-of-cash-after-suffering-a-51-22m-loss-in-2015-news) caused me to reflect on how a potential shutdown would impact the dance community at large and [me personally](https://twitter.com/jasdev/status/822180098954690560). Due to the centralized tendencies of the web today, entire swaths of digital history[^2] can vanish from record.

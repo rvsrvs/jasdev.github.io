@@ -3,6 +3,7 @@ layout: post
 title: "Emotional Ranges: A Way to Think About Empathy"
 permalink: emotional-ranges
 highlighted: true
+type: essay
 ---
 
 Let’s break down empathy. At its core, it’s the ability to _truly_ place yourself in someone else’s shoes. Not just imagining what it would be like. But actually lacing up their boots, finding an irritating rock in the left one, and then running three marathons in two days.

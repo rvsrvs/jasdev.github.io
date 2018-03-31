@@ -2,6 +2,7 @@
 layout: post
 title: Thoughts on WWDC
 permalink: thoughts-on-wwdc
+type: interlude
 ---
 
 WWDC is a conference like no other. This past month, I was lucky enough to experience it as a part of Tumblr’s [iOS cohort](https://cocoa.tumblr.com/post/146758581738/wwdc-2016-has-come-and-passed-but-we-wanted-to). While my peers have done a fantastic job [recapping the conference’s highlights](https://swiftnews.curated.co/issues/91#start), I wanted to take a moment to reflect on the smaller details, things that went well, and things I wish I had done differently.

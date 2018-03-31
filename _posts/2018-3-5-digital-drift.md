@@ -3,6 +3,7 @@ layout: post
 title: Digital Drift
 permalink: digital-drift
 highlighted: true
+type: essay
 ---
 
 Why do some networks—like Facebook’s graph—seem to _drift_ into irrelevance over time? Putting the product’s (ever-crowded) feature set aside, I think there’s a fundamental assumption baked into services today causing this: edges (friendships, follows, subscriptions, etc.) between nodes existing _indefinitely_. Sure, you can always unfriend, unfollow, or unsubscribe from accounts that are no longer of interest. But these actions aren’t _encouraged_. This is  counterintuitive. By dissuading users from pruning their graphs, services boost short-term “metrics,” at the risk of causing the network and reality to diverge—eventually leading to churn altogether. Concretely, the combination of my FB feed containing posts from folks I’ve been out of touch with and the [weight of the verb](/ambient-intimacy#network-nomenclature) “unfriending” causes the network’s snapshot of my social reality to become increasingly inaccurate. It’s healthy for my inner circle to _change_ over time; Facebook makes it feel unhealthy through the connotation of “unfriending.” Let’s call the gap between a system’s model of reality and reality itself “digital drift.”

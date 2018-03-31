@@ -2,6 +2,7 @@
 layout: post
 title: Utility Apps
 permalink: utility-apps
+type: interlude
 ---
 
 A couple of days ago, I made a series of tweets that highlighted _smaller utility_[^1] applications that I’ve found recently.

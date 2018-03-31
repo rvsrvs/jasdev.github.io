@@ -2,11 +2,8 @@
 layout: post
 title: On Forming Habits
 permalink: on-forming-habits
+type: interlude
 ---
-
-  > Originally posted on [Medium](https://medium.com/experiences-of-a-student-hacker/on-forming-habits-e9a2a705edf0). Notes inserted as quotes.
-
-### My take on building a better self
 
 Sports involving competing against oneself have always been my fuel. Whether it was running cross country in high school or making the decision to start weight training upon entering university, I love being able to do something today that I wasn’t capable of the day before.
 
@@ -14,9 +11,7 @@ About two years ago, I wanted to formally take this approach with my personal ha
 
 ![](/public/images/chainscc.png)
 
-The GetMotivated subreddit is a fantastic collection of inspirational posts and is a factor that has remained constant throughout my journey of building a better self.
-
-> “People often say that motivation doesn’t last. Well, neither does bathing — that’s why we recommend it daily.”
+The GetMotivated subreddit is a fantastic collection of inspirational posts[^1] and is a factor that has remained constant throughout my journey of building a better self.
 
 But, chains.cc actually served as more of a crutch than a boost.
 
@@ -24,32 +19,36 @@ chains.cc allows you to enter various habits and each day that you complete them
 
 That’s when I found Lift (now rebranded as [Coach.me](https://coach.me)). An iOS and web app that takes a more solid approach to habits.
 
-![](/public/images/lift.png)
-
-> Lift will always be on my home row
+![Lift will always be on my home row.](/public/images/lift.png)
 
 Like chains.cc, Lift allows you to add specific habits and track them from day to day. However, in creating a better self, you are not alone. Lift buckets you with other people striving towards the same goals.
 
 ![](/public/images/lift-habits.png)
 
-So, after checking off a habit, I often get random ‘props’ from people. While this may seem silly, the feedback loop is amazing. It’s like people giving you high fives along the marathon we call life.
+So, after checking off a habit, I often get random ‘props’ from people[^2]. While this may seem silly, the feedback loop is amazing. It’s like people giving you high fives along the marathon we call life.
 
-> [Fitocracy](https://www.fitocracy.com) is another great example of this prop behavior being used well
-
-Two other key features that set Lift apart are reminders and a focus on milestones. Reminders make perfect sense.
-
-> Reminders can be set to day/time granularity
+Two other key features that set Lift apart are reminders and a focus on milestones. Reminders make perfect sense[^3].
 
 In the morning, I get pushed a reminder to use a standing desk, midday, a reminder to talk to a stranger, and at night, I wrap up with writing three positives things about today. Unlike chains.cc, milestones help alleviate the stress of breaking chains. Instead, you’re rewarded when you hit specific phases in a habit (e.g. tenth checkin or mini streaks).
 
-Out of the habits I’ve started forming with Lift, I’d like to point out one in particular. Writing three positive things about today.
-
-> Excellent [stats](http://blog.lift.do/post/54035976743/habit-of-the-day-write-three-positive-things-about) on this habit
+Out of the habits I’ve started forming with Lift, I’d like to point out one in particular. Writing three positive things about today[^4].
 
 40 days into it, this habit has allowed me to have a stream of consciousness like never before. Whether I just feel great after a workout or make an awesome first impression, I constantly look for the gems in life. Imagine looking at this log just a year from now, 1095 things that made your days amazing.
 
 ---
 
-These are a few of the tools I use to build a better self. I’m still learning, tweaking, and testing my approach. But, that’s the beauty of it. Becoming better than you were yesterday is not merely a habit, it’s a way to live life.
+These are a few of the tools I use to build a better self. I’m still learning, tweaking, and testing my approach. But, that’s the beauty of it. Becoming better than you were yesterday is not merely a habit, it’s a way to live life[^5].
 
-> Who knows, this may be my first post towards a habit of writing?
+---
+
+## Footnotes:
+
+[^1]: “People often say that motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily.”
+
+[^2]: [Fitocracy](https://www.fitocracy.com) is another great example of this prop behavior being used well.
+
+[^3]: Reminders can be set to day/time granularity.
+
+[^4]: Excellent [stats](http://blog.lift.do/post/54035976743/habit-of-the-day-write-three-positive-things-about) on this habit.
+
+[^5]: Who knows, this may be my first post towards a habit of writing?

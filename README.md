@@ -1,6 +1,6 @@
-# jasdev.me
+# Distillations
 
-This is the personal repository for my site, jasdev.me!
+This is the repository for my essay collection, Distillations.
 
 Built on:
 

@@ -2,6 +2,7 @@
 layout: post
 title: Swift’s nonmutating Keyword
 permalink: nonmutating
+type: interlude
 ---
 
 In preparing my recent “[Hidden Gems in Swift](https://speakerdeck.com/jasdev/hidden-gems-in-swift)” talk, I carefully combed through Swift’s “[Lexical Structure](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/LexicalStructure.html)” section. One keyword that stuck out to me, but ultimately didn’t make it into the talk was `nonmutating`. Much like the [`@nonobjc`](/when-to-use-nonobjc) attribute, it surprised me that I hadn’t seen this keyword in the wild.
