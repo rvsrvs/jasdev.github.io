@@ -6,6 +6,8 @@ render_title: false
 
 My name is Jasdev Singh. Distillations is a container for my thoughts on human be­hav­ior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule. But, you can expect monthly updates. While first drafts are a solo endeavor, it takes a village to publish. The work on this site wouldn’t have been possible without the incredible feedback and illustrations from [peers around me](/village).
 
+Also, I’ve kept some older—and _very embarrassing_—posts around to allow for nostalgic explorations of past work (and hopefully mile mark my progress?).
+
 ### About Me
 
 I’m an engineer and writer in New York. Outside of Distillations, I spend my time cycling, listening to [dance music](https://soundcloud.com/jasdev-singh) (wrote my [thesis](https://www.youtube.com/watch?v=irAFO2rGvTg) on the genre), and building products that help us build better versions of ourselves.

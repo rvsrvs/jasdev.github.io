@@ -10,7 +10,7 @@ Instapaper is my tool of choice in navigating web content. To approximate a link
 
 ### Interludes
 
-Writing that doesn’t quite fit the theme of Distillations. This space let’s me procrastinate on the current essay I’m drafting or dive into technical topics. I’ve kept some older—and _very embarrassing_—posts around to allow for nostalgic explorations of past work (and hopefully mile mark my progress?).
+Writing that doesn’t quite fit the theme of Distillations. This space let’s me procrastinate on the current essay I’m drafting or dive into technical topics.
 
 <ul>
 {% assign interludes = site.posts | where:"type","interlude" %}

@@ -72,7 +72,7 @@ A perfect congruence between tempo—or lack thereof in Cain’s case—and our 
 
 ---
 
-Our tour of new experiences, busy minds, and tempo has shown that the escalator of time already moves slowly—we’re the ones sprinting up it. Perhaps, slowing down time means finding a tempo that provides just enough routine, while letting us to notice the infinite, green glow between the gaps of that escalator. After all, our perception of time is the sum of these gaps.
+Our tour of new experiences, busy minds, and tempo has shown that the escalator of time already moves slowly—we’re the ones sprinting up it. Perhaps, slowing down time means finding a tempo that provides just enough routine, while allowing us to notice the infinite, green glow between the gaps of that escalator. After all, our perception of time is the sum of these gaps.
 
 ---
 
