@@ -35,7 +35,7 @@ Extending a section from a previous essay, “[Emotional Ranges](/emotional-rang
 
 Following folks from walks of life unlike your own let’s you span a larger subset of the _n_-dimensional space we discussed earlier. An added benefit of placing your consciousness at the confluence of diverse streams of thought is that it makes independent thinking more of an act of discipline, rather than leaving it up to willpower.
 
-I don’t mean to imply I’m perfect at this—my following graph is a continual work in progress. Yet, there is a tool and an approach that has worked for me.
+I don’t mean to imply I’m perfect at this—my following graph is a continual work in progress. Yet, there is a tool and an approach that have helped.
 
 First is a Twitter gender breakdown tool, [Proporti.onl](https://www.proporti.onl). The code is a bit dated, “[inaccurate,] and undercounts nonbinary folk, but it’s better than making no effort at all.” Proporti.onl has given me a frame of reference—albeit an approximation—in working towards increasing the variance of my feed.
 
@@ -43,7 +43,7 @@ Second is a subtle habit I’ve picked up since using Twitter over the years. Le
 
 ---
 
-- “300 lenses on the world.”
+It’s healthy to question whether or not traditional, apprentice-style mentorship works in our generation. The term “mentor“ can lead to uncomfortable and untrue pedestals—making me lean towards perspectives instead. By reaching out to people from walks of life unlike your own, you can streetlight a larger neighborhood of the _n_-dimensional space your career is navigating through. Digitally, we’re afforded this ability through services such as Twitter. Instead of having a handful of lenses through in-person mentorship, I have 306 lenses on the world. Further, you’d be surprised how willing people are to lend a hand. In fact, I’ve made some of my [best friends](/ambient-intimacy) by seeking perspectives, not mentors.
 
 ---
 
