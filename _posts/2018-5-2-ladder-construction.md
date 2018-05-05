@@ -57,37 +57,32 @@ The weekly cadence here is key—long enough to make tangible progress, yet shor
 
 ### Coaches and Managers
 
-We have coaches and managers on the other end of the spectrum. If you squint hard enough, they’re practically the same thing. Effective managers not only serve as umbrellas for their team, but also help direct reports by providing regular feedback loops and guidance in climbing a company’s career ladder.  
+Coaches and managers land on the other end of the spectrum. I used to wonder why world-class athletes and CEOs were commonly seen as roles that necessitated coaching, leaving a potential gap to be filled for the rest of us. Yet, if you squint hard enough, coaches and managers are practically the same thing. Effective managers not only serve as umbrellas for their team, but also provide direct reports with regular feedback loops and guidance in climbing a company’s career ladder.
 
-- there's a reason the best athletes in the world have trainers and coaches.
-    - https://twitter.com/markcwebster/status/823266478845739009
-- Feedback loop section in https://docs.google.com/document/d/14oYTj9gn9_XVtcXnlbmOiCHPB7sm-IsC3yOcAer55i0/mobilebasic
-    - Managers as ladder builders
-
-- It’s way easier to trust an external feedback mechanism. But, this doesn’t mean we should shy away from internal barometers—just that deploying them in areas of our life that matter is the key.
-- Ladder construction anecdote from Samantha’s question about what I’m concerned about in my writing.
-    - Could be a great driving anecdote for the the self-constructed ladder
+An added benefit of this one-to-one dynamic is specificity. Ladders are built to your trajectory, context, and preferences, instead of being muddied by larger group constraints. This makes the ladder easier to trust. “Luck” is teased apart by rungs that are spaced appropriately—better correlating efforts and potential outcomes.
 
 ## Countering Mean Reversion
 
-- Average of peers
 - Getting out of a rut
     - Slowly elevate the mean through feedback loops
     - Climbing “out”
+    - Spark => trainer => getting mental health in order
+- Ladder construction anecdote from Samantha’s question about what I’m concerned about in my writing.
+    - Could be a great driving anecdote for the the self-constructed ladder
 
-## The Case Against Ladders
+## Ladder Intuition
 
 - The case for no ladders (lack of metrics in SoulCycle) Potential for ladders and fun being at odds.
-
-- iMessage Threads from omnifocus:///task/kYEOV2bnsr3
+- It’s way easier to trust an external feedback mechanism. But, this doesn’t mean we should shy away from internal barometers—just that deploying them in areas of our life that matter is the key.
 - > I have done this circuit both with and without a coach. Despite the similar levels of effort in each context, completing it with someone else calling the shots feels more rewarding. It’s as if the rungs on your “ladder” are created for you, allowing you to focus on climbing; as opposed to trying to simultaneously climb a ladder you’re building. More generally, this delegation of “enough” might explain the (more recent) proliferation of group fitness classes. They’re instances of having someone construct ladders for us.
+- iMessage Threads from omnifocus:///task/kYEOV2bnsr3
 
 ---
 
-Special thanks to () for feedback on early drafts of this essay.
+Special thanks to [Shiva](http://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
 
 ## Related Reading and Footnotes:
 
-⇒
+⇒ “[Find Tight, Fast Feedback Loops](https://docs.google.com/document/d/14oYTj9gn9_XVtcXnlbmOiCHPB7sm-IsC3yOcAer55i0/edit#heading=h.pzt11033qdtd)”
 
 [^1]: 
