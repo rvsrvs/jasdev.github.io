@@ -61,20 +61,20 @@ Coaches and managers land on the other end of the spectrum. I used to wonder why
 
 An added benefit of this one-to-one dynamic is specificity. Ladders are built to your trajectory, context, and preferences, instead of being muddied by larger group constraints. This makes the ladder easier to trust. “Luck” is teased apart by rungs that are spaced appropriately—better correlating efforts and potential outcomes.
 
-## Countering Mean Reversion
+## Ladder Intuition and Mean Reversion
 
-- Getting out of a rut
-    - Slowly elevate the mean through feedback loops
-    - Climbing “out”
-    - Spark => trainer => getting mental health in order
-- Ladder construction anecdote from Samantha’s question about what I’m concerned about in my writing.
-    - Could be a great driving anecdote for the the self-constructed ladder
+At the risk of making things meta, there’s a leap to be made between recognizing the spectrum and knowing how to strategically move along it—a sort of “ladder intuition.” Deploying this intuition can counter tendencies in our progress from reverting to the mean, which especially helpful during trying times. I learned this during an extended struggle with [think through phrasing here].
 
-## Ladder Intuition
+To paint context, we need some background on a major part of my life: strength training. I started back in 2009—researching workouts, form, and techniques. The practice quickly became “an anchor in uneasy times, helped me look in the mirror with a palpable sense of peace, and continues to [teach lessons that have cognitive analogs](/time-under-tension).” Everything was incrementally smooth sailing until February of 2016; when I had a close call while trying to set a deadlift PR. I nearly passed out. The following check-ups to clear the air around any potential injuries sent me in a spiral of worry. A couple of CT scans and an EKG clouded my headspace with lingering worry. Two months of this caused the medical worries to spill into other areas. [add some specific examples]
 
-- The case for no ladders (lack of metrics in SoulCycle) Potential for ladders and fun being at odds.
-- It’s way easier to trust an external feedback mechanism. But, this doesn’t mean we should shy away from internal barometers—just that deploying them in areas of our life that matter is the key.
+- Slowly elevate the mean through feedback loops
+- Climbing “out”
+
 - > I have done this circuit both with and without a coach. Despite the similar levels of effort in each context, completing it with someone else calling the shots feels more rewarding. It’s as if the rungs on your “ladder” are created for you, allowing you to focus on climbing; as opposed to trying to simultaneously climb a ladder you’re building. More generally, this delegation of “enough” might explain the (more recent) proliferation of group fitness classes. They’re instances of having someone construct ladders for us.
+
+- The case for no ladders. Potential for ladders and fun being at odds.
+- It’s way easier to trust an external feedback mechanism. But, this doesn’t mean we should shy away from internal barometers—just that deploying them in areas of our life that matter is the key.
+
 - iMessage Threads from omnifocus:///task/kYEOV2bnsr3
 
 ---
