@@ -5,7 +5,7 @@ permalink: ladder-construction
 type: essay
 ---
 
-We’re at a point where the value of our education system is starting to be questioned—with freely available course material and [MOOCs](https://en.wikipedia.org/wiki/Massive_open_online_course) being cited as _possible_ alternatives. On defense, increased serendipity and facility access have surfaced amongst the many justifications for the system’s existence. Yet, I’m beginning to realize a more fundamental concept that universities afford us: ladder construction. Just because the coursework is available online, doesn’t imply we can make effective traversals of that content. Schooling provides said content _and_ constructs a “ladder”—allowing us to focus on climbing through the material, instead of trying to simultaneously climb a ladder we’re building.
+We’re at a point where the value of our education system is starting to be questioned—with freely available course material and [MOOCs](https://en.wikipedia.org/wiki/Massive_open_online_course) being cited as _possible_ alternatives. On defense, increased serendipity and facility access have surfaced amongst the many justifications for the system’s existence. Yet, I’m beginning to realize a more fundamental concept that universities afford us: ladder construction. Just because the coursework is available online doesn’t imply we can make effective traversals of that content. Schooling provides said content _and_ constructs a “ladder”—allowing us to focus on climbing through the material, instead of trying to simultaneously climb a ladder we’re building.
 
 School is one of the many forms ladders can take. My peers who made the least turbulent transitions after graduation were those who could go from the single-track ladder of college to climbing multiple ladders—knowing when to delegate construction externally versus internal construction.
 
@@ -27,13 +27,13 @@ The first nuance reminds me of an old thought from [Nikhil](https://twitter.com/
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Because your peers didn&#39;t have any say in your grade, you just needed to learn the rules the teacher had and play by them properly</p>&mdash; Nikhil Krishnan (@nikillinit) <a href="https://twitter.com/nikillinit/status/914636773447421952?ref_src=twsrc%5Etfw">October 1, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-In ladders where evaluation only comes from a single person, e.g. a teacher, climbing faster, might inadvertently mean learning their rules and playing by them properly. This is probably innocuous in most cases—however, it becomes a problem when the teacher’s rules and the reality of the course corrections you need to make diverge. Evaluation by a peer set (or [multiple perspectives](/seek-perspectives)) could be more effective. An issue with peer evaluation is that the set is usually small for in-person contexts—pointing to a hybrid approach between IRL and Internet peers as a remedy. Still, that approach causes the second nuance, larger groups tend towards building inaccurate ladders. There will be times where you want to climb faster or slower than the ladder—moving along the spectrum helps with this.
+In ladders where evaluation only comes from a single person, e.g. a teacher, climbing faster mightmean learning their rules and playing by them properly. This is probably innocuous in most cases—but it becomes a problem when the teacher’s rules diverge from the course corrections you actually need to make. Evaluation by a peer set (or [multiple perspectives](/seek-perspectives)) could be more effective. An issue with peer evaluation is that the set is usually small for in-person contexts—pointing to a hybrid approach between IRL and Internet peers as a remedy. Still, that approach causes the second nuance, larger groups tend towards building inaccurate ladders. There will be times where you want to climb faster or slower than the ladder—moving along the spectrum helps with this.
 
 ### Friends
 
 Friends land between groups and coaches/managers as a ladder constructors. My most-cherished friendships have had the trait of inciting sustained, personal growth—[Shiva](https://twitter.com/ShivaKilaru) being the one I’m most thankful for.
 
-Over the past year, we’ve added a rung between our [monthly checkins](/monthly-checkins): a weekly email recapping the progress we’ve made towards our goals of kicking off [Krazam](http://krazam.tv) and Distillations (this collection). The format is dead simple.
+Over the past year, we’ve added a rung between our [monthly checkins](/monthly-checkins): a weekly email recapping the progress we’ve made towards our respective goals. The format is dead simple.
 
 ```
 # Midterm Goals:
@@ -47,7 +47,7 @@ Over the past year, we’ve added a rung between our [monthly checkins](/monthly
 # Goals for the upcoming week:
 ```
 
-38 checkins later, I can honestly say this accountability ladder has single-handedly driven Distillations towards my longer-term goals for the project.
+38 checkins later, I can honestly say this accountability ladder has single-handedly driven Distillations (this collection) closer to my longer-term goals.
 
 ![Email log of the checkins so far.](/public/images/checkin_log.png)
 
@@ -63,9 +63,9 @@ An added benefit of this one-to-one dynamic is specificity. Ladders are built to
 
 There’s a leap to be made between recognizing the spectrum and forming an intuition on how to move along it. Deploying this intuition can prevent our progress from reverting to the mean, which is especially helpful during trying times. I learned this three years ago during an extended struggle with mental health.
 
-To paint context, a major part of my life is strength training. I started back in 2009—researching workouts, form, and techniques. The activity quickly became “an anchor in uneasy times, helped me look in the mirror with a palpable sense of peace, and continues to [[teach me lessons](/time-under-tension)].” Everything was incrementally smooth sailing until February of 2016; when I had a close call while deadlifting. I nearly passed out. The following check-ups to rule out any potential injuries onset a constant, lingering worry. Two months of medical stress began affecting other areas of my life. Experiences I never thought twice about—exercise, flights, public speaking—became coated with a lining of anxiety.
+To paint context, a major part of my life is strength training. I started back in 2009—researching workouts, form, and techniques. The activity quickly became “an anchor in uneasy times, helped me look in the mirror with a palpable sense of peace, and continues to [[teach me lessons](/time-under-tension)].” Everything was incrementally smooth sailing until February of 2016; when I had a close call while deadlifting. I nearly passed out. The ensuing check-ups to rule out any potential injuries induced a constant, lingering worry in my mind. Two months of medical stress began affecting other areas of my life. Experiences I never thought twice about—exercise, flights, public speaking—became coated with anxiety.
 
-Prior, I had kept my mental and physical health in check through self-paced meditation and workouts—building my own ladders. Hitting rock bottom that winter forced me to move along the spectrum. Instead of building and climbing, I decided to delegate ladder construction externally with therapy and hiring a coach. The two provided shorter feedback loops, gradually elevating my baselines. All I had to do was show up and put in the physical and emotional labor. Over the following six months, I weathered the collectively familiar, yet internal wars that are mental health struggles. If I hadn’t admitted I needed help and let others build ladders, that rut may have overcasted a longer period of my life.
+Prior, I had kept my mental and physical health in check through self-paced meditation and workouts—building my own ladders. Hitting rock bottom that winter forced me to admit I couldn’t do it all myself. Instead of flying solo, I decided to delegate ladder construction externally through therapy and hiring a coach. The two provided shorter feedback loops, gradually elevating my baselines. All I had to do was show up and put in the physical and emotional labor. Over the following six months, I weathered the collectively familiar, yet internal wars that are mental health struggles. If I hadn’t admitted I needed help and let others build ladders, that rut may have lasted longer.
 
 ---
 
@@ -82,4 +82,3 @@ Special thanks to [Gwen](https://twitter.com/purpleyay), [Eric](https://twitter.
 ⇒ “[Chasing Earned Fatigue](/earned-fatigue)”
 
 ⇒ “[Find Tight, Fast Feedback Loops](https://docs.google.com/document/d/14oYTj9gn9_XVtcXnlbmOiCHPB7sm-IsC3yOcAer55i0/edit#heading=h.pzt11033qdtd)”
-
