@@ -5,9 +5,9 @@ permalink: ladder-construction
 type: essay
 ---
 
-We’re at a point where the value of our education system is starting to be questioned—with freely available course material and [MOOCs](https://en.wikipedia.org/wiki/Massive_open_online_course) being cited as _possible_ alternatives. On defense, increased serendipity and facility access have surfaced amongst the many justifications for the system’s existence. Yet, I’m beginning to realize a more fundamental concept that universities afford us: ladder construction. Just because the coursework is available online doesn’t imply we can make effective traversals of that content. Schooling provides said content _and_ constructs a “ladder”—allowing us to focus on climbing through the material, instead of trying to simultaneously climb a ladder we’re building.
+Were the four years I spent at university worth it? With 2018 marking a school-length after graduation, I’ve been sitting with this question. My unmeditated answer is yes—[UVA](http://www.virginia.edu) was incredibly formative. Still, I’ve just recently put a finger on why. Universities construct “ladders.” Just because coursework is increasingly becoming available online doesn’t imply we can make effective traversals of that content. Schooling provides said content _and_ creates a ladder—allowing us to focus on climbing through the material, instead of trying to simultaneously climb a ladder we’re building.
 
-School is one of the many forms ladders can take. My peers who made the least turbulent transitions after graduation were those who could go from the single-track ladder of college to climbing multiple ladders—knowing when to delegate construction externally versus internal construction.
+School is one of the many forms ladders can take. My peers who made the least turbulent transitions after graduation were those who could continue to build ladders outside the structured environment of education—knowing when to delegate construction externally versus internal construction.
 
 ## Ladder Spectrum
 
@@ -61,7 +61,7 @@ An added benefit of this one-to-one dynamic is specificity. Ladders are built to
 
 ## Intuition
 
-There’s a leap to be made between recognizing the spectrum and forming an intuition on how to move along it. Deploying this intuition can prevent our progress from reverting to the mean, which is especially helpful during trying times. I learned this three years ago during an extended struggle with mental health.
+There’s a leap to be made between recognizing the spectrum and forming an intuition on how to move along it. Deploying this intuition is important because it can prevent our progress from reverting to the mean and be especially helpful during trying times. I learned this three years ago during an extended struggle with mental health.
 
 To paint context, a major part of my life is strength training. I started back in 2009—researching workouts, form, and techniques. The activity quickly became “an anchor in uneasy times, helped me look in the mirror with a palpable sense of peace, and continues to [[teach me lessons](/time-under-tension)].” Everything was incrementally smooth sailing until February of 2016; when I had a close call while deadlifting. I nearly passed out. The ensuing check-ups to rule out any potential injuries induced a constant, lingering worry in my mind. Two months of medical stress began affecting other areas of my life. Experiences I never thought twice about—exercise, flights, public speaking—became coated with anxiety.
 
@@ -71,11 +71,11 @@ Prior, I had kept my mental and physical health in check through self-paced medi
 
 It’s easier to trust externally constructed ladders. The hardest part of building while climbing is critiquing your own strategy; because you’re doing three things simultaneously: building the ladder, working up it, and revising the entire process. But, this doesn’t mean we should shy away from internal construction—instead, forming an intuition of the ladder spectrum in different areas of our lives is key.
 
-I’m shaping my intuition when it comes to this essay collection, Distillations. While I’ve kept pace with my writing, it’s hard to shake the feeling that I’m on a treadmill—churning out post after post, _locally_ improving with each one (hopefully), without a larger “mile marker” in sight. It might be time to let someone (or something) else build my ladder here—until then I’ll keep climbing.
+I’m shaping my intuition when it comes to this essay collection, Distillations. While I’ve kept pace with my writing, it’s hard to shake the feeling that I’m on a treadmill—churning out post after post, _locally_ improving with each one (hopefully), without a larger “mile marker” in sight. It might be time to let someone (or something) else build my ladder here—until then, I’ll keep climbing.
 
 ---
 
-Special thanks to [Gwen](https://twitter.com/purpleyay), [Eric](https://twitter.com/EricJorgenson), and [Shiva](http://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
+Special thanks to [Gwen](https://twitter.com/purpleyay) and [Shiva](http://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
 
 ## Related Reading:
 
