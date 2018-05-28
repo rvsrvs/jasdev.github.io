@@ -3,6 +3,7 @@ layout: post
 title: Ladder Construction
 permalink: ladder-construction
 type: essay
+highlighted: true
 ---
 
 Were the four years I spent at university worth it? With 2018 marking a school-length after graduation, the question has been top of mind. My unmeditated answer is yes; [UVA](http://www.virginia.edu) was incredibly formative. Still, I’ve just recently put a finger on why. Universities construct “ladders.” Just because coursework is increasingly becoming available online doesn’t imply we can make effective traversals of that content. Schooling provides said content _and_ creates a ladder—allowing us to focus on climbing through the material, instead of trying to simultaneously climb a ladder we’re building.
