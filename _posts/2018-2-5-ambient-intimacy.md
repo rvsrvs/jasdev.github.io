@@ -76,7 +76,7 @@ As mentioned in the “Effortlessness” section, Activity Sharing lets me _pass
 
 ### RSS
 
-RSS maybe may be “dead“ for all _mainstream_ purposes (aside from quietly powering the podcast industry), but I’m a holdout. The Web seems to oscillate between algorithmic and raw feeds (e.g., RSS) and we’re currently on the upswing of the former. However, what’s special about RSS is its postal system-like nature. Feed entries arrive at a digestible pace and the protocol _prevents_ any typical notion of “engagement.“ No likes, RTs, or comments. Posts simply float out into the ether. Following my friends on both Twitter and RSS has been fascinating because of this. More specifically, when feed items _aren’t_ cross-posted to normal social channels, it’s a small glimpse into their digital inner life.
+RSS may be “dead“ for all _mainstream_ purposes (aside from quietly powering the podcast industry), but I’m a holdout. The Web seems to oscillate between algorithmic and raw feeds (e.g., RSS) and we’re currently on the upswing of the former. However, what’s special about RSS is its postal system-like nature. Feed entries arrive at a digestible pace and the protocol _prevents_ any typical notion of “engagement.“ No likes, RTs, or comments. Posts simply float out into the ether. Following my friends on both Twitter and RSS has been fascinating because of this. More specifically, when feed items _aren’t_ cross-posted to normal social channels, it’s a small glimpse into their digital inner life.
 
 ---
 
