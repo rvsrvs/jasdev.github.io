@@ -31,24 +31,31 @@ Another trait of the Slow Web is preventing typical notions of “engagement“�
 
 I adopted the approach for Distillations by stripping out Google Analytics, which, to be frank, I rarely checked. What keeps me going are those of you who have edited, provided feedback, and reached out when a post resonated. It doesn’t go unnoticed. I’ve actually [kept a log](/village) of every person who has helped me over the years, no matter how small the interaction.
 
-The Fast Web increasingly onsets engagement fatigue. Generations which have grown up with the Internet in their pocket are realizing this and asking themselves “What would network _X_ look like without vanity metrics?“ [If we substitute Instagram for _X_, VSCO might be the answer](http://www.thisisinsider.com/photo-editing-app-vsco-x-tops-one-million-subscribers-2018-6).
+The Fast Web increasingly onsets engagement fatigue. Generations which have grown up with the Internet in their pocket are realizing this and asking themselves “What would network _X_ look like without vanity metrics?“ [If we substitute Instagram for _X_, VSCO might be the answer](http://www.thisisinsider.com/photo-editing-app-vsco-x-tops-one-million-subscribers-2018-6). However, the absence of one-bit reactions means that replies require more energy. A “like” might become a sentence—“I love this photo.”—which, in the oceans of feeds we swim through, would be fatiguing. Siphoning from oceans into smaller ponds helps.
 
-## Siphoning from Oceans into Ponds
+## Siphoning Oceans into Ponds
 
-- Siphoning oceans to smaller ponds (Instapaper)
-	- Read when you’re ready.
-- https://twitter.com/whitney/status/1002947187020632064
-- Content orbits
-    - http://alistapart.com/article/orbital-content
-- Qualm with Stories _forcing_ an orbit’s period
-- Dunbar’s number for networks
+The funny thing about [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) is its practically universal acceptance (within some bounds), yet it’s thrown out the window in social networks[^1]. “If the human brain is only able to remember and manage 75 relationships at a time, [no wonder our systems are fried and shorting out](https://twitter.com/whitney/status/1002951523247251458).” I wholeheartedly believe there is a Dunbar’s Number for each of the services we use, based on its atomic unit for content. The tricky part is finding that number. For my usage of Twitter and Instagram, the limits hover at 300 and 150 accounts, respectively.
 
-## The Time Tracking Red Herring
+Where do the metaphorical siphon and ponds come into play? They embed themselves in the form of tools like Instapaper and Pocket—allowing content to be siphoned off into smaller ponds that we can swim through, when we’re _ready_. ‘Ready’ is key. Just because a network is real-time, doesn’t mean our consumption of it has to be, too. This speaks a bit to my qualms around features like “Stories” in Snapchat and Instagram. It sounds obvious, but by _forcing_ user’s to become daily active users, companies are boosting short term metrics at the cost of exhausting users in the long run—risking churn altogether.
+
+Instapaper, Pocket, RSS, and the rest of the Slow Web don’t prescribe lap lengths. Stumble across four blog posts you want to read while scrolling through Twitter? No sweat, siphon them off to Instapaper and read (or don’t) when you can, without the worry of ephemerality or getting buried in higher frequency feeds.
 
 - How a service punctuates your day is almost more important than the wall time you spend on it
+    - The slow web lets us focus on the punctuation
 - We don’t punctuate our calendars and sleep, why do we do the same for our attention?
     - What if we defaulted access to certain windows of the day?
 
-- http://nearthespeedoflight.com/article/2018_06_04_a_ramble_about_the_slow_web
-- http://calnewport.com/blog/2018/03/25/beyond-deletefacebook-more-thoughts-on-embracing-the-social-internet-over-social-media/
-- https://www.jessesquires.com/blog/removing-google-analytics-too/
+---
+
+## Related Reading and Footnotes
+
+⇒ [A Ramble About the Slow Web](http://nearthespeedoflight.com/article/2018_06_04_a_ramble_about_the_slow_web)
+
+⇒ [Orbital Content](http://alistapart.com/article/orbital-content)
+
+⇒ [More Thoughts on Embracing the Social Internet Over Social Media](http://calnewport.com/blog/2018/03/25/beyond-deletefacebook-more-thoughts-on-embracing-the-social-internet-over-social-media/)
+
+⇒ [Removing Google Analytics, too](https://www.jessesquires.com/blog/removing-google-analytics-too/)
+
+[^1]: Sans [Path](https://path.com).
