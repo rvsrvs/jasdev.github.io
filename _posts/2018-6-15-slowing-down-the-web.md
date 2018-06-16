@@ -27,11 +27,11 @@ It’s healthy to gut check whether or not to read _and_ write to networks. The 
 
 ## Eliminating “Engagement”
 
-Another trait of the Slow Web is preventing typical notions of “engagement.“ Likes, retweets, favorites, shares, reposts…the Lucky Charms of the Internet. RSS may be dead for all mainstream purposes (aside from quietly powering the podcast industry), but I’m a holdout. What’s special about RSS is its postal system-like nature. Feed entries arrive at a digestible pace and the protocol eliminates engagement entirely. Posts simply float out into the ether. Following my friends on both Twitter and RSS has been fascinating because of this. More specifically, when feed items aren’t cross-posted to normal social channels, it’s a small glimpse into their digital inner life.
+Another trait of the Slow Web is preventing typical notions of “engagement“—likes, retweets, favorites, shares…the Lucky Charms of the Internet. RSS may be dead for all mainstream purposes (aside from quietly powering the podcast industry), but I’m a holdout. What’s special about RSS is its postal system-like nature. Feed entries arrive at a digestible pace and the protocol eliminates engagement entirely. Posts simply float out into the ether. Following my friends on both Twitter and RSS has been fascinating because of this. More specifically, when feed items aren’t cross-posted to normal social channels, it’s a small glimpse into their digital inner life.
 
-Frankly, [anecdote about GA and only caring about the messages Distillations posts spark, mention of Village page].
+I adopted the approach for Distillations by stripping out Google Analytics, which, to be frank, I rarely checked. What keeps me going are those of you who have edited, provided feedback, and reached out when a post resonated. It doesn’t go unnoticed. I’ve actually [kept a log](/village) of every person who has helped me over the years, no matter how small the interaction.
 
-- http://www.thisisinsider.com/photo-editing-app-vsco-x-tops-one-million-subscribers-2018-6
+The Fast Web increasingly onsets engagement fatigue. Generations which have grown up with the Internet in their pocket are realizing this and asking themselves “What would network _X_ look like without vanity metrics?“ [If we substitute Instagram for _X_, VSCO might be the answer](http://www.thisisinsider.com/photo-editing-app-vsco-x-tops-one-million-subscribers-2018-6).
 
 ## Siphoning from Oceans into Ponds
 
@@ -51,3 +51,4 @@ Frankly, [anecdote about GA and only caring about the messages Distillations pos
 
 - http://nearthespeedoflight.com/article/2018_06_04_a_ramble_about_the_slow_web
 - http://calnewport.com/blog/2018/03/25/beyond-deletefacebook-more-thoughts-on-embracing-the-social-internet-over-social-media/
+- https://www.jessesquires.com/blog/removing-google-analytics-too/
