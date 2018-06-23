@@ -9,7 +9,7 @@ iOS 12’s “[Screen Time](https://www.apple.com/newsroom/2018/06/ios-12-introd
 
 ![](/public/images/screen_time.jpg)
 
-It packs usage reports, device pickup counts, enhanced Do Not Disturb controls, and granular notification settings. Yet, as I read the press release, I couldn’t shake the feeling that the feature is an OS-level Band-Aid over the networks called out: Instagram, Facebook, Twitter, et al.
+It packs usage reports, device pickup counts, enhanced Do Not Disturb controls, and granular notification settings. However, as I read the press release, I couldn’t shake the feeling that the feature is an OS-level Band-Aid over the networks called out: Instagram, Facebook, Twitter, et al.
 
 ![](/public/images/app_usage.jpg)
 
@@ -35,16 +35,15 @@ The Fast Web increasingly onsets engagement fatigue. Generations which have grow
 
 ## Siphoning Oceans into Ponds
 
-The funny thing about [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) is its practically universal acceptance (within some bounds), yet it’s thrown out the window in social networks[^1]. “If the human brain is only able to remember and manage 75 relationships at a time, [no wonder our systems are fried and shorting out](https://twitter.com/whitney/status/1002951523247251458).” I wholeheartedly believe there is a Dunbar’s Number for each of the services we use, based on its atomic unit for content. The tricky part is finding that number. For my usage of Twitter and Instagram, the limits hover at 300 and 150 accounts, respectively.
+The funny thing about [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number) is its practically universal acceptance (within some bounds) in physical reality, yet it’s thrown out the window in social networks[^1]. “If the human brain is only able to remember and manage 75 relationships at a time, [no wonder our systems are fried and shorting out](https://twitter.com/whitney/status/1002951523247251458).” I wholeheartedly believe there is a Dunbar’s Number for each of the services we use, based on its atomic unit for content. The tricky part is finding that number. For my usage of Twitter and Instagram, the limits hover at 300 and 150 accounts, respectively.
 
-Where do the metaphorical siphon and ponds come into play? They embed themselves in the form of tools like Instapaper and Pocket—allowing content to be siphoned off into smaller ponds that we can swim through, when we’re _ready_. ‘Ready’ is key. Just because a network is real-time, doesn’t mean our consumption of it has to be, too. This speaks a bit to my qualms around features like “Stories” in Snapchat and Instagram. It sounds obvious, but by _forcing_ user’s to become daily active users, companies are boosting short term metrics at the cost of exhausting users in the long run—risking churn altogether.
+Where do the metaphorical siphon and ponds come into play? They embed themselves in the form of tools like Instapaper and Pocket—allowing content to be siphoned off into smaller ponds that we can swim through, when we’re _ready_. ‘Ready’ is key. Just because a network is real-time, doesn’t mean our consumption of it has to be, too. This speaks a bit to my qualms around features like “Stories” in Snapchat and Instagram. It sounds obvious, but by _forcing_ folks to become daily active users, companies are boosting short term metrics at the cost of exhausting users in the long run—risking churn altogether.
 
-Instapaper, Pocket, RSS, and the rest of the Slow Web don’t prescribe lap lengths. Stumble across four blog posts you want to read while scrolling through Twitter? No sweat, siphon them off to Instapaper and read (or don’t) when you can, without the worry of ephemerality or getting buried in higher frequency feeds.
+Instapaper, Pocket, RSS, and the rest of the Slow Web don’t prescribe lap lengths. Stumble across four blog posts you want to read while scrolling through Twitter? No sweat, siphon them off to Instapaper and read (or don’t) when you can, without the worry of ephemerality or higher frequency feeds vanishing the posts into the ether.
 
-- How a service punctuates your day is almost more important than the wall time you spend on it
-    - The slow web lets us focus on the punctuation
-- We don’t punctuate our calendars and sleep, why do we do the same for our attention?
-    - What if we defaulted access to certain windows of the day?
+---
+
+Until now, our relationship with technology has been metered by “time spent.“ 30 minutes per day on Instagram; 20 on Twitter;  12 on Facebook. After pacing through the Slow Web, I’m starting to believe measuring wall time misses the point. How a service _punctuates_ your day is more important. Those 30 minutes might seem innocuous. But, if that translates to 60 device pickups in one day, that’s the attention-deficit equivalent of using commas, after, every, word, in, a, day-long, book. The Slow Web focuses on the punctuation. We’re free to choose non-prescribed cadences and also chose to write to _or_ (exclusively) read to feeds, not defaulting to both. Fewer mechanisms for “engagement“ allow us to engage in more honestly through direct messages and actual comments, instead of their one-bit facades. [Concluding sentence]
 
 ---
 
