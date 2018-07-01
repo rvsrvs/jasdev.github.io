@@ -26,11 +26,11 @@ Two nuances crop up in group settings: whether or not a teacher or peer set prov
 
 The first nuance reminds me of a thought from [Nikhil](https://twitter.com/nikillinit).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Because your peers didn&#39;t have any say in your grade, you just needed to learn the rules the teacher had and play by them properly</p>&mdash; Nikhil Krishnan (@nikillinit) <a href="https://twitter.com/nikillinit/status/914636773447421952?ref_src=twsrc%5Etfw">October 1, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Because your peers didn&#39;t have any say in your grade, you just needed to learn the rules the teacher had and play by them properly</p>&mdash; Nikhil Krishnan (@nikillinit) <a href="https://twitter.com/nikillinit/status/914636773447421952?ref_src=twsrc%5Etfw">October 1, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In ladders where evaluation comes from a single person, e.g. a teacher, climbing faster might mean learning their rules and playing by them properly. This is probably innocuous in most cases—but it becomes a problem when the teacher’s rules diverge from the course corrections you actually need to make. Evaluation by a peer set (or [multiple perspectives](/seek-perspectives)) could be more effective. An issue with peer evaluation is that the set is usually small for in-person contexts—pointing to a hybrid approach between IRL and Internet peers as a remedy. Still, that approach causes the second nuance, larger groups tend towards building inaccurate ladders. There will be times where you want to climb faster or slower than the ladder—moving along the spectrum helps with this.
 
-### Friends
+### <a name="friends">Friends</a>
 
 Friends land between groups and coaches/managers as a ladder constructors. My most-cherished friendships have had the trait of inciting sustained, personal growth—[Shiva](https://twitter.com/ShivaKilaru) being the one I’m most thankful for.
 
