@@ -31,7 +31,7 @@ Another trait of the Slow Web is preventing typical notions of “engagement“�
 
 I recently adopted the engagement-free approach for Distillations by stripping out Google Analytics. What keeps me going are those of you who have edited, provided feedback, and reached out when a post resonated. It doesn’t go unnoticed. I’ve actually [kept a log](/village) of every person who has helped me over the years, no matter how small the interaction.
 
-The Fast Web onsets engagement fatigue. Generations that have grown up with the Internet in their pocket are realizing this and asking themselves “What would network _X_ look like without vanity metrics?“ [Substituting Instagram for _X_, VSCO might be the answer](http://www.thisisinsider.com/photo-editing-app-vsco-x-tops-one-million-subscribers-2018-6). Though, the absence of one-bit reactions means higher-energy interactions. A “like” can become a sentence—“I love this photo.”—which, in the oceans of feeds we swim through, would be tiring. Siphoning from these oceans into smaller ponds helps.
+The Fast Web onsets engagement fatigue. Generations that have grown up [mainlining the Internet](https://twitter.com/eve_rebecca/status/978224331267432448) are realizing this and asking themselves “What would network _X_ look like without vanity metrics?“ Substituting Instagram for _X_, [VSCO might be the answer](http://www.thisisinsider.com/photo-editing-app-vsco-x-tops-one-million-subscribers-2018-6). Though, the absence of one-bit reactions means higher-energy interactions. A “like” can become a sentence—“I love this photo.”—which, in the oceans of feeds we swim through, would be tiring. Siphoning from these oceans into smaller ponds helps.
 
 ## Siphoning Oceans
 
@@ -43,17 +43,17 @@ The Slow Web doesn’t prescribe lap lengths. Stumble across four blog posts you
 
 ---
 
-Our relationship with technology is usually metered by “time spent.“ 30 minutes per day on Instagram, 20 on Twitter, 12 on Facebook. After walking through the Slow Web, I’m starting to think measuring wall time misses the point. How a service _punctuates_ your day is more important. Those 30 minutes may seem innocuous. But, if it translates to 60 device pickups (~3 per hour), that’s the attention-deficit equivalent of using commas, after, every, single, word, in, a, day-long, sentence. The Slow Web focuses on the punctuation. We’re free to choose non-prescribed cadences and whether to read _or_ write to feeds, not defaulting with both. Fewer mechanisms for “engagement“ enable us to interact more honestly through words, instead of their one-bit facades. Come to think of it, the frontrunners (walkers?) of the Slow web—blogs, RSS, journaling, et al—have been around since the early days. We’re the ones running. Maybe it’s time to turn around, rejoin them, and slow down the Web.
+Our relationship with technology is usually metered by “time spent.“ 30 minutes per day on Instagram, 20 on Twitter, 12 on Facebook. After walking through the Slow Web, I’m starting to think measuring wall time misses the point. How a service _punctuates_ your day is more important. Those 30 minutes may seem innocuous. But, if it translates to 60 device pickups (~3 per hour), that’s the attention-deficit equivalent of using commas, after, every, single, word, in, a, day-long, sentence. The Slow Web focuses on the punctuation. We’re free to choose non-prescribed cadences and whether to read _or_ write to feeds, not defaulting to both. Fewer mechanisms for “engagement“ enable us to interact more honestly through words, instead of their one-bit facades. Come to think of it, the frontrunners (walkers?) of the Slow web—blogs, RSS, journaling, et al—have been around since the early days. Maybe it’s time to turn around, rejoin them, and slow down the Web.
 
 ---
+
+Special thanks to [Jason](http://twitter.com/jasonbrennan) for feedback on early drafts of this essay.
 
 ## Related Reading and Footnotes
 
 ⇒ [A Ramble About the Slow Web](http://nearthespeedoflight.com/article/2018_06_04_a_ramble_about_the_slow_web)
 
 ⇒ [Orbital Content](http://alistapart.com/article/orbital-content)
-
-⇒ [More Thoughts on Embracing the Social Internet Over Social Media](http://calnewport.com/blog/2018/03/25/beyond-deletefacebook-more-thoughts-on-embracing-the-social-internet-over-social-media/)
 
 ⇒ [Removing Google Analytics, too](https://www.jessesquires.com/blog/removing-google-analytics-too/)
 
