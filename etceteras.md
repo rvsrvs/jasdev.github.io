@@ -6,7 +6,7 @@ render_title: true
 
 ### [Link Blog](https://twitter.com/whatjasdevreads)
 
-Instapaper is my tool of choice in navigating web content. To approximate a link blog, I’ve made my account favorites public. A few folks have reached out mentioning that they [enjoy the feed](https://twitter.com/jasdev/status/975422925825179648)—if you want to follow along, here are some ways to do so: [web](http://instapaper.com/p/jasdev), [RSS](http://instapaper.com/starred/rss/4750197/tes3ESKY5E01Sx4DKAfUYK9rUQ), and [Twitter](https://twitter.com/whatjasdevreads).
+[Pinboard](https://pinboard.in) is my tool of choice in navigating web content. To approximate a link blog, I’ve made my account favorites public. A few folks have reached out mentioning that they [enjoy the feed](https://twitter.com/jasdev/status/975422925825179648)—if you want to follow along, here are some ways to do so: [web](https://pinboard.in/u:jasdev/), [RSS](http://feeds.pinboard.in/rss/u:jasdev/), and [Twitter](https://twitter.com/whatjasdevreads).
 
 ### Interludes
 
