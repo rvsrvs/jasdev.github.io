@@ -29,6 +29,5 @@ One of the most impactful questions I’ve come across is “[what would you lik
 - [SoundCloud](https://soundcloud.com/jasdev-singh)
 - [GitHub](https://github.com/jasdev)
 - [Gyroscope](https://gyrosco.pe/jasdev/helix/)
-- [Patreon](https://www.patreon.com/jasdev/creators)
 
 ![](/public/images/about-pic.png){: .center-image }
