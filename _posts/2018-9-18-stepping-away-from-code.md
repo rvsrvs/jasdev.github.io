@@ -13,40 +13,28 @@ Once installed, mod chips unlock the console and allowed me to load arbitrary ga
 
 The hobby got me in trouble (I was banned from Xbox Live twice) and also into my highschool’s AP Computer Science AB program, which, at the time, meant sitting in the back of a Trigonometry class with an exam prep book. I spent the next decade majoring in the field, flying across the country to work at Imgur as an engineer, and back to NY, where I helped build Tumblr and now Peloton.
 
-Engineering has bylined a large chunk of my life and now I might be stepping away from it.
+Engineering has bylined a large part of my life and now I might be stepping away from it.
 
-- Set the Peloton stage
-- “University-Length gut check”
-- “calculate vulnerability“
-- escape valves and “I can return to engineering” being true, yet not fair. I can’t carry out Plan A if I keep focusing on Plan B.
+Coming on four years post graduation, it’s sinking in that I’ve done a “university-length” of full-time—specifically iOS—engineering. I’m beginning to wonder to if it makes sense to spend the next length keeping course or moving laterally, stepping away from code and towards management. A couple of months ago, my manager floated experimenting with the switch for a quarter. He’s spread thin with 20+ reports and could use my help. I would start with two “soft” reports, i.e. they’d still report to my manager on paper, but to me in practice. And here I am—almost a dozen 1:1’s, a few books read, training to come, and a lot of internal doubt later, it’s been…tough.
 
-- “might“ audit
-- We do the same in strength training by picking two body parts
-- Marked by what I wear (mechanical versus Apple Watch)
-- Contrast
-- Handling the lack of visible “output” in management
-- Bimodality to workaround
-- Social abstractions
-- Code is a liability
-- https://mobile.twitter.com/jewelia/status/1030209151601786880
-- The arc of my work lengthened—year timescales (illustration)
-- Value Arcs
-- “I've been thinking a lot about the term "calculated vulnerability". I've seen a lot of my peers write after the resolution of a something hard (overcoming an illness, shutting down a startup, IVF etc) after a happy ending, neatly packaging their vulnerability in a bow. But what if that happy ending doesn't come? Do you just stay in a purgatory? Do you just stay in silence? I've been wondering about what my "resolution" will be so I can start publishing again. This self-imposed hiatus is basically me waiting for a satisfactory resolution in order to start writing again.”
+I usually write essays when, looking back, the days appear to fit together. But, it’s hard to reflect on my management experience with a sort of [calculated vulnerability](https://feedbin.com/entries/6ee3c278512200693ef23ba6ba067b20c74cfb10/newsletter).
 
-newsletter
-https://feedbin.com/entries/6ee3c278512200693ef23ba6ba067b20c74cfb10/newsletter
-via Instapaper
+Sitting with this question of whether or not to switch to engineering management, two difficulties keep cropping up: recognizing the lengthened “arc“ of my work and catching myself imagining “escape valves” when/if I return to engineering, proper.
 
-Avoiding Calculated vulnerability in talking about my experience with management
+## Arcs of Work
 
-Noticing that I thought through escape valves before giving it a fair shot. I can always return to engineering.
+The feedback loop of programming is incredibly short. Working at the level of technical abstractions let’s you write some code, compile and run it, and, boom, instant feedback. The social abstractions involved in management move glacially in comparison. It’s easy to _rationally_ recognize the value of enabling career development, building teams, and scaling processes. Yet, I find myself ending week over week running from meeting to meeting feeling as if I got no tangible “work” done.
+
+The arc of my work has lengthened. I’m realizing that the lack of visible output of management is simultaneously frustrating and oddly rewarding. The impact of my efforts no longer last on the order of days and weeks. Instead, I need to think on yearly timescales and affect change that hopefully outlasts my tenure.
+
+## Escape Valves
+
+A piece of advice I keep getting handed is to not worry, “you can always return to engineering.” While true, it doesn’t seem fair to keep that top of mind when giving management a try. I can’t carry out Plan A, if I keep focusing on Plan B—I’m getting better at reeling myself in when imagining “escape valves.“ They’ll pop up from time to time. “Maybe I should do another batch at the [Recurse Center](https://www.recurse.com)?” “I could potentially squeeze in a couple hours of open source work a week after work?” The valves are innocent in isolation, but, too much time dwelling on them can cloud my ability to assess whether or not management is right for me.
+
+---
+
+I’m not quite sure how to bookend this. Writing publicly in real time is new to me—and management is too. However, whether or not I decide to step away from code, it’s reassuring to know that I’m stepping towards plural “decades” or programming or starting a new decade of focus entirely.
 
 ---
 
 Special thanks to () for feedback on early drafts of this essay.
-
-## Related Reading and Footnotes
-
-⇒
-
-[^1]:
