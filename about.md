@@ -25,9 +25,10 @@ One of the most impactful questions I’ve come across is “[what would you lik
 ### Elsewhere
 
 - [Twitter](https://twitter.com/jasdev)
+- [Pinboard](https://pinboard.in/u:jasdev)
 - [Instagram](https://www.instagram.com/jasdev/)
-- [SoundCloud](https://soundcloud.com/jasdev-singh)
 - [GitHub](https://github.com/jasdev)
 - [Gyroscope](https://gyrosco.pe/jasdev/helix/)
+- [SoundCloud](https://soundcloud.com/jasdev-singh)
 
 ![](/public/images/about-pic.png){: .center-image }
