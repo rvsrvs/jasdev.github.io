@@ -26,7 +26,7 @@ _My body of work?_
 
 I’ve maintained this collection as a way to clarify my thinking and to remind others of our often similar invisible wounds.
 
-My relationship with Distillations’ body has changed over the years. It was previously unnamed and sat under the “jasdev.me” domain. Renaming the site distanced my identity from it—which, in turn, helped me better process critical feedback. The rename also emphasized the ideas and narratives threaded into each piece. I recently dug some old copy for the site which attempted to capture this:
+My relationship with Distillations’ body has changed over the years. It was previously unnamed and sat under the “jasdev.me” domain. Renaming the site distanced my identity from it—which, in turn, helped me better process critical feedback. The rename also emphasized the ideas and narratives threaded into each piece. I recently dug up some old copy for the site which attempted to capture this:
 
 > The subtitle, “forgetting words, remembering ideas,” is a nod to my background in mathematics. During lectures, I was constantly reminded that the details, mechanics, and “words” of math aren’t important. We would forget them in a few years anyway. Instead, the ideas were what mattered—proof techniques such as a contradiction, induction, and correspondences. The goal was to spend time in the trenches of problems sets to develop an intimacy with these concepts. Distillations seeks to mirror this approach. In a sense, by effortfully turning observations into words, I hope to forget those very words—distilling a tangible intuition of the ideas.
 
