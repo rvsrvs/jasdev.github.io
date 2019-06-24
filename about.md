@@ -4,7 +4,7 @@ title: About
 render_title: false
 ---
 
-My name is Jasdev Singh. Distillations is a container for my thoughts on human behavior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule. The collection wouldn’t be possible without feedback and illustrations from [peers around me](/village).
+My name is Jasdev Singh. Distillations is a container for my thoughts on human behavior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule. But, you can expect monthly updates. The collection wouldn’t be possible without feedback and illustrations from [peers around me](/village).
 
 ### About Me
 
@@ -17,8 +17,8 @@ I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikip
 One of the most impactful questions I’ve come across is “[what would you like to be known for](https://overcast.fm/+Fg9IeSC2o/0:37)?” I’ve added my answer below to point out my north stars.
 
 - Making the world better through people.
-- A friend who loves infinitely, but also [challenges peers to grow](https://twitter.com/jasdev/status/869938469153492999).
-- Someone who thinks aloud as a reminder that we usually [experience similar invisible wounds](https://twitter.com/jasdev/status/784511992618971136).
+- A friend who loves infinitely, but also [challenges peers to grow](https://www.facebook.com/story.php?story_fbid=224735391342335&id=100014176268390).
+- Someone who thinks aloud as a reminder that we usually experience similar invisible wounds.
 
 ### Elsewhere
 

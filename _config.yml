@@ -19,7 +19,7 @@ baseurl:          /
 author:
   name:           'Jasdev Singh'
   url:            https://jasdev.me
-  email:          jasdevs@gmail.com
+  email:          jasdev@jasdev.me
   twitter:        jasdev
 
 twitter:
@@ -33,10 +33,16 @@ collections:
     defaults:
       values:
         layout: post
+  frp-ct-diary:
+    output: true
+    permalink: /:collection/:name
+    defaults:
+      values:
+        layout: post
 
 
 github:               https://github.com/jasdev
-search:               https://www.google.com/search?q=site%3Ajasdev.me
+search:               https://duckduckgo.com/?q=site%3Ajasdev.me
 gyroscope:            https://gyrosco.pe/jasdev/helix/
 instagram:            https://instagram.com/jasdev
 soundcloud:           https://soundcloud.com/jasdev-singh
