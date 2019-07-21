@@ -4,7 +4,9 @@ title: About
 render_title: false
 ---
 
-My name is Jasdev Singh. Distillations is a container for my thoughts on human behavior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule. But, you can expect monthly updates. The collection wouldn’t be possible without feedback and illustrations from [peers around me](/village).
+My name is Jasdev Singh. Distillations is a container for my thoughts on human behavior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule.
+
+The collection wouldn’t be possible without feedback and illustrations from [peers around me](/village).
 
 ### About Me
 
