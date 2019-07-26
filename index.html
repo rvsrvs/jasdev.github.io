@@ -8,17 +8,23 @@ title: Home
 <br/>
 <br/>
 
-Distillations is a collection of essays on human be­hav­ior, our relationship with technology, and engineering.
+Distillations is a two-track collection of writing, with the first covering engineering and the second containing personal essays on human be­hav­ior and our relationship with technology. Or, if we’re being candid—and we are—, a homesick mathematician who also writes about Feelings.
 
 <br/>
 <br/>
 
 First time here? Posts suffixed with an asterisk are some of my favorites.
 
-<br/>
-<br/>
-
 <div class="posts">
+  <h3>Engineering</h3>
+  {% assign technical = site.posts | where:"type","engineering" %}
+  {% for post in technical %}
+    <div class="post-link">
+      <a href="{{ post.url }}">{{ post.title }}{% if post.highlighted %}*{% endif %}</a>
+    </div>
+  {% endfor %}
+
+  <h3>Essays</h3>
   {% assign essays = site.posts | where:"type","essay" %}
   {% for post in essays %}
     <div class="post-link">
