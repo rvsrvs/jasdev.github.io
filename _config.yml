@@ -33,12 +33,6 @@ collections:
     defaults:
       values:
         layout: post
-  frp-ct-diary:
-    output: true
-    permalink: /:collection/:name
-    defaults:
-      values:
-        layout: post
 
 
 github:               https://github.com/jasdev
