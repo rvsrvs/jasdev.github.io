@@ -12,7 +12,7 @@ The collection wouldn’t be possible without feedback and illustrations from [p
 
 I’m an engineer and writer in New York. Outside of Distillations, I spend my time cycling, listening to [dance music](https://soundcloud.com/jasdev-singh), and building products that help us build better versions of ourselves.
 
-Currently, I spend my days on [Peloton](https://www.onepeloton.com/)’s engineering team. Previously, I built APIs and apps at [Tumblr](https://www.tumblr.com/), [Imgur](https://imgur.com/), and the [Recurse Center](https://www.recurse.com/scout/click?t=bb4cdf5d8bb2835f896d762d5b51cecb) (F1 ’15). Before that, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), [Fitocracy](https://twitter.com/jasdev/status/641428685275447296), and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14).
+Currently, I spend my days on [Peloton](https://www.onepeloton.com/)’s engineering team. Previously, I built APIs and apps at [Tumblr](https://www.tumblr.com/), [Imgur](https://imgur.com/), and the [Recurse Center](https://www.recurse.com/scout/click?t=bb4cdf5d8bb2835f896d762d5b51cecb) (F1 ’15). Before that, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), Fitocracy, and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14).
 
 I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation in 2014, I headed out to San Francisco for a year. But, I eventually found myself back on the East Coast.
 
