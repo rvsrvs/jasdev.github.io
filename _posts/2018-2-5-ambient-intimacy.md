@@ -42,7 +42,8 @@ Ambient intimacy isn’t a one-and-done checkbox; it takes a while to bake. I vi
 
 While ambient intimacy shouldn’t be strictly regimented, it tends to fall into a natural cadence. My Twitter following graph’s consciousness is in my pocket _every day_. That’s incredible to think about. As we’ll explore in a bit, different mediums cultivate intimacy at specific paces depending on the unit of consumption (e.g. tweets ⇒ daily, podcasts ⇒ weekly or monthly).
 
-### <a name="network-nomenclature">Network Nomenclature and Context</a>
+### Network Nomenclature and Context
+{: #network-nomenclature }
 
 The final components are network nomenclature and context. First, the nouns and verbs a service uses influence the weight of a relationship. Nuanced differences between “subscriber,“ “follower,” “friend,” or “connection” shape our interpretation of the edges between nodes[^2]. This is part of the reason why losing a Facebook _friend_ stings a bit more than losing a Twitter _follower_ (aside from bidirectionality requirement).
 
