@@ -4,28 +4,25 @@ title: About
 render_title: false
 ---
 
-My name is Jasdev Singh. Distillations is a container for my thoughts on human behavior, our relationship with technology, and engineering. Since writing of this kind develops over time, I won’t keep a strict posting schedule.
+Hey! I’m Jasdev. Distillations is a little corner of the Internet where I put my writing with the help from [peers around me](/village).
 
-The collection wouldn’t be possible without feedback and illustrations from [peers around me](/village).
+### About
 
-### About Me
+I’m an engineer and writer in New York. Outside of Distillations, I spend my time cycling (indoors), [listening to dance music](https://soundcloud.com/jasdev-singh) (trance, melodic dubstep, progressive, deep, and tech house), and nerding out about math (mostly Category Theory).
 
-I’m an engineer and writer in New York. Outside of Distillations, I spend my time cycling, listening to [dance music](https://soundcloud.com/jasdev-singh), and building products that help us build better versions of ourselves.
+Currently, I spend my work days on [Peloton](https://www.onepeloton.com/)’s engineering team and previously did the same on [Tumblr](https://www.tumblr.com/) and [Imgur](https://imgur.com/)’s. Prior, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), Fitocracy, and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14). And in between, I took breaks to attend the [Recurse Center](https://www.recurse.com) (F1 ’15) and [Advanced Functional Programming](http://afp.school) (Summer ’19).
 
-Currently, I spend my days on [Peloton](https://www.onepeloton.com/)’s engineering team. Previously, I built APIs and apps at [Tumblr](https://www.tumblr.com/), [Imgur](https://imgur.com/), and the [Recurse Center](https://www.recurse.com/scout/click?t=bb4cdf5d8bb2835f896d762d5b51cecb) (F1 ’15). Before that, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), Fitocracy, and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14).
+I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation, I headed out to San Francisco, but eventually found myself back on the East Coast a little over a year later.
 
-I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia). After graduation in 2014, I headed out to San Francisco for a year. But, I eventually found myself back on the East Coast.
-
-One of the most impactful questions I’ve come across is “[what would you like to be known for](https://overcast.fm/+Fg9IeSC2o/0:37)?” I’ve added my answer below to point out my north stars.
+One of the most impactful questions I’ve come across is “[what would you like to be known for](https://overcast.fm/+Fg9IeSC2o/0:37)?” Below is my answer to point out traits I try to express.
 
 - Making the world better through people.
-- A friend who loves infinitely, but also [challenges peers to grow](https://www.facebook.com/story.php?story_fbid=224735391342335&id=100014176268390).
+- A friend who loves infinitely, yet [challenges peers to grow](https://www.facebook.com/story.php?story_fbid=224735391342335&id=100014176268390).
 - Someone who thinks aloud as a reminder that we usually experience similar invisible wounds.
 
 ### Elsewhere
 
-- [Twitter](https://twitter.com/jasdev)
-- [Pinboard](https://pinboard.in/u:jasdev)
-- [SoundCloud](https://soundcloud.com/jasdev-singh)
+- [Twitter](https://twitter.com/jasdev).
+- [Pinboard](https://pinboard.in/u:jasdev).
 
 ![](/public/images/about-pic.png){: .center-image }

@@ -4,15 +4,15 @@ title: Etceteras
 render_title: true
 ---
 
-### Newsletter Archive
+### [Newsletter Archive](https://buttondown.email/distillations/archive)
 
-[A personal space](https://buttondown.email/distillations/archive) where I write between essays (or, provide added context).
+A space where I write between essays.
 
 ### [Link Blog](/substrate)
 
-Pinboard is my tool of choice in navigating web content. A few folks have reached out mentioning that they enjoy the feed—if you want to follow along, here are some ways to do so: [web](https://pinboard.in/u:jasdev/), [RSS](http://feeds.pinboard.in/rss/u:jasdev/), and [Twitter](https://twitter.com/_substrate).
+I’m addicted to Pinboard. A few folks have mentioned that they enjoy my bookmark feed—so, if you want to follow along, here are some ways to do so: [web](https://pinboard.in/u:jasdev/), [RSS](http://feeds.pinboard.in/rss/u:jasdev/), and [Twitter](https://twitter.com/_substrate).
 
 ### External
 
-- [Featured Follow Kickoff Post](https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq)
-- [UVA Engineering Unbound Magazine (Pages 8–9)](http://www.seas.virginia.edu/pubs/unbound/pdfs/spring14.pdf)
+- [Featured Follow interview](https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq).
+- [UVA Engineering Unbound Magazine (pages 8–9)](http://www.seas.virginia.edu/pubs/unbound/pdfs/spring14.pdf).
