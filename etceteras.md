@@ -10,7 +10,7 @@ A space where I write between essays.
 
 ### [Link Blog](/substrate)
 
-I’m addicted to Pinboard. A few folks have mentioned that they enjoy my bookmark feed—so, if you want to follow along, here are some ways to do so: [web](https://pinboard.in/u:jasdev/), [RSS](http://feeds.pinboard.in/rss/u:jasdev/), and [Twitter](https://twitter.com/_substrate).
+I love Pinboard. A few folks have mentioned that they enjoy my bookmark feed—so, if you want to follow along, here are some ways to do so: [web](https://pinboard.in/u:jasdev/), [RSS](http://feeds.pinboard.in/rss/u:jasdev/), and [Twitter](https://twitter.com/_substrate).
 
 ### External
 
