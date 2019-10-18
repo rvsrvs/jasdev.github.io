@@ -1,5 +1,5 @@
 ---
-layout: entry
+layout: note
 title: (un)zurry
 date: 2019-10-16
 ---
