@@ -61,7 +61,7 @@
 					<key>COMMAND_STRING</key>
 					<string>titleDate=`date +%-m/%-d/%Y`
 timestampDate=`date +%Y-%-m-%-d`
-template="---\nlayout: thought\ntitle: $titleDate\ndate: $timestampDate\n---\n\n"
+template="---\nlayout: entry\ntitle: $titleDate\ndate: $timestampDate\n---\n\n"
 echo -e $template &gt; ~/Projects/jasdev.github.io/_thoughts/${timestampDate}.md</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>

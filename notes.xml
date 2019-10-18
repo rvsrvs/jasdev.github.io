@@ -1,0 +1,32 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jasdev’s CT and F(R)P Diary</title>
+ <link href="{{ site.url }}{{ "/notes.xml" | relative_url }}" rel="self"/>
+ <link href="{{ site.url }}{{ "/notes" | relative_url }}"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}</id>
+ <author>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
+ </author>
+
+
+ {% assign sorted_entries = site.notes | sort: "date" | reverse %}
+ {% for entry in sorted_entries %}
+ {% if entry.title != "A CT and F(R)P Diary - Archive" %}
+ <entry>
+   <title>{{ entry.title }}</title>
+   <link href="{{ site.url }}{{ entry.url }}"/>
+   <updated>{{ entry.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ entry.url }}</id>
+   <content type="html">{{ entry.content | xml_escape }}</content>
+ </entry>
+ {% endif %}
+ {% endfor %}
+
+</feed>

@@ -12,14 +12,14 @@ plugins:
   - jekyll-seo-tag
 
 title:            'Distillations'
-description:      'A collection of posts on human behavior, technology, and engineering.'
+description:      'A collection of posts on mathematics, human behavior, and engineering.'
 url:              https://jasdev.me
 baseurl:          /
 
 author:
   name:           'Jasdev Singh'
   url:            https://jasdev.me
-  email:          jasdev@jasdev.me
+  email:          j@jasdev.me
   twitter:        jasdev
 
 twitter:
@@ -28,6 +28,12 @@ twitter:
 
 collections:
   thoughts:
+    output: true
+    permalink: /:collection/:name
+    defaults:
+      values:
+        layout: post
+  notes:
     output: true
     permalink: /:collection/:name
     defaults:

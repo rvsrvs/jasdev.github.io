@@ -15,6 +15,7 @@
         {% if node.layout == "page" and
            node.title != "thesis-redirect" and
            node.title != "Thoughts" and
+           node.title != "A CT and F(R)P Diary" and
            node.title != "It Takes a Village" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
