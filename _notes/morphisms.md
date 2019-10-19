@@ -1,0 +1,31 @@
+---
+layout: note
+title: “Oh, the morphisms you’ll see!”
+date: 2019-10-17
+---
+
+There are many prefixes placed in front of the word “morphism”—here’s a glossary of the ones I’ve seen so far:
+
+- [Epimorphism](https://en.wikipedia.org/wiki/Epimorphism)
+    - The categorical analog to surjectivity—the “epi” root connotes morphisms mapping “over” the entirety of the codomain. Bartosz covers this well in [lecture 2.1](https://youtu.be/O2lZkr-aAqk?t=2207) (timestamped) of Part I of his category theory course.
+- [Monomorphism](https://en.wikipedia.org/wiki/Monomorphism)
+    - Injectivity’s analog and epimorphism’s dual (it blew my mind to realize injectivity and surjectivity, two properties I never thought twice about, are duals). “Mono” in that it generalizes one-to-one functions. Bartosz also [mentions them in 2.1](https://youtu.be/O2lZkr-aAqk?t=2225).
+- [Bimorphism](https://en.wikipedia.org/wiki/Morphism#Some_specific_morphisms)
+    - “A morphism that is both an epimorphism and a monomorphism is called a bimorphism.”
+    - I don’t quite have the foundation needed to grok when a bimorphism _isn’t_ an isomorphism—maybe because I spend most of my time working in __Hask__ and __Swift__ (__Set__, in disguise) and Wikipedia mentions “a category, such as __Set__, in which every bimorphism is an isomorphism is known as a balanced category.” On the other hand, and I need to read more into what “split” means in the following, “while every isomorphism is a bimorphism, a bimorphism is not necessarily an isomorphism. For example, in the category of commutative rings the inclusion __Z__ ⇒ __Q__ is a bimorphism that is not an isomorphism. However, any morphism that is both an epimorphism and a split monomorphism, or both a monomorphism and a split epimorphism, must be an isomorphism.”
+- [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
+    - Show up all over mathematics. A morphism that “admits a two-sided inverse, meaning that there is another morphism in [the] category [at hand] such that [their forward and backward compositions emit identity arrows on the domain and codomain, respectively].” “Iso” for equal in the sense that if an isomorphism exists, there is an sort of sameness to the two objects.
+- [Endomorphism](https://en.wikipedia.org/wiki/Endomorphism)
+    - A morphism from an object onto itself that isn’t necessarily an identity arrow. “Endo” for “within” or “inner.” The prefix shed light on why the Point-Free folks [named functions in the form `(A) -> A`, `Endo<A>`](https://github.com/pointfreeco/swift-prelude/blob/536b8856e38853854b5c5689e5b5d06da75c992e/Sources/Prelude/Endo.swift). Looking at that file now, I wonder what the “i” in `imap` stands for and I may or may not have gotten nerd sniped into checking if `imap`’s definition shakes out from [`Func.dimap`](https://github.com/pointfreeco/swift-prelude/blob/536b8856e38853854b5c5689e5b5d06da75c992e/Sources/Prelude/Func.swift#L49-L51) when dealing with `Func<A, A>`s and  `Z == C == B` (the `B` being `imap`’s generic parameter). Looks like it does?…a few messages later and [Peter Tomaselli](https://github.com/peter-tomaselli) helped me out! The “i” stands for “invariant,” which reads nicely in that `imap`’s co- and contravariant parameters kind of cancel out to _invariance_.
+- [Automorphism](https://en.wikipedia.org/wiki/Automorphism)
+    - An isomorphic endomorphism. “Auto” for same or self.
+- [Homomorphism](https://en.wikipedia.org/wiki/Homomorphism)
+    - The star of algebra, a structure-preserving mapping between two algebraic structures. i.e. a homomorphism `f` on some structure with a binary operation, say `*`, will preserve it across the mapping—`f(a * b) = f(a) * f(b)`. I’ll cover the etymological relationship between “hom” and its appearances in category theory—[hom-sets](https://en.wikipedia.org/wiki/Morphism#Hom-set) and [hom-functors](https://en.wikipedia.org/wiki/Hom_functor)—that isn’t quite restricted to sets in the way algebra generally is in a future note.
+- [Homeomorphism](https://en.wikipedia.org/wiki/Homeomorphism)
+    - The one I’m least familiar with—in another life (or maybe later in this one), I want to dig into (algebraic) topology. Seems to be the topologist’s isomorphism (in the category __Top__).
+- [Catamorphism](https://en.wikipedia.org/wiki/Catamorphism), [Anamorphism](https://en.wikipedia.org/wiki/Anamorphism), and [Hylomorphism](https://en.wikipedia.org/wiki/Hylomorphism_(computer_science))
+    - I’ve only dealt with these three in the functional programming sense. Catamorphisms break down a larger structure into a reduced value (“cata” for “down”), anamorphisms build structure from a smaller set of values (“ana” for “up”), and hylomorphism is an ana- followed by a catamorphism (oddly, “hylo” stands for “matter” or “wood,” wat).
+    - I ran into catamorphism the other day when trying to put a name on a function in the form `((Left) -> T) -> ((Right) -> T) -> (Either<Left, Right>) -> T`. Turns out folks call this [`either`](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:either), [`analysis`](https://github.com/antitypical/Result/blob/c0838342cedfefc25f6dd4f95344d376bed582c7/Result/Result.swift#L104-L114), `converge`, or [`fold`](https://github.com/bow-swift/bow/blob/38e74949fb63736ce9c69c69ab66a4fc67a3b8e0/Sources/Bow/Data/Either.swift#L44-L55) (the last of which was somewhat surprising to me in that the [`Foldable`](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#t:Foldable) type class requires a monoidal instance, whereas this transformation doesn’t quite have the same requirement). This function is catamorphic in that it _reduces_ an `Either` into a `T`.
+    - `zip` is an example of an anamorphism that builds a `Zip2Sequence` from two `Sequence`s and by extension, [`zipWith`](https://github.com/pointfreeco/swift-prelude/blob/b26e98e82c7598fd5f381b3a27b59e27e312eb58/Sources/Prelude/Sequence.swift#L136-L145) is a hylomorphism that `zip`s and then reduces down to a summary value by a transformation.
+    - Hylomorphisms and `imap` both seem to be _compositions of dual transformations_. Wonder if this pattern pops up elsewhere?
+    
