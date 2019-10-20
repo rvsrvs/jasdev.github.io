@@ -8,7 +8,7 @@ Learning category theory often involves patiently sitting with a concept until i
 
 Grokking natural transformations went that way for me.
 
-I still remember the team lunch last spring where I couldn’t keep my excitement for the abstraction a secret and had to share with the everyone (I’m a blast at parties).
+I still remember the team lunch last spring where I couldn’t keep my excitement for the abstraction a secret and had to share with everyone (I’m a blast at parties).
 
 After mentioning the often-cited example of a natural transformation in engineering, [`Collection.first`](https://developer.apple.com/documentation/swift/collection/3017676-first) (a transformation between the `Collection` and `Optional` functors), a teammate asked me the question heading this note:
 
