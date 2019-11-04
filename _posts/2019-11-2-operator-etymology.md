@@ -291,7 +291,7 @@ It’s frequently argued that opting for original, mathematics-backed names for 
 
 And sure, when used excessively without proper introduction they can appear to be intellectual posturing.
 
-But, that’s speaks more to a potential mismatch between educational material and the assumed audience or a lack of proper onboarding.
+But, that speaks more to a potential mismatch between educational material and the assumed audience or a lack of proper onboarding.
 
 Because, [as Matt Parsons mentions](https://www.parsonsmatt.org/2019/08/30/why_functor_doesnt_matter.html):
 
@@ -301,9 +301,9 @@ Imagine if our community sidestepped “functor,” for example, and instead wen
 
 Two things would likely happen.
 
-We would likely confuse folks by tautologically pushing the definition of “to map” even further: “things that can be mapped are ‘mappable,’ wait, what _exactly_ does mapping mean?”
+We would confuse folks by tautologically pushing the definition of “to map” even further: “things that can be mapped are ‘mappable,’ wait, what _exactly_ does mapping mean?”
 
-Secondly,—and the counterintuitive bit—is that by not using commonplace terms, Swift would become an island relative to other communities and, in a sense, that’s gate-keeping others out while also cutting ourselves off from the decade’s worth of existing literature and adding translation overhead.
+Secondly,—and the counterintuitive bit—is that by not using commonplace terms, Swift would become an island relative to other communities and, in a sense, that’s gate-keeping others out while also cutting ourselves off from existing literature and adding translation overhead.
 
 ---
 
@@ -313,9 +313,9 @@ SwiftUI will require us think declaratively, instead of imperatively (à la UIKi
 
 In such settings, data flow can only reasonably be managed with functional reactive programming and Combine is now the provided tool of choice.
 
-As a community, these paradigms will require open-mindedness and following precedents set by decades-worth of research in the mathematics and functional programming communities.
+As a community, these paradigms will require open-mindedness and following precedents set by decades-worth of research in the mathematics and functional programming. Still, their previous learnings will be better appreciated if we start with the etymology.
 
-Still, their previous learnings will be better appreciated if we start with the etymology. Then, maybe years down the road, we’ll contribute back with new abstractions and help tell the story of their etymology to future engineers joining our community.
+Then, down the line, we’ll eventually contribute back with new abstractions and help tell the story of their etymology to future engineers when joining our community.
 
 ---
 
