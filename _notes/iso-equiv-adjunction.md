@@ -15,7 +15,7 @@ To start, assume we have two categories `C` and `D` with functors, `F` and `G` b
 
 There are a few possible scenarios we could find ourselves in.
 
-- Taking the round trip—i.e. `GF` and `FG`—are __equal__ to the identity functors on `C` and `D` (denoted with `1_C` and `1_D` below). 
+- Taking the round trip—i.e. `GF` and `FG`—is __equal__ to the identity functors on `C` and `D` (denoted with `1_C` and `1_D` below). 
 - The round trip is __isomorphic__ to each identity functor.
 - Or, the round trip lands us __a morphism away__ from where we started.
 
