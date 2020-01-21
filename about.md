@@ -17,7 +17,7 @@ I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikip
 One of the most impactful questions I’ve come across is “[what would you like to be known for](https://overcast.fm/+Fg9IeSC2o/0:37)?” Below is my answer to point out traits I try to express.
 
 - Making the world better through people.
-- A friend who loves infinitely, yet [challenges peers to grow](https://www.facebook.com/story.php?story_fbid=224735391342335&id=100014176268390).
+- A friend who loves infinitely, yet [challenges peers to grow](https://pinboard.in/u:jasdev/b:545f16fe01bd).
 - Someone who thinks aloud as a reminder that we often have similar, invisible wounds.
 
 ### Elsewhere
