@@ -24,5 +24,6 @@ One of the most impactful questions I’ve come across is “[what would you lik
 
 - [Twitter](https://twitter.com/jasdev).
 - [Pinboard](https://pinboard.in/u:jasdev) ([mirror](https://twitter.com/_substrate)).
+- [Email](mailto:j@jasdev.me).
 
 ![](/public/images/about-pic.png){: .center-image }
