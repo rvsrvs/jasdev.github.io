@@ -14,5 +14,4 @@ I love Pinboard. A few folks have mentioned that they enjoy my bookmark feed—s
 
 ### External
 
-- [Resume, 2020](/public/2020-resume.pdf).
 - [Featured Follow interview](https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq).
