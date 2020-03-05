@@ -21,20 +21,19 @@ First time here? Entries suffixed with an asterisk are some of my favorites.
     <a href="/notes">Technical diary*</a>
   </div>
   <div class="post-link">
-    <a href="https://pinboard.in/u:jasdev">Link blog*</a> (<a href="https://twitter.com/_substrate">mirror</a>)
+    <a href="https://pinboard.in/u:jasdev">Link blog*</a> (<a href="https://twitter.com/_substrate">Twitter mirror</a>)
   </div>
 
   <h3>Mathematics (and engineering)</h3>
-  <div class="post-link">
-    <a href="https://github.com/jasdev/18S097-swift">A Swift attempt at the <i>Programming with Categories</i> problem sets.</a>
-  </div>
-  
   {% assign technical = site.posts | where:"type","engineering" %}
   {% for post in technical %}
     <div class="post-link">
       <a href="{{ post.url }}">{{ post.title }}{% if post.highlighted %}*{% endif %}</a>
     </div>
   {% endfor %}
+  <div class="post-link">
+    <a href="https://github.com/jasdev/18S097-swift">A Swift attempt at the <i>Programming with Categories</i> problem sets.</a>
+  </div>
 
   <h3>Essays</h3>
   {% assign essays = site.posts | where:"type","essay" %}
