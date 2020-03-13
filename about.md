@@ -8,9 +8,9 @@ Hey! I’m Jasdev. Distillations is a little corner of the Internet where I put 
 
 ### About
 
-I’m an aspiring researcher and educator in New York. Outside of Distillations, I spend my time cycling (mostly indoors), [listening to dance music](https://soundcloud.com/jasdev-singh) (trance, melodic dubstep, progressive, deep, and tech house), and nerding out over poetry and math.
+I’m an aspiring educator and researcher in New York. Outside of Distillations, I spend my time running, [listening to dance music](https://soundcloud.com/jasdev-singh), and nerding out over poetry and mathematics.
 
-Currently, I spend my work days on [Peloton](https://www.onepeloton.com/)’s engineering team and previously did the same on [Tumblr](https://www.tumblr.com/) and [Imgur](https://imgur.com/)’s. Prior, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), Fitocracy, and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14). And in between, I took breaks to attend the [Recurse Center](https://www.recurse.com) (F1 ’15), Orbital’s [Engineering Management Studio](https://orbital.nyc/studios/) (Fall ’18), and [Advanced Functional Programming](http://afp.school) (Summer ’19).
+Currently, I’m second-timing it at the [Recurse Center](https://www.recurse.com) (earlier, F1 ’15) in their Spring 2, ’20 batch—the [first remote cohort](https://www.recurse.com/blog/152-RC-is-online-only-until-at-least-May). Prior, I spent three and a half years on [Peloton](https://www.onepeloton.com/)’s engineering team and previously worked on [Tumblr](https://www.tumblr.com/) and [Imgur](https://imgur.com/)’s. Before that, I interned at Twitter ([KPCB ’13](http://kpcbfellows.com/)), Fitocracy, and Microsoft while studying mathematics at [UVA](http://www.virginia.edu/) (SEAS ’14). And in between, I took breaks to attend Orbital’s [Engineering Management Studio](https://orbital.nyc/studios/) (Fall ’18) and [Advanced Functional Programming](http://afp.school) (Summer ’19).
 
 I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia).
 
