@@ -5,7 +5,7 @@ permalink: conditional-flatmap
 type: engineering
 ---
 
-(_Assumed audience_: folks with a working knowledge of reactive operators and type erasure. Familiarity with Combine isn’t necessary to read along.)
+(Assumed audience: folks with a working knowledge of reactive operators and type erasure. Familiarity with Combine isn’t needed to read along.)
 
 Let’s warm up[^1] with a shorter post, shall we?
 
@@ -25,9 +25,9 @@ The `else` clause is a reactive no-op we can replicate by `filter`ing out `false
 
 <script src="https://gist.github.com/jasdev/5c1316119e2f0f173dd0c7f68f3dba51.js"></script>
 
-A small trick to add to the tool belt. If you find yourself `Empty`ing out a sequence, it might be better to filter in on the conditions you’re considering, letting downstream lean on the precondition.
+A small trick to add to the tool belt. If you find yourself `Empty`ing out a sequence, it might be better to filter in on the conditions you’re considering, letting downstream lean on the checked precondition.
 
-This is a reactive parallel to `guard`ing out early.
+This is the reactive parallel to `guard`ing out early.
 
 ---
 
