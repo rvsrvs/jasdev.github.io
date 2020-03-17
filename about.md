@@ -14,7 +14,7 @@ Currently, I’m second-timing it at the [Recurse Center](https://www.recurse.co
 
 I’m originally from and grew up in [Fairfax Station, Virginia](http://en.wikipedia.org/wiki/Fairfax_Station,_Virginia).
 
-One of the most impactful questions I’ve come across is “[what would you like to be known for](https://overcast.fm/+Fg9IeSC2o/0:37)?” Below is my answer to point out traits I try to express.
+One of the most impactful questions I’ve come across is “what would you like to be known for?” Below is my answer to point out traits I try to express.
 
 - Making the world better through people.
 - A friend who loves infinitely, yet [challenges peers to grow](https://pinboard.in/u:jasdev/b:545f16fe01bd).
