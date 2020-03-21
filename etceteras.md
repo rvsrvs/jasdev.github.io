@@ -18,4 +18,4 @@ I’ve been running [a weekly(-ish and (very) informal) get-together](https://gi
 
 ### External
 
-- [Featured Follow interview](https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq).
+- [Featured Follow interview](https://medium.com/featuredfollow/featured-follow-jasdev-singh-2c5042abe3f6#.ve0gnopzq)

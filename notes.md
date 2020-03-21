@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A technical diary.
+title: A technical diary
 render_title: true
 ---
 
@@ -8,7 +8,7 @@ Notes on category theory, functional (reactive) programming, and other etceteras
 
 Here’s an [RSS feed](/notes.xml), for the nerds. <3
 
-- [All entries.](/notes/all)
+- [All entries](/notes/all)
 {% assign sorted_entries = site.notes | sort: "date" | reverse %}
 {% for entry in sorted_entries %}
 {% if entry.title != "Diary Archive" %}

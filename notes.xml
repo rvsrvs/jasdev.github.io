@@ -5,7 +5,7 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Jasdev’s technical diary.</title>
+ <title>Jasdev’s technical diary</title>
  <link href="{{ site.url }}{{ "/notes.xml" | relative_url }}" rel="self"/>
  <link href="{{ site.url }}{{ "/notes" | relative_url }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
