@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I’m Glad Twitter Doesn’t Allow Editing
+title: Why I’m glad Twitter doesn’t allow editing
 permalink: memory-reconsolidation
 type: interlude
 ---

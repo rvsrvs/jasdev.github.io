@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operator Etymology
+title: Operator etymology
 permalink: operators
 type: engineering
 ---

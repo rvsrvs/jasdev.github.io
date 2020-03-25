@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crafting Space to Be Ourselves
+title: Crafting space to be ourselves
 permalink: crafting-space
 highlighted: true
 type: essay

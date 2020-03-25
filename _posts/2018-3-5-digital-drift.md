@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Drift
+title: Digital drift
 permalink: digital-drift
 highlighted: true
 type: essay

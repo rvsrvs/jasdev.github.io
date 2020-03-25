@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Invisible Badges: Handling Long-Term Injuries"
+title: "Invisible badges: handling long-term injuries"
 permalink: injuries
 type: essay
 highlighted: true

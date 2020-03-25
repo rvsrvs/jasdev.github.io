@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intercepting iOS Network Traffic
+title: Intercepting iOS network traffic
 permalink: intercepting-ios-traffic
 type: interlude
 ---

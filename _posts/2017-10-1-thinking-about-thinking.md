@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking About Thinking
+title: Thinking about thinking
 permalink: thinking-about-thinking
 type: interlude
 ---

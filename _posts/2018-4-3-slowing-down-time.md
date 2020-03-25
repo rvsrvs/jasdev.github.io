@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slowing Down Time
+title: Slowing down time
 permalink: slowing-down-time
 highlighted: true
 type: essay

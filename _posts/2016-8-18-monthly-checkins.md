@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monthly Check-Ins
+title: Monthly check-ins
 permalink: monthly-checkins
 highlighted: true
 type: interlude

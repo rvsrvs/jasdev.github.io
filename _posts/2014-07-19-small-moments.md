@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Small Moments
+title: Small moments
 permalink: small-moments
 type: interlude
 ---

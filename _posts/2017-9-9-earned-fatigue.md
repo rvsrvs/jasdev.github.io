@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chasing Earned Fatigue
+title: Chasing earned fatigue
 permalink: earned-fatigue
 highlighted: true
 type: essay

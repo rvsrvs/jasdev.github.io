@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Interplay Between High-Cadence and Well-Formed Thoughts
+title: The interplay between high-cadence and well-formed thoughts
 permalink: high-cadence-versus-well-formed
 type: essay
 ---

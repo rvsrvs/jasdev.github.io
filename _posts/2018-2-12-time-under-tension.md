@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Under Tension
+title: Time under tension
 permalink: time-under-tension
 date: 2018-02-12 20:00:00
 type: essay

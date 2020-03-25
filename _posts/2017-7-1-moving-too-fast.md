@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are We Moving Too Fast?
+title: Are we moving too fast?
 permalink: moving-too-fast
 type: interlude
 ---

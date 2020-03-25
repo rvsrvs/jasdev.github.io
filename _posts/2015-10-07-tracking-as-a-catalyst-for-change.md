@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tracking as a Catalyst for Change
+title: Tracking as a catalyst for change
 permalink: tracking-as-a-catalyst-for-change
 type: interlude
 ---

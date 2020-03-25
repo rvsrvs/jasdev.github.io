@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case Closed&#58; A Dive into Open Enumerations
+title: Case closed&#58; a dive into open enumerations
 permalink: open-enums
 type: interlude
 ---

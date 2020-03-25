@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 257 Hours on the F Line
+title: 257 hours on the F Line
 permalink: commuting
 highlighted: true
 type: interlude

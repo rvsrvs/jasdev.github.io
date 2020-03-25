@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Managing My Pocket Queue
+title: Managing my Pocket queue
 permalink: managing-my-pocket-queue
 type: interlude
 ---

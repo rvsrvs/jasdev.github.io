@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TIL About @nonobjc
+title: TIL about @nonobjc
 permalink: when-to-use-nonobjc
 type: interlude
 ---

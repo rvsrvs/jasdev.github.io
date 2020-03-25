@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Forming Habits
+title: On forming habits
 permalink: on-forming-habits
 type: interlude
 ---

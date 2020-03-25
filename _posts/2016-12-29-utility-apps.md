@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Utility Apps
+title: Utility apps
 permalink: utility-apps
 type: interlude
 ---

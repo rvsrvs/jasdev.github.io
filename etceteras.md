@@ -6,7 +6,7 @@ render_title: true
 
 ### [Newsletter Archive](https://buttondown.email/distillations/archive)
 
-A space where I write between essays.
+A space where I write between entries.
 
 ### [Link Blog](/substrate)
 

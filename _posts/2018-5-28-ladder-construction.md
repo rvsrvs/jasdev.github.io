@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ladder Construction
+title: Ladder construction
 permalink: ladder-construction
 type: essay
 highlighted: true

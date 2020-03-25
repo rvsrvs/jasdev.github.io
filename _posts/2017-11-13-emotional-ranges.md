@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emotional Ranges: A Way to Think About Empathy"
+title: "Emotional ranges: a way to think about empathy"
 permalink: emotional-ranges
 highlighted: true
 type: essay

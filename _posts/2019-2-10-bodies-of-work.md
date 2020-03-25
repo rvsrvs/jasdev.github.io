@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bodies of Work
+title: Bodies of work
 permalink: bodies-of-work
 type: essay
 highlighted: true

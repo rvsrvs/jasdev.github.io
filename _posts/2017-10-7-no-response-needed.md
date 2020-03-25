@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No Response Needed
+title: No response needed
 permalink: no-response-needed
 type: essay
 ---

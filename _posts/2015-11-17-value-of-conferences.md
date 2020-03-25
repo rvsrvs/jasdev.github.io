@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Value of Conferences
+title: The value of conferences
 permalink: value-of-conferences
 type: interlude
 ---

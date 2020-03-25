@@ -12,7 +12,7 @@ plugins:
   - jekyll-seo-tag
 
 title:            'Distillations'
-description:      'A collection of personal essays and mathematics.'
+description:      'A collection of personal and technical writing.'
 url:              https://jasdev.me
 baseurl:          /
 

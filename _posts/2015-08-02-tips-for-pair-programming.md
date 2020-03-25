@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips for Pair Programming
+title: Tips for pair programming
 permalink: tips-for-pair-programming
 type: interlude
 ---

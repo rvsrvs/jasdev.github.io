@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Favorite Xcode Plugins and Tweaks
+title: My favorite Xcode plugins and tweaks
 permalink: xcode-plugins-and-tweaks
 type: interlude
 ---

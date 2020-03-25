@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nostalgia and Upper Bounds
+title: Nostalgia and upper bounds
 permalink: nostalgia
 highlighted: true
 type: essay

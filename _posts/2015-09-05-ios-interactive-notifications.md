@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Tour of iOS Interactive Notifications
+title: A tour of iOS interactive notifications
 permalink: ios-interactive-notifications
 type: interlude
 ---

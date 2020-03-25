@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiding Selector Methods
+title: Hiding selector methods
 permalink: private-selector-methods
 type: interlude
 ---

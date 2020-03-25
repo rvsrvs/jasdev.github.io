@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To My Unread Books
+title: To my unread books
 permalink: to-my-unread-books
 type: essay
 highlighted: true

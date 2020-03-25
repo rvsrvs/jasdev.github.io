@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finite Steps in Infinite Feeds: My Story with Information Overload"
+title: "Finite steps in infinite feeds: my story with information overload"
 permalink: infinite-feeds
 type: essay
 ---

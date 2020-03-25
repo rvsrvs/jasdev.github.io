@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Work and Loneliness
+title: Remote work and loneliness
 permalink: remote-work-and-loneliness
 type: interlude
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handing Off Public Extension
+title: Handing off public extension
 permalink: handing-off-public-extension
 type: interlude
 ---

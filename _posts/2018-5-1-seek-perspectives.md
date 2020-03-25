@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seek Perspectives, Not Mentors
+title: Seek perspectives, not mentors
 permalink: seek-perspectives
 type: essay
 ---

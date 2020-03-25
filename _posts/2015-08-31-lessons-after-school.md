@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lessons After College
+title: Lessons after college
 permalink: lessons-after-college
-type: essay
+type: interlude
 ---
 
 1 year, 3 months, and 13 days ago I graduated from college. I feel the transition from high school to college is openly discussed, but the following transition into the real world is not. Life after school has taught me a lot about myself and I am writing this post as a reflection on some of the lessons I have learned (a few the hard way).
@@ -17,7 +17,7 @@ It seriously does. People claim that college will be the best four years of your
 
 ## Mental Health Is Just as Important as Physical Health
 
-We tend to obsess over eating the right things, working out, and making healthier physical decisions. We need to do the same for our minds. Life after college is challenging. Find ways to be at ease with your mind and thoughts. [Meditate](https://www.headspace.com). [Track your mood](http://moodnotes.thriveport.com). Call an old friend who moved far away after graduation. FaceTime your parents and siblings. Smile while commuting to work. Say hi to a stranger. Or even see a psychiatrist every other week. Mental health is much easier to handle in a preventive fashion. It is not weird or a sign of failure to do these things. By learning to manage thoughts and emotions, mindfulness is worth its weight in gold.
+We tend to obsess over eating the right things, working out, and making healthier physical decisions. We need to do the same for our minds. Life after college is challenging. Find ways to be at ease with your mind and thoughts. [Meditate](https://www.headspace.com). [Track your mood](http://moodnotes.thriveport.com). Call an old friend who moved far away after graduation. FaceTime your parents and siblings. Smile while commuting to work. Say hi to a stranger. Mental health is much easier to handle in a preventive fashion. It is not weird or a sign of failure to do these things. By learning to manage thoughts and emotions, mindfulness is worth its weight in gold.
 
 In a previous [post about loneliness](http://jasdev.me/remote-work-and-loneliness). I failed to mention how normal these feelings are. This is especially true after graduation. You will be lonely at times in this new chapter. However, the irony of loneliness is that we all share it from time to time.
 

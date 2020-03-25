@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Attics and Service Shutdowns
+title: Digital attics and service shutdowns
 permalink: digital-attics
 type: essay
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Untaken Opportunities
+title: Untaken opportunities
 permalink: untaken-opportunities
 type: essay
 highlighted: true

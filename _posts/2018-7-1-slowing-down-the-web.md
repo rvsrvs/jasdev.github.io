@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slowing Down the Web
+title: Slowing down the web
 permalink: slowing-down-the-web
 type: essay
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ambient Intimacy
+title: Ambient intimacy
 permalink: ambient-intimacy
 highlighted: true
 type: essay

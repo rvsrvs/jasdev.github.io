@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Made Beds and Cold Showers
+title: Made beds and cold showers
 permalink: made-beds-and-cold-showers
 type: interlude
 ---

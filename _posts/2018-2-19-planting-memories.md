@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Planting Memories
+title: Planting memories
 permalink: planting-memories
 type: interlude
 ---

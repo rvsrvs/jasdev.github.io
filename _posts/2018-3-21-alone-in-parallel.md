@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alone in Parallel
+title: Alone in parallel
 permalink: alone-in-parallel
 type: essay
 ---

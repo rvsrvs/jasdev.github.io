@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pouring My Whole Self Into Work
+title: Pouring my whole self into work
 permalink: whole-self
 type: essay
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content Givers
+title: Content givers
 permalink: content-givers
 type: interlude
 ---

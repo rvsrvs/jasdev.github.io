@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peeling Off Labels
+title: Peeling off labels
 permalink: peeling-labels
 highlighted: true
 type: essay

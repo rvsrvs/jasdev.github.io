@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Always-On Conversations
+title: Always-on conversations
 permalink: always-on-conversations
 highlighted: true
 type: essay

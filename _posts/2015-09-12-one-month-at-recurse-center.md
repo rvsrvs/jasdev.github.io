@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Month at Recurse Center
+title: One month at Recurse Center
 permalink: one-month-at-recurse-center
 type: interlude
 ---

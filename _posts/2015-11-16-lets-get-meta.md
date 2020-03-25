@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let’s Get Meta&#58; Swift Metatypes and Cell Reuse
+title: Let’s get meta&#58; Swift metatypes and cell reuse
 permalink: lets-get-meta
 type: interlude
 ---

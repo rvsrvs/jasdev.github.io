@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily List
+title: Daily list
 permalink: daily-list
 type: interlude
 ---
