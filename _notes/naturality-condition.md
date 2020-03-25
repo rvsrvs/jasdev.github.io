@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Naturality Condition
+title: Naturality condition
 date: 2019-11-1
 ---
 

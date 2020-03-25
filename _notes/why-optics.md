@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Why Optics?
+title: Why optics?
 date: 2019-12-15
 ---
 

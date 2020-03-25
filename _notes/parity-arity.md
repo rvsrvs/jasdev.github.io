@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Parity and Arity
+title: Parity and arity
 date: 2020-3-17
 ---
 
