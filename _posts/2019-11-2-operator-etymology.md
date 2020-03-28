@@ -319,7 +319,7 @@ Then, down the line, we’ll eventually contribute back with new abstractions an
 
 ---
 
-## Related Reading and Footnotes
+## Related reading and footnotes
 
 [^1]: I recently came across [Ukelele](https://software.sil.org/ukelele/), a Unicode keyboard layout editor, which could help with inputting more-apt, yet physically-absent symbols.
 

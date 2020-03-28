@@ -50,7 +50,7 @@ In meatspace, there are no reconciliations, they happen naturally. Edges fade by
 
 Special thanks to [Can](https://twitter.com/can) and [Nikhil](https://twitter.com/nikillinit) for feedback on early drafts of this essay.
 
-## Footnotes and Related Reading:
+## Footnotes and related reading:
 
 ⇒ [The Social Graph Is Neither](https://blog.pinboard.in/2011/11/the_social_graph_is_neither/)
 

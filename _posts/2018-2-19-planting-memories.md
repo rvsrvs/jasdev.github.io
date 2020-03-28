@@ -35,7 +35,7 @@ The anchoring between memories and media is fascinating, whether physical (locat
 
 Special thanks to [Justin](https://twitter.com/justinmduke) for feedback on early drafts of this post.
 
-## Related Reading:
+## Related reading:
 
 - [Crying in Public](https://medium.com/@kraykray/crying-in-public-f6e573a79fd1)
 - [Photographic Memories](https://512pixels.net/2016/07/photographic-memories/)

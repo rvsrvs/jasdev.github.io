@@ -78,7 +78,7 @@ Our tour of new experiences, busy minds, and tempo has shown that the escalator 
 
 Special thanks to [Shiva](https://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
 
-## Related Reading:
+## Related reading:
 
 ⇒ “[Don’t Kill Time 2](http://nearthespeedoflight.com/article/2017_01_25_don___t_kill_time_2)”
 

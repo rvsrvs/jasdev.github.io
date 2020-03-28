@@ -47,7 +47,7 @@ It’s healthy to challenge whether or not traditional, apprentice-style mentors
 
 Special thanks to [Alice](http://twitter.com/alicexyr), [Shiva](http://twitter.com/ShivaKilaru), [Rosa](https://twitter.com/mcgeerosa), and [John](http://twitter.com/jxxf) for feedback on early drafts of this essay.
 
-## Related Reading and Footnotes:
+## Related reading and footnotes:
 
 ⇒ “[Have Some Coffee](https://medium.com/thelist/have-some-coffee-9e468d958e77)”
 

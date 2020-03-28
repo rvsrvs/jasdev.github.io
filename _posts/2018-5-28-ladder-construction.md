@@ -78,7 +78,7 @@ I’m shaping my intuition when it comes to this essay collection. While I’ve 
 
 Special thanks to [Gwen](https://twitter.com/purpleyay) and [Shiva](http://twitter.com/ShivaKilaru) for feedback on early drafts of this essay.
 
-## Related Reading:
+## Related reading:
 
 ⇒ “[Chasing Earned Fatigue](/earned-fatigue)”
 

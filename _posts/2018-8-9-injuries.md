@@ -58,7 +58,7 @@ I’m having trouble finding a thread through injured identities, incomparabilit
 
 Special thanks to [Taylor](https://twitter.com/jtaylorhodge) and [Vaibhav](https://twitter.com/vbhvsgr) for feedback on early drafts of this essay.
 
-## Related Reading and Footnotes
+## Related reading and footnotes
 
 ⇒ “[Infinite Exchange](http://davidmaisel.com/essays/infinite-exchange/)” (specifically, the excerpt on advanced scurvy and wound reappearance).
 

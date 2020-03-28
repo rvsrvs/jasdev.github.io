@@ -49,7 +49,7 @@ Our relationship with technology is usually metered by “time spent.“ 30 minu
 
 Special thanks to [Jason](http://twitter.com/jasonbrennan) for feedback on early drafts of this essay.
 
-## Related Reading and Footnotes
+## Related reading and footnotes
 
 ⇒ [A Ramble About the Slow Web](http://nearthespeedoflight.com/article/2018_06_04_a_ramble_about_the_slow_web)
 

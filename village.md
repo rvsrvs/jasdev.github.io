@@ -1,6 +1,6 @@
 ---
 layout: page
-title: It Takes a Village
+title: It takes a village
 render_title: true
 ---
 

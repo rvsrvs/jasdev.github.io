@@ -26,7 +26,7 @@ You can follow along via [Twitter](https://twitter.com/_substrate), [RSS](http:/
 
 ---
 
-## Related Reading
+## Related reading
 
 ⇒ “[Some Problems with Reposting](https://domhofmann.com/reposting.html)”
 

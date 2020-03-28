@@ -25,6 +25,6 @@ One of the most impactful questions I’ve come across is “what would you like
 - [Twitter](https://twitter.com/jasdev)
 - [Pinboard](https://pinboard.in/u:jasdev) ([Twitter mirror](https://twitter.com/_substrate))
 - [Resume](/public/2020-resume.pdf)
-- [Email](mailto:j@jasdev.me)
+- [Email](mailto:jasdev@jasdev.me)
 
 ![](/public/images/about-pic.png){: .center-image }
