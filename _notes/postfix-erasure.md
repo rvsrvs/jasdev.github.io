@@ -16,7 +16,7 @@ And I know operators are borderline #holy-war—still, if you’re open to them,
 
 It passes the three checks any operator should.
 
-- Does the operator overload an existing one in Swift? Nope ([bitwise XOR](https://docs.swift.org/swift-book/LanguageGuide/AdvancedOperators.html#ID33) is infix).
+- Does the operator overload an existing one in Swift? Thankfully not (since [bitwise XOR](https://docs.swift.org/swift-book/LanguageGuide/AdvancedOperators.html#ID33) is infix).
 - Does its shape convey its intent? To an extent! The caret hints at a sort of “lifting” and that’s what erasure is after all. Removing specific details, leaving behind a more general shape.
 - Does it have prior art? Yep.
 	- Bow defines one to [ease higher-kinded type emulation](https://bow-swift.io/docs/fp-concepts/higher-kinded-types/#casting-and-the--operator).
