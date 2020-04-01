@@ -27,7 +27,9 @@ Publishers in the framework bear two names:
 - Their [type-erased](https://developer.apple.com/documentation/combine/publishers/output/3241611-erasetoanypublisher) nickname, `AnyPublisher<Output, Failure>`.
 - Or, their fuller, non-erased names like `Publishers.Concatenate<Publishers.Map<Self, Sequence.Element>, Publishers.Sequence<Sequence, Failure>>`.
 
-Choosing between the two is nuanced.
+The erased and full names interact with chained operators in nuanced ways—e.g. how does `(1)` in the snippet below retain its type after mapping whereas `(2)` doesn’t?
+
+<script src="https://gist.github.com/jasdev/194004eaa530293f6322c75a8cea4830.js"></script>
 
 To illustrate the nuance and performance and aesthetic tradeoffs, let’s walk through an operator I’m [contributing](https://github.com/CombineCommunity/CombineExt/pull/7) to CombineExt—a community overlay of Combine extensions—, `Publisher.removeKnownDuplicates`[^1].
 
