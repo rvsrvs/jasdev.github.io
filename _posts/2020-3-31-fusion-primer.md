@@ -29,7 +29,7 @@ Publishers in the framework bear two names:
 
 Choosing between the two is nuanced.
 
-To illustrate the nuance, let’s walk through an operator I [contributed](https://github.com/CombineCommunity/CombineExt/pull/7) to CombineExt—a community overlay of Combine extensions—, `Publisher.removeKnownDuplicates`[^1].
+To illustrate the nuance, let’s walk through an operator I’m [contributing](https://github.com/CombineCommunity/CombineExt/pull/7) to CombineExt—a community overlay of Combine extensions—, `Publisher.removeKnownDuplicates`[^1].
 
 ## `Publisher.removeKnownDuplicates`
 
@@ -39,13 +39,13 @@ Combine ships with a three deduplicating operators:
 - [`.removeDuplicates(by:)`](https://developer.apple.com/documentation/combine/publisher/3204746-removeduplicates)
 - [`.tryRemoveDuplicates(by:)`](https://developer.apple.com/documentation/combine/publisher/3204777-tryremoveduplicates)
 
-They all nix _pairwise_ duplicates from an upstream publisher by comparing the previous and next value events along an `Equatable` conformance or (non-)throwing predicate. If they match, the value event will be consumed, if not, the event will be published downstream.
+They all nix _pairwise_ duplicates from an upstream publisher by comparing the previous and next value events along an `Equatable` conformance or (non-)throwing predicate. If they match, the value will be dropped, if not, it’ll be published downstream.
 
-But, what if we need district values across _all_ value events so far?
+But, what if we need distinct values across _all_ seen so far?
 
 That’s `removeKnownDuplicates`’s goal.
 
-Of course, this operator has a warning label. Deduplicating across known value events means the operator has to track distinct values in memory, which could be problematic for sequences that publish a high volume of unique elements. The operator can only free its resources after a [cancellation](https://developer.apple.com/documentation/combine/cancellable/3204391-cancel) or [completion event](https://developer.apple.com/documentation/combine/subscribers/completion).
+Of course, this operator has a warning label. Deduplicating across known value events means the operator has to track distinct values in memory, which can be problematic for sequences that publish a high number of unique elements. The operator can only free resources after a [cancellation](https://developer.apple.com/documentation/combine/cancellable/3204391-cancel) or [completion event](https://developer.apple.com/documentation/combine/subscribers/completion).
 
 We’ll focus in on a specific implementation constraining  `Publisher.Output` to `Hashable`[^2].
 
@@ -53,23 +53,15 @@ We’ll focus in on a specific implementation constraining  `Publisher.Output` t
 
 First, we need to record incoming value events and suppress those we’ve seen already. A rolling reduce[^3], in a sense. Turns out Combine has a [`scan` operator](https://developer.apple.com/documentation/combine/publisher/3229094-scan) that does just this.
 
-The operator accepts `initialResult` and `nextPartialResult` arguments (like its [`Sequence.reduce(_:_:)`](https://developer.apple.com/documentation/swift/sequence/2907677-reduce) sibling). We’ll chisel down `nextPartialResult`’s shape to inform `initialResult`’s.
+The operator accepts `initialResult` and `nextPartialResult` arguments (like its [`Sequence.reduce(_:_:)`](https://developer.apple.com/documentation/swift/sequence/2907677-reduce) sibling). We’ll chisel down `nextPartialResult`’s shape to infer `initialResult`’s.
 
 The goal is to both bookkeep values we’ve seen and determine if the next is unique. Maybe we can lean on `Output`’s `Hashable` conformance?
 
 We could store all value events in a `Set<Output>`, say under the variable name `seen`, and determine uniqueness with [`seen.insert(incoming).inserted`](https://developer.apple.com/documentation/swift/set/3128848-insert) (for an `incoming` value).
 
-It seems like `nextPartialResult` will need to bundle together `seen` and the next value to publish, if unique.
+So, `nextPartialResult` will need to bundle together `seen` and the next value to publish, if unique.
 
-(_Take a moment to think on this, if you don’t want the answer spoiled._)
-
-⋮
-
-⋮
-
-⋮
-
-A `(Set<Output>, Output?)` tuple would do the trick—which, then forces `initialResult`’s type and an initial value of `(Set<Output>(), Output?.none)`.
+And a `(Set<Output>, Output?)` tuple can do the trick—which, then forces `initialResult`’s type and an initial value of `(Set<Output>(), Output?.none)`.
 
 <script src="https://gist.github.com/jasdev/1c6f576a0b6ef709591c6ac96a04bb12.js"></script>
 
@@ -101,7 +93,7 @@ If you’ve been compiling along, here’s the remaining error:
 
 — — [Michael Scott](https://www.reddit.com/r/OutOfTheLoop/comments/3kyz8p/why_do_people_always_quote_things_with_michael/)
 
-There’s two-ish routes we can take (I’ll explain the “-ish” soon).
+There’s two-ish[^4] routes we can take (I’ll explain the “-ish” soon).
 
 ### Return the full type
 
@@ -127,9 +119,9 @@ Swapping out `AnyPublisher<Output, Failure>` for `some Publisher`
 
 Opaque return types are a sort of “[reverse generics](https://github.com/apple/swift-evolution/blame/53c2e80bdede03b99aee683fe6399b6e4cf0bf95/proposals/0244-opaque-result-types.md#L89-L107),” in that the _callee_ (`removeKnownDuplicate`’s implementation, in our case)—instead of the caller (`one`) determines the resulting type.
 
-There’s a cycle though. Our operator is stating it’s in control of the resulting type, covered by `some Publisher`, yet the associated type for the conformance `Output` is chosen by the caller, causing a stalemate.
+There’s a cycle though. Our operator is stating it’s in control of the resulting type, covered by `some Publisher`, yet the associated type for the `Publisher` conformance, `Output`, is chosen by the caller, causing a stalemate.
 
-This exceptional case is [tucked away](https://github.com/apple/swift-evolution/blame/53c2e80bdede03b99aee683fe6399b6e4cf0bf95/proposals/0244-opaque-result-types.md#L387-L403) in the evolution proposal. And that’s the “-ish” I hinted at above.
+This exceptional case is [tucked away](https://github.com/apple/swift-evolution/blame/53c2e80bdede03b99aee683fe6399b6e4cf0bf95/proposals/0244-opaque-result-types.md#L387-L403) in the backing evolution proposal. And that’s the “-ish” I hinted at above.
 
 ### Erase
 
@@ -147,15 +139,15 @@ Woah. `map` calls normally nest the upstream publisher a [`Publishers.Map`](http
 
 Fusion!
 
-Since `erasedRemoveKnownDuplicates` wipes the type information, Combine has no other choice than to wrap it in another intermediary. `Publishers.CompactMap` can specialize [its `map` implementation](https://developer.apple.com/documentation/combine/publishers/compactmap/3206027-map) by returning another instance of the same type, reducing overhead.
+Since `erasedRemoveKnownDuplicates` wipes the type information, Combine has no other choice than to wrap it in another intermediary. On the other hand, `Publishers.CompactMap` can specialize [its `map` implementation](https://developer.apple.com/documentation/combine/publishers/compactmap/3206027-map) by returning another instance of the same type, reducing overhead.
 
-We can’t peek behind Apple’s closed source. Still, we can guess at the implementation.
+We can’t peek behind Apple’s closed source. But, we can guess at the implementation.
 
 <script src="https://gist.github.com/jasdev/b5619cd756e23248b84fc12e7d92b4d2.js"></script>
 
 ## “[Tradeoffs] rule everything around me.”
 
-Fusion is wicked. However, it’s not always needed. We have to think about our publishers’s intended use, or at least guess when exposing a public-facing API.
+Fusion is wicked. However, it’s not always needed. We have to think about our publisher’s intended use, or at least guess when exposing a public-facing API.
 
 If the operator is meant to be used in-between other, chained operators, then it’s better to return the full type and let fusion happen.
 
@@ -165,7 +157,7 @@ However, if the publisher is meant to be used wholesale—i.e. its implementatio
 
 ⬦
 
-There you have it. We covered building our own, composed operator, type erasure, opaque return types, a few memes, and nuclear physics in under 1,500 words. Fusion always felt out of reach and writing this primer distilled it from orbit and into Combine and Swift for me.
+There you have it. We covered building our own composed operator, type erasure, opaque return types, a few memes, and nuclear physics in under 1,500 words. Fusion always felt out of reach and writing this primer distilled it from orbit and into Combine and Swift for me.
 
 I hope it does for others, too.
 
@@ -178,6 +170,8 @@ In short,
 
 ---
 
+Special thanks to [Peter](https://github.com/peter-tomaselli) for feedback on an early draft of this entry.
+
 ## Related reading, hat tips, and footnotes
 
 [^1]: I also implemented a predicate-based version `Publisher.removeKnownDuplicates(by:)` for when constraining `Output` to either `Equatable` or `Hashable` isn’t feasible.
@@ -185,6 +179,8 @@ In short,
 [^2]: An alternative, [`flatMap`-based implementation of `removeKnownDuplicates`](https://gist.github.com/jasdev/702d1e8fc7079ba42081b5d4f4868e20).
 
 [^3]: [`Publisher.reduce(_:_:)`](https://developer.apple.com/documentation/combine/publisher/3204744-reduce) and [`.tryReduce(_:_:)`](https://developer.apple.com/documentation/combine/publisher/3204776-tryreduce) are also provided. But, they only emit an accumulated result after upstream completes.
+
+[^4]: It could be argued that there are three-ish, if we consider introducing a `Publishers.RemoveKnownDuplicates` type. However, that’d preclude fusion from kicking in unless we repeated the work Apple did by extending our type with fused operators.
 
 ⇒ Thomas Visser’s “[Why Combine has so many `Publisher` types](https://www.thomasvisser.me/2019/07/04/combine-types/).”
 
