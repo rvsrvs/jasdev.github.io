@@ -18,7 +18,7 @@ One of the most impactful questions I’ve come across is “what would you like
 
 - Making the world better through people.
 - A friend who loves infinitely, yet [challenges peers to grow](https://pinboard.in/u:jasdev/b:545f16fe01bd).
-- Someone who thinks aloud as a reminder that we often have similar, invisible wounds.
+- Distilling researchers’ abstractions into implementations and prose for practitioners.
 
 ### Elsewhere
 
