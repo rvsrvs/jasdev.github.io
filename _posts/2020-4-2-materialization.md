@@ -5,7 +5,7 @@ permalink: materialization
 type: engineering
 ---
 
-(Assumed audience: folks with some familiarity of Combine’s [`Publisher` contract](https://developer.apple.com/documentation/combine/publisher).)
+(Assumed audience: folks with a working knowledge of Combine and the [`ObservableObject` protocol](https://developer.apple.com/documentation/combine/observableobject).)
 
 Materialization, like “[fusion](/fusion-primer)” and “[dual](/duals),” is a seemingly intimidating term for a not-so-intimidating concept.
 
@@ -97,17 +97,48 @@ Sadly, the compiler can’t reconcile the recursive constraint. We’ll need to 
 
 <script src="https://gist.github.com/jasdev/67dd1174dcc42cb7a18dcb1831451ef5.js"></script>
 
-In both `values` and `errors` we’ll wanna focus in on upstream `Event.value` and `.completion(.failure(_))`s, respectively. There’s a few ways we could go about doing this—e.g. filtering out other cases or compacting associated values à la Point-Free’s [enumeration properties](https://www.pointfree.co/episodes/ep52-enum-properties).
+In both `values` and `errors` we’ll wanna focus in on upstream `Event.value` and `.completion(.failure(_))`s, respectively. There’s a couple of ways we could go about this—e.g. filtering out other cases or compacting associated values à la Point-Free’s [enumeration properties](https://www.pointfree.co/episodes/ep52-enum-properties).
 
-The latter route is more fun—still, the former is as equally valid.
+The latter route is more fun—and of course, the former isn’t any less valid.
 
+To start, let’s add computed properties to `EventConvertible` to pluck out either an associated `Output` or `Failure` value.
 
+<script src="https://gist.github.com/jasdev/4269976ed2551c27639cbab081f921f5.js"></script>
 
-## “All together now (materializing and dematerializing)” — The Beatles, I think.
+These optional properties tee us up `Publisher.values` and `.errors` to `compactMap` them out.
 
-- Etymology
-- Prior art from `Result`
-- https://github.com/antitypical/Result/blob/c0838342cedfefc25f6dd4f95344d376bed582c7/Result/Result.swift#L228-L236
+<script src="https://gist.github.com/jasdev/8cbb99bb5fca5b12dfae49ce3df44a32.js"></script>
+
+## “All together now (materializing and dematerializing).” — The Beatles…I think.
+
+We’ve been walking along materialization’s perimeter, lifting and lowering sequences to and from their materialized forms, and you might be rightfully wondering, “[y tho?](https://knowyourmeme.com/memes/y-tho)”
+
+To answer that, let’s extend Point-Free’s example of [pinging `random.org`’s API to fetch a random integer](https://www.pointfree.co/episodes/ep42-the-many-faces-of-flat-map-part-1#t880).
+
+<script src="https://gist.github.com/jasdev/10432abe75d246f4b0dc3d9066f37287.js"></script>
+
+With `randomNumberPublisher` in hand, we can imagine a view model leaning on it to respond to pings to fetch a random number.
+
+<script src="https://gist.github.com/jasdev/b03a492f413d6da1f50bb6758870edbe.js"></script>
+
+Now’s let’s `send` on `randomNumberPing` a few times and see what happens.
+
+Giving the above a few (or many) runs will hint at what’s wrong. We’ll either see one (or two) received value events with even integers or, a _single_ error event. That is, if the first request errors out, we never attempt the second.
+
+<script src="https://gist.github.com/jasdev/53ccd1da979ba488a083ea6a62580b7c.js"></script>
+
+And while not ideal, it checks out that a failure in the first request would preclude attempting the second. The `Publisher` contract states that an error event ends a publisher from further emitting values, effectively rendering our `viewModel` instance above inert after a failure.
+
+It might be tempting to rework `RandomNumberViewModel.init` with error handling.
+
+<script src="https://gist.github.com/jasdev/d246ade5c20c6ad6a531fb3dbe42277e.js"></script>
+
+Then, well, we run into a problem. We have no way of disambiguating between an initial and error state, since they both bear `nil` values. Moreover, if we had more errors than `RandomDotOrgError.failedRequest`, we’d possibly squash them down into a single value.
+
+(De)materialization—as you probably guessed—has a say in this matter.
+
+<script src="https://gist.github.com/jasdev/7736fe314960abdb90c5da539c477469.js"></script>
+
 - Rx and ReactiveSwift’s Action
 	- https://github.com/ReactiveCocoa/ReactiveSwift/blob/e27ccdbf4ec36f154b60b91a0d7e0110c4e882cb/Documentation/FrameworkOverview.md#actions
 	- https://github.com/RxSwiftCommunity/Action
@@ -123,6 +154,6 @@ The latter route is more fun—still, the former is as equally valid.
 
 [^2]: No fret if you’re meeting `Never` for the first time. The NSHipster folks have [a fantastic entry](https://nshipster.com/never/) on the type.
 
-[^3]: If you’re open to operators, importing a Prelude of choice can rework the `catch` to [this form](https://gist.github.com/jasdev/2158a4605cf0d9df377a7602cc81a5ea).
+[^3]: If you’re open to operators, importing your Prelude of choice can rework the `catch` to [this form](https://gist.github.com/jasdev/2158a4605cf0d9df377a7602cc81a5ea).
 
 ⇒ 
