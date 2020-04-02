@@ -129,7 +129,7 @@ Fusion is wicked. However, it’s not always needed. We have to think about our 
 
 If the operator is meant to be used in between other, chained operators, then it’s better to return the full type and let fusion happen.
 
-However, if the publisher is meant to be used wholesale—i.e. its implementation covers all expected transformations—, then the aesthetic benefit of shorting to an `AnyPublisher` (or if possible, an opaque return type) is probably the way to go.
+However, if the publisher is meant to be used wholesale—i.e. its implementation covers all expected transformations—, then the aesthetic benefit of shortening to an `AnyPublisher` (or if possible, an opaque return type) is probably the way to go.
 
 <script src="https://gist.github.com/jasdev/363cb7268e93f75d45dc09a065b76eb9.js"></script>
 
