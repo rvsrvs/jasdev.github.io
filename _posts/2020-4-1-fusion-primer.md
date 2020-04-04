@@ -141,8 +141,20 @@ I hope it does for others, too.
 
 In short,
 
-- Try an opaque result type first. If you run into compiler snags—likely from your publisher being used as an intermediary—then return its full type to still benefit from fusion’s optimizations.
-- Else, if the above fails or your publisher ends a chain, reach for erasure.
+- if your operator is an intermediary, try to return its full type to benefit from fusion’s optimizations.
+- if your publisher ends a chain, lean on either an opaque return type or erasure, in that order.
+
+### Updates:
+
+#### 4/4/20:
+
+[Tim](https://twitter.com/tim_vermeulen) followed up and asked a question I should’ve covered more directly,
+
+> I was hoping to also read _why_ Combine fuses operators, any idea?
+> 
+> I get that it simplifies types, but I have no reason to assume that that gains you anything at runtime […]
+
+Sans working at Apple or poking at the framework with performance tests, it’s hard to tell. But, my guess is [back pressure](https://developer.apple.com/documentation/combine/processing_published_elements_with_subscribers) handling. Each intermediary `Publisher` conformance likely has its own buffering mechanism and fusion removes redundant overhead in honoring downstream subscribers’ demand.
 
 ■
 
