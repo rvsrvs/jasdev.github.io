@@ -17,7 +17,7 @@ After learning about `setOutputType` from [Adam](https://twitter.com/sharplet) a
 
 This is *almost* the case! Let’s spin up a playground to see why—also, `map`ping out of a `Never` surprisingly has mathematics behind it that I’ll cover, too.
 
-A way to `Never` out a publisher is [ignoring its output](https://developer.apple.com/documentation/combine/publisher/3204714-ignoreoutput). Doing so turns itz into a “[completable](https://github.com/ReactiveX/RxSwift/blob/002d325b0bdee94e7882e1114af5ff4fe1e96afa/Documentation/Traits.md#completable)” that only notifies downstream of `Subscribers.Completion<Failure>.finished` or `.failure` events.
+A way to `Never` out a publisher is [ignoring its output](https://developer.apple.com/documentation/combine/publisher/3204714-ignoreoutput). Doing so turns it into a “[completable](https://github.com/ReactiveX/RxSwift/blob/002d325b0bdee94e7882e1114af5ff4fe1e96afa/Documentation/Traits.md#completable)” that only notifies downstream of `Subscribers.Completion<Failure>.finished` or `.failure` events.
 
 <script src="https://gist.github.com/jasdev/1e7d5fa1c097e001f206ae190c20915b.js"></script>
 
