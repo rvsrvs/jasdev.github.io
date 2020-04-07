@@ -27,13 +27,13 @@ This compiles‽
 
 If you scratched your head at this, don’t worry. I did, too.
 
-That’s the magic `setFailureType` generalizes and tucks away. In fact, we can _prove_ that somewhere in Apple’s closed source implementation, they too call `{ _ -> NewError in }` for some generic failure type, `NewError`.
+That’s the magic `setFailureType` generalizes and tucks away. In fact, we can _prove_ that somewhere in Combine’s closed source, Apple calls `{ _ -> NewError in }` for some generic failure type, `NewError`.
 
 Before we do, it’s natural to ask if `Publisher`’s other associated type, [`Output`](https://developer.apple.com/documentation/combine/publisher/3204681-output), has the same affordance.
 
 ![](/public/images/search_for_set_output_type.png)
 
-Whelp. Time to write our own (!).
+Whelp—time to write our own (!).
 
 ## `Publisher.setOutputType(to:)`
 
@@ -55,7 +55,7 @@ We did this often at Peloton.
 
 Our API had a notion of “workout finalization,” after which, a workout’s metrics would be min-max’d, summed, averaged, and cleaned before reporting secondary statistics like achievements and streaks.
 
-So, we’d usually ignore the output of the publisher backing the finalization request and then, if successful, concatenate another publisher—of a _different_ output type—to fetch any finalization-dependent metadata.
+So, we’d ignore the output of the publisher backing the finalization request and then, if successful, concatenate another publisher—of a _different_ output type—to fetch any finalization-dependent metadata.
 
 Some issues shake out when mirroring this in the above gist by `append`ing another element.
 
@@ -73,13 +73,7 @@ The first isn’t possible by extension of `Never` being uninhibited, the second
 
 We need to map `Never` into another type and that’s where `setOutputType` fits.
 
-To start, let’s scope the implementation to `String`s.
-
-<script src="https://gist.github.com/jasdev/56d4602fca5171095900eeb345d55288.js"></script>
-
-([Gist permalink](https://gist.github.com/jasdev/56d4602fca5171095900eeb345d55288).)
-
-Providing a `(Never) -> String` function is parallel to our earlier `mapError`’ing.
+To start, let’s scope the implementation by providing a `(Never) -> String` function like we did in our earlier `mapError`’ing.
 
 <script src="https://gist.github.com/jasdev/eb6aed4b28648890b42bac1695eed8ca.js"></script>
 
@@ -105,9 +99,9 @@ Combine ships with overloads of `ignoreOutput` for specific publishers to keep `
 
 ## `setFailureType(to:)` and initial objects
 
-You might’ve noticed—it’s okay, if you didn’t (!)—that `setOutputType`’s implementation is kind of “forced” by the compiler to a lone `map` call (sans possibly sprinkling `print`s, `fatalError`s, or other statements around).
+You might’ve noticed—it’s okay, if you didn’t—that `setOutputType`’s implementation is kind of “forced” by the compiler to a lone `map` call (sans possibly sprinkling `print`s, `fatalError`s, or other statements around).
 
-If we tried to implement our own `setFailureType` operator, we’d be similarly guided along the error track.
+If we tried to implement our own `setFailureType` operator, we’d be similarly guided.
 
 <script src="https://gist.github.com/jasdev/85b093150c8e9399da7edc5fe62b2d00.js"></script>
 
@@ -119,7 +113,7 @@ And if you’re thinking that’s too much of a coincidence to not scratch a lar
 
 The concept is the `(Never) -> NewOutput`, `(Never) -> NewFailure`, or more generally, `(Never) -> T` closures for an arbitrary type, `T`. No matter which `T` you have in hand, the only way to map from `Never` to it is our new friend `{ _ -> T in }`.
 
-Put another way, there is a unique `(Never) -> T` closure per `T` in Swift’s type system—making `Never` a “starting point” each type can be uniquely mapped from.
+Put another way, there is a _unique_ `(Never) -> T` closure per `T` in Swift’s type system—making `Never` a “starting point” each type can be uniquely mapped from.
 
 Mathematicians call such starting points [initial objects](https://en.wikipedia.org/wiki/Initial_and_terminal_objects).
 
@@ -129,7 +123,7 @@ In their words,
 
 Replacing _C_ with Swift[^1], _I_ with `Never`, _X_ with `T`, and “morphism” with “closure,” it’s fair to say `Never` is an initial object.
 
-Further, since there is a _unique_ closure from `Never` to any other type, that means Apple’s implementation of `setFailureType`—somewhere underneath the [`Publishers.SetFailureType`](https://developer.apple.com/documentation/combine/publishers/setfailuretype) hood—contains that `mapError { _ -> NewFailure in }` call.
+Further, since there is a unique closure from `Never` to any other type, that means Apple’s implementation of `setFailureType`—somewhere underneath the [`Publishers.SetFailureType`](https://developer.apple.com/documentation/combine/publishers/setfailuretype) hood—contains that `mapError { _ -> NewFailure in }` call.
 
 Which is wicked because even though Combine is closed-source, initiality (i.e. `Never` being an initial object) forces the implementation. 
 
@@ -137,7 +131,7 @@ Which is wicked because even though Combine is closed-source, initiality (i.e. `
 
 `setOutputType`’s single expression definition packs almost a thousand words-worth of detail behind its signature and usage.
 
-Further, `Never` is only one side of the coin. Can you think of a type in the Standard Library that has a unique closure returning it? That is, which type, `???`, in Swift has a unique function `(T) -> ???`, per type `T`?
+Further, `Never` is only one side of the coin. Can you think of a type in the Standard Library that has unique closures _towards_ it? That is, which type, `???`, in Swift has a unique function `(T) -> ???`, per type `T`?
 
 It’s a fun exercise to think on.
 
