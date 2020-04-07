@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Materialization
-permalink: materialization
+title: A materialization primer
+permalink: materialization-primer
 type: engineering
 ---
 
@@ -137,12 +137,27 @@ Then, well, we run into a problem. We have no way of disambiguating between an i
 
 (De)materialization—as you probably guessed—has a say in this matter.
 
+First, let’s upgrade `RandomNumberViewModel.randomNumber` from an `Int?` to a type that better relays error and loading states.
+
+<script src="https://gist.github.com/jasdev/432803d9002fec10d46272aad29e430a.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/432803d9002fec10d46272aad29e430a).)
+
+And then, leaning on `DataLoadState` and wiring everything up.
+
 <script src="https://gist.github.com/jasdev/7736fe314960abdb90c5da539c477469.js"></script>
 
-- Rx and ReactiveSwift’s Action
-	- https://github.com/ReactiveCocoa/ReactiveSwift/blob/e27ccdbf4ec36f154b60b91a0d7e0110c4e882cb/Documentation/FrameworkOverview.md#actions
-	- https://github.com/RxSwiftCommunity/Action
-	- There’s a gap here that we’ll likely need to fill in over at `CombineCommunity`
+([Gist permalink](https://gist.github.com/jasdev/7736fe314960abdb90c5da539c477469#file-random_number_view_model_materialized-swift).)
+
+- ContentView.
+- GIF of interaction.
+- Segue to prior art
+	- It’s…a lot to do this `materialize`-`share`-`values`-`errors` dance every time.
+	- Rx and ReactiveSwift’s Action
+		- https://github.com/ReactiveCocoa/ReactiveSwift/blob/e27ccdbf4ec36f154b60b91a0d7e0110c4e882cb/Documentation/FrameworkOverview.md#actions
+		- https://github.com/RxSwiftCommunity/Action
+		- There’s a gap here that we’ll likely need to fill in over at `CombineCommunity`
+- Backfill gist permalinks.
 
 ■
 
