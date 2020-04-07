@@ -13,7 +13,7 @@ When I first encountered the word, I thought it was over the top. And it kind of
 
 ⬦
 
-## <[aliens_guy](https://knowyourmeme.com/memes/ancient-aliens)>Errors as values</aliens_guy>
+## <[aliens-guy](https://knowyourmeme.com/memes/ancient-aliens)>Errors as values</aliens-guy>
 
 We’ll often need publishers to drive client-side errors views—which, seem at odds with Combine’s `Publisher` contract:
 
@@ -41,6 +41,8 @@ I’ll need to properly introduce our new friend, `Event`. It’s an enumeration
 
 <script src="https://gist.github.com/jasdev/5afdb2544530745ea0749e9093dec063.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/5afdb2544530745ea0749e9093dec063).)
+
 It’s also worth noting our older friend[^2], `Never` prevents the transformed publisher from error’ing out.
 
 This is all sounds nice and well. But, [what’s the point](https://www.pointfree.co/episodes/ep0-we-launched#t92)?
@@ -57,6 +59,8 @@ We have two options: lean on existing operators or sketch out our own `Publisher
 
 <script src="https://gist.github.com/jasdev/b334cdb3c79efc50fef555b223df5cdd.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/b334cdb3c79efc50fef555b223df5cdd).)
+
 Now, we an start chaining operators, case by `Event` case.
 
 Values? We need to box ‘em into `Event.value`.
@@ -65,13 +69,19 @@ Leaning on Swift’s generation of static, embedding functions for each case. i.
 
 <script src="https://gist.github.com/jasdev/cf5e768834e68c678585f6c8941d8c59.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/cf5e768834e68c678585f6c8941d8c59).)
+
 `Completion.finished`s? Well, we need a way of silencing upstream’s finished event and then turning around and publishing an `Event.completion(.finished)`. Thankfully, the framework ships with a few [`.append(_:)`](https://developer.apple.com/documentation/combine/publisher/3204683-append) overloads.
 
 <script src="https://gist.github.com/jasdev/5e6cbd30c78cbf5a9b5a83e4d822cc82.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/5e6cbd30c78cbf5a9b5a83e4d822cc82).)
+
 And lastly, (and densely[^3]), catching error events.
 
 <script src="https://gist.github.com/jasdev/b83638fe55a0ca4aebfa4a689fff71e6.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/b83638fe55a0ca4aebfa4a689fff71e6).)
 
 That’s a lot to digest—let’s recap (and maybe take some Tums).
 
@@ -93,9 +103,13 @@ To start, we might be tempted to extend `Publisher` with an `‌Output == Event<
 
 <script src="https://gist.github.com/jasdev/a80b24f64cbc4c90e54d898bae9f02a7.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/a80b24f64cbc4c90e54d898bae9f02a7).)
+
 Sadly, the compiler can’t reconcile the recursive constraint. We’ll need to introduce an intermediary protocol, `EventConvertible`, [following Rx’s lead](https://github.com/ReactiveX/RxSwift/blob/9b31a15520306b073cb9d46456f64826c1d6dcab/RxSwift/Event.swift#L92-L109).
 
 <script src="https://gist.github.com/jasdev/67dd1174dcc42cb7a18dcb1831451ef5.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/67dd1174dcc42cb7a18dcb1831451ef5).)
 
 In both `values` and `errors` we’ll wanna focus in on upstream `Event.value` and `.completion(.failure(_))`s, respectively. There’s a couple of ways we could go about this—e.g. filtering out other cases or compacting associated values à la Point-Free’s [enumeration properties](https://www.pointfree.co/episodes/ep52-enum-properties).
 
@@ -105,9 +119,13 @@ To start, let’s add computed properties to `EventConvertible` to pluck out eit
 
 <script src="https://gist.github.com/jasdev/4269976ed2551c27639cbab081f921f5.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/4269976ed2551c27639cbab081f921f5).)
+
 These optional properties tee us up `Publisher.values` and `.errors` to `compactMap` them out.
 
 <script src="https://gist.github.com/jasdev/8cbb99bb5fca5b12dfae49ce3df44a32.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/8cbb99bb5fca5b12dfae49ce3df44a32).)
 
 ## “All together now (materializing and dematerializing).” — The Beatles…I think.
 
@@ -117,9 +135,13 @@ To answer that, let’s extend Point-Free’s example of [pinging `random.org`�
 
 <script src="https://gist.github.com/jasdev/10432abe75d246f4b0dc3d9066f37287.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/10432abe75d246f4b0dc3d9066f37287).)
+
 With `randomNumberPublisher` in hand, we can imagine a view model leaning on it to respond to pings to fetch a random number.
 
 <script src="https://gist.github.com/jasdev/b03a492f413d6da1f50bb6758870edbe.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/b03a492f413d6da1f50bb6758870edbe).)
 
 Now’s let’s `send` on `randomNumberPing` a few times and see what happens.
 
@@ -127,11 +149,15 @@ Giving the above a few (or many) runs will hint at what’s wrong. We’ll eithe
 
 <script src="https://gist.github.com/jasdev/53ccd1da979ba488a083ea6a62580b7c.js"></script>
 
+([Gist permalink](https://gist.github.com/jasdev/53ccd1da979ba488a083ea6a62580b7c).)
+
 And while not ideal, it checks out that a failure in the first request would preclude attempting the second. The `Publisher` contract states that an error event ends a publisher from further emitting values, effectively rendering our `viewModel` instance above inert after a failure.
 
 It might be tempting to rework `RandomNumberViewModel.init` with error handling.
 
 <script src="https://gist.github.com/jasdev/d246ade5c20c6ad6a531fb3dbe42277e.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/d246ade5c20c6ad6a531fb3dbe42277e).)
 
 Then, well, we run into a problem. We have no way of disambiguating between an initial and error state, since they both bear `nil` values. Moreover, if we had more errors than `RandomDotOrgError.failedRequest`, we’d possibly squash them down into a single value.
 
@@ -149,26 +175,50 @@ And then, leaning on `DataLoadState` and wiring everything up.
 
 ([Gist permalink](https://gist.github.com/jasdev/7736fe314960abdb90c5da539c477469#file-random_number_view_model_materialized-swift).)
 
-- ContentView.
-- GIF of interaction.
-- Segue to prior art
-	- It’s…a lot to do this `materialize`-`share`-`values`-`errors` dance every time.
-	- Rx and ReactiveSwift’s Action
-		- https://github.com/ReactiveCocoa/ReactiveSwift/blob/e27ccdbf4ec36f154b60b91a0d7e0110c4e882cb/Documentation/FrameworkOverview.md#actions
-		- https://github.com/RxSwiftCommunity/Action
-		- There’s a gap here that we’ll likely need to fill in over at `CombineCommunity`
-- Backfill gist permalinks.
+Let’s take a breather. That was a ton of scaffolding to climb through, but, now it’ll pay off. We can sketch out a sample `ContentView` against `RandomNumberViewModel` with a button to fire off requests, honor loading states, and present a sheet with either a random number or error in under 30 lines (including new lining and the like).
+
+<script src="https://gist.github.com/jasdev/68a3968a5b96b471c7d1020dce9439cb.js"></script>
+
+([Gist permalink](https://gist.github.com/jasdev/68a3968a5b96b471c7d1020dce9439cb).)
+
+In GIF action,
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2ly2tf0" data-context="false" ><a href="//imgur.com/a/2ly2tf0">Sample `ContentView` using `RandomNumberViewModel`.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+([Image permalink](https://imgur.com/a/2ly2tf0).)
+
+## Prior art
+
+You’re probably—and rightfully—thinking that performing the `materialize`-`share`-`values`-`errors` dance on every `ObservableObject` conformance is going to be…a lot.
+
+The community agrees. Thankfully, we can stand on their shoulders. In the past, folks have abstracted away materialization under a higher-level type called `Action`.
+
+It comes in a few flavorings:
+
+- [ReactiveSwift’s](https://github.com/ReactiveCocoa/ReactiveSwift/blob/e27ccdbf4ec36f154b60b91a0d7e0110c4e882cb/Documentation/FrameworkOverview.md#actions),
+- [Rx’s](https://github.com/RxSwiftCommunity/Action),
+- and [ReactiveCocoa 2.0’s](https://github.com/ReactiveCocoa/ReactiveObjC/blob/1af6617f007cae727dce48d2031cc1e66d06f04a/Documentation/FrameworkOverview.md#commands).
+
+Each exposes observables and signals (other readings of “publishers”) [like `Action.errors`, `.elements`, and `.executing`](https://github.com/RxSwiftCommunity/Action/blob/d1d01df963d9704bc728e9d6ffa1f775d6ade168/Sources/Action/Action.swift#L33-L40) corresponding to `DataLoadState`, above.
+
+…is there a Combine `Action` analog?
+
+Stay tuned, [Adam Sharp](http://twitter.com/sharplet) has something in the works [over at `thoughtbot/CombineAction`](https://github.com/thoughtbot/CombineAction).
 
 ■
 
 ---
 
-## Footnotes and related reading
+##  Related reading and footnotes
 
 [^1]: I’ll have some more writing on this, soon. Until then, Brian Beckman and Erik Meijer’s [’09 Expert to Expert session](https://www.youtube.com/watch?v=looJcaeboBY) is worth the time.
 
 [^2]: No fret if you’re meeting `Never` for the first time. The NSHipster folks have [a fantastic entry](https://nshipster.com/never/) on the type.
 
-[^3]: If you’re open to operators, importing your Prelude of choice can rework the `catch` to [this form](https://gist.github.com/jasdev/2158a4605cf0d9df377a7602cc81a5ea).
+[^3]: If you’re open to operators, importing your Prelude of choice can rework the `catch` to [this form](https://gist.github.com/jasdev/2158a4605cf0d9df377a7602cc81a5ea#file-materialize_with_operators-swift-L38-L40).
 
-⇒ 
+⇒ Shai’s [implementation of materialization](https://github.com/CombineCommunity/CombineExt/blob/f2346434e2cb5486ffcaf8c1f88285d3538ca5fd/Sources/Operators/Materialize.swift).
+
+⇒ “[TIL about `Publishers.MergeMany.init`](/notes/merge-many)”
+
+⇒ “[Postfix type erasure](/notes/postfix-erasure)”
