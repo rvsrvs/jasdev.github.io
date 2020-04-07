@@ -6,7 +6,7 @@ title: Diary Archive
 
 {% assign sorted_entries = site.notes | sort: "date" | reverse %}
 
-(Note: This is my technical diary, a place where I exhale from longer-form work. There will likely be typos, mistakes, or wider logical leaps since I’m writing for myself—the intent is to learn in public. <3)
+(Note: these are entries from my technical diary. There will likely be typos, mistakes, or wider logical leaps—the intent here is to “[[let] others look over my shoulder while I figure things out.](https://austinkleon.com/2015/06/14/to-be-a-teacher-and-remain-a-student/)”)
 
 <hr>
 
